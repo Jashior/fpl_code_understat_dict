@@ -68,6 +68,7 @@ axios
                 FPL_ID_2023_24: id,
                 Team_2023_24: teamName,
               };
+              console.log(`New data: ${JSON.stringify(newData)}`);
               existingData.push(newData);
             }
           }
