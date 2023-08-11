@@ -486,10 +486,10 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 204676,Andi Zeqiri,Zeqiri,9099,Andi Zeqiri,155,Brighton
 223434,Igor Julio dos Santos de Paulo,Igor,7943,Igor Julio,606,Brighton
 578614,Enock Agyei,Agyei,,,156,Burnley
-487968,Ameen Al-Dakhil,Al-Dakhil,,,157,Burnley
+487968,Ameen Al-Dakhil,Al-Dakhil,11699,Ameen Al Dakhil,157,Burnley
 189776,Samuel Bastien,Bastien,1343,Samuel Bastien,158,Burnley
 183751,Manuel Benson Hedilazio,Benson,7383,Josh Benson,159,Burnley
-241231,Jordan Beyer,Beyer,,,160,Burnley
+241231,Jordan Beyer,Beyer,6557,Louis Beyer,160,Burnley
 172782,Josh Brownhill,Brownhill,8323,Josh Brownhill,161,Burnley
 250735,Darko Churlinov,Churlinov,7790,Darko Churlinov,162,Burnley
 40145,Jack Cork,Cork,712,Jack Cork,163,Burnley
@@ -502,7 +502,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 60586,Jóhann Berg Gudmundsson,Gudmundsson,1663,Johann Berg Gudmundsson,170,Burnley
 483391,Luke McNally,McNally,,,171,Burnley
 232917,Arijanet Muric,Muric,,,172,Burnley
-216616,Dara O'Shea,O'Shea,,,173,Burnley
+216616,Dara O'Shea,O'Shea,8756,Dara O'Shea,173,Burnley
 220598,Michael Obafemi,Obafemi,6504,Michael Obafemi,174,Burnley
 220037,Bailey Peacock-Farrell,Peacock-Farrell,8482,Bailey Peacock-Farrell,175,Burnley
 192290,Connor Roberts,Roberts,5568,Connor Roberts,176,Burnley
@@ -511,10 +511,10 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 461102,Bobby Thomas,Thomas,,,179,Burnley
 226473,Scott Twine,Twine,,,180,Burnley
 133085,Lawrence Vigouroux,Vigouroux,,,181,Burnley
-441455,Victor da Silva,Vitinho,,,182,Burnley
-511783,Anass Zaroury,Zaroury,,,184,Burnley
-492831,Zeki Amdouni,Amdouni,,,594,Burnley
-432720,James Trafford,Trafford,,,596,Burnley
+441455,Victor da Silva,Vitinho,11700,Vitinho,182,Burnley
+511783,Anass Zaroury,Zaroury,11703,Anass Zaroury,184,Burnley
+492831,Zeki Amdouni,Amdouni,11701,Zeki Amdouni,594,Burnley
+432720,James Trafford,Trafford,9077,James Trafford,596,Burnley
 487702,Luca Koleosho,Koleosho,10620,Luca Koleosho,605,Burnley
 179458,Jacob Bruun Larsen,Bruun Larsen,5355,Jacob Bruun Larsen,608,Burnley
 118335,Abdul Rahman Baba,Baba,684,Abdul Rahman Baba,190,Chelsea

@@ -35,8 +35,15 @@ axios
 
         // Process each element
         elements.forEach((element) => {
-          const { code, first_name, second_name, web_name, id, team_code } =
-            element;
+          const {
+            code,
+            first_name,
+            second_name,
+            web_name,
+            id,
+            team_code,
+            minutes,
+          } = element;
           const fplName = `${first_name} ${second_name}`;
           const teamName = team_codes[team_code] || ""; // Get the team name or use an empty string
 
@@ -51,6 +58,13 @@ axios
             existingPlayer.Web_Name = web_name;
             existingPlayer.FPL_ID_2023_24 = id;
             existingPlayer.Team_2023_24 = teamName;
+
+            // Check if the player has over 0 minutes and no Understat_ID
+            if (minutes > 0 && !existingPlayer.Understat_ID) {
+              console.log(
+                `Player ${fplName} (${web_name}, ${teamName}) has over 0 minutes but no Understat_ID (${minutes} mins).`
+              );
+            }
           } else {
             // Check if the player code already exists in the CSV
             const playerExistsInCSV = existingData.some(
@@ -68,7 +82,9 @@ axios
                 FPL_ID_2023_24: id,
                 Team_2023_24: teamName,
               };
-              console.log(`New data: ${JSON.stringify(newData)}`);
+              console.log(
+                `New data: ${JSON.stringify(newData)} (${minutes} mins).`
+              );
               existingData.push(newData);
             }
           }
