@@ -83,7 +83,7 @@ axios
                 Team_2023_24: teamName,
               };
               console.log(
-                `New data: ${FPL_Name} (${web_name}, ${Team_2023_24}) (${minutes} mins).`
+                `New data: ${fplName} (${web_name}, ${teamName}) (${minutes} mins).`
               );
               existingData.push(newData);
             }

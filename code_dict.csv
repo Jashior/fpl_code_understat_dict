@@ -524,9 +524,9 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 213198,Christopher Nkunku,Nkunku,3300,Christopher Nkunku,212,Chelsea
 471798,Gabriel Słonina,Slonina,,,215,Chelsea
 518620,Ângelo Gabriel Borges Damaceno,Ângelo,,,589,Chelsea
-441302,Ian Maatsen,Maatsen,,,609,Chelsea
+441302,Ian Maatsen,Maatsen,11807,Ian Maatsen,609,Chelsea
 220362,Axel Disasi,Disasi,6885,Axel Disasi,611,Chelsea
-503714,Lesley Ugochukwu,Ugochukwu,,,613,Chelsea
+503714,Lesley Ugochukwu,Ugochukwu,9451,Chimuanya Ugochukwu,613,Chelsea
 512462,Jake O'Brien,O'Brien,,,235,Crystal Palace
 536694,Matheus França de Oliveira,Matheus França,,,615,Crystal Palace
 222627,João Neves Virgínia,J.Virginia,8366,João Virgínia,266,Everton
@@ -656,3 +656,4 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 538210,Andre Brooks,Brooks,11731,Andre Brooks,655,Sheffield Utd
 487836,Antwoine Hackford,Hackford,9222,Antwoine Hackford,656,Sheffield Utd
 447879,Joseph Anang,Anang,,,647,West Ham
+482158,Lucas Bergström,Bergström,,,659,Chelsea
