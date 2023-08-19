@@ -104,7 +104,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 128295,Christian Nørgaard,Nørgaard,7083,Christian Nørgaard,110,Brentford
 428580,Frank Onyeka,Onyeka,9681,Frank Onyeka,111,Brentford
 231065,Ethan Pinnock,Pinnock,9678,Ethan Pinnock,112,Brentford
-154561,David Raya Martin,Raya,9676,David Raya,113,Brentford
+154561,David Raya Martin,Raya,9676,David Raya,113,Arsenal
 226956,Mads Roerslev Rasmussen,Roerslev,9685,Mads Roerslev,114,Brentford
 513418,Kevin Schade,Schade,9156,Kevin Schade,115,Brentford
 140200,Thomas Strakosha,Strakosha,1214,Thomas Strakosha,116,Brentford
@@ -115,7 +115,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 235382,Steven Alzate,Alzate,8020,Steven Alzate,123,Brighton
 509416,Yasin Ayari,Ayari,11385,Yasin Ayari,124,Brighton
 536916,Facundo Buonanotte,Buonanotte,11362,Facundo Buonanotte,125,Brighton
-486672,Moisés Caicedo Corozo,Caicedo,9453,Moisés Caicedo,126,Brighton
+486672,Moisés Caicedo Corozo,Caicedo,9453,Moisés Caicedo,126,Chelsea
 83299,Lewis Dunk,Dunk,6048,Lewis Dunk,129,Brighton
 474120,Julio Enciso,Enciso,11058,Julio Enciso,130,Brighton
 204214,Pervis Estupiñán,Estupiñan,5136,Estupiñán,131,Brighton
@@ -226,7 +226,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 212314,Saša Lukić,Lukić,1537,Sasa Lukic,276,Fulham
 120721,Kevin Mbabu,Mbabu,983,Kevin Mbabu,277,Fulham
 128389,Aleksandar Mitrović,Mitrović,773,Aleksandar Mitrovic,278,Fulham
-244042,Rodrigo Muniz Carvalho,Muniz,,,279,Fulham
+244042,Rodrigo Muniz Carvalho,Muniz,10717,Rodrigo Muniz,279,Fulham
 154296,João Palhinha Gonçalves,J.Palhinha,10715,João Palhinha,280,Fulham
 82514,Tim Ream,Ream,7184,Tim Ream,281,Fulham
 153366,Harrison Reed,Reed,910,Harrison Reed,282,Fulham
@@ -238,7 +238,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 153682,Harry Wilson,Wilson,5596,Harry Wilson,288,Fulham
 60706,Adrián San Miguel del Castillo,Adrián,527,Adrián,289,Liverpool
 169187,Trent Alexander-Arnold,Alexander-Arnold,1791,Trent Alexander-Arnold,290,Liverpool
-116535,Alisson Ramses Becker,Alisson,1257,Alisson,291,Liverpool
+116535,Alisson Ramses Becker,A.Becker,1257,Alisson,291,Liverpool
 535928,Stefan Bajcetic,Bajcetic,10723,Stefan Bajcetic,292,Liverpool
 447203,Darwin Núñez Ribeiro,Darwin,10720,Darwin Núñez,293,Liverpool
 194634,Diogo Teixeira da Silva,Diogo J.,6854,Diogo Jota,294,Liverpool
@@ -530,7 +530,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 512462,Jake O'Brien,O'Brien,,,235,Crystal Palace
 536694,Matheus França de Oliveira,Matheus França,,,615,Crystal Palace
 222627,João Neves Virgínia,J.Virginia,8366,João Virgínia,266,Everton
-232892,Calvin Bassey,Bassey,,,610,Fulham
+232892,Calvin Bassey,Bassey,11728,Calvin Bassey,610,Fulham
 424876,Dominik Szoboszlai,Szoboszlai,9788,Dominik Szoboszlai,309,Liverpool
 174310,Elijah Adebayo,Adebayo,11718,Elijah Adebayo,314,Luton
 208904,Mads Juel Andersen,Andersen,11715,Mads Andersen,315,Luton
@@ -590,7 +590,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 226182,Jayden Bogle,Bogle,9205,Jayden Bogle,476,Sheffield Utd
 195473,Rhian Brewster,Brewster,5569,Rhian Brewster,477,Sheffield Utd
 476938,Ismaila Coulibaly,Coulibaly,,,478,Sheffield Utd
-102549,Adam Davies,Davies,,,479,Sheffield Utd
+102549,Adam Davies,A.Davies,,,479,Sheffield Utd
 108416,John Egan,Egan,7703,John Egan,480,Sheffield Utd
 47247,John Fleck,Fleck,7709,John Fleck,481,Sheffield Utd
 82143,Wes Foderingham,Foderingham,8776,Wes Foderingham,482,Sheffield Utd
@@ -657,3 +657,11 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 487836,Antwoine Hackford,Hackford,9222,Antwoine Hackford,656,Sheffield Utd
 447879,Joseph Anang,Anang,,,647,West Ham
 482158,Lucas Bergström,Bergström,,,659,Chelsea
+550839,Wilson Odobert,Odobert,10822,Wilson Odobert,660,Burnley
+514356,Roméo Lavia,Lavia,10004,Romeo Lavia,667,Chelsea
+221399,Jack Harrison,Harrison,8720,Jack Harrison,661,Everton
+159533,Adama Traoré,Adama,900,Adama Traoré,662,Fulham
+20480,Tim Krul,Krul,982,Tim Krul,665,Luton
+196100,Gustavo Hamer,Hamer,11839,Gustavo Hamer,663,Sheffield Utd
+173807,Tom Davies,T.Davies,1042,Tom Davies,666,Sheffield Utd
+101178,James Ward-Prowse,Ward-Prowse,843,James Ward-Prowse,664,West Ham
