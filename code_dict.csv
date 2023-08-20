@@ -620,7 +620,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 501284,Michale Olakigbe,Olakigbe,,,620,Brentford
 532529,Jack Hinshelwood,Hinshelwood,11269,Jack Hinshelwood,621,Brighton
 461567,Owen Dodgson,Dodgson,,,622,Burnley
-534392,Mason Burstow,Burstow,,,623,Chelsea
+534392,Mason Burstow,Burstow,11810,Mason Burstow,623,Chelsea
 461421,Lewis Dobbin,Dobbin,10027,Lewis Dobbin,624,Everton
 547686,Luc De Fougerolles,De Fougerolles,,,625,Fulham
 441428,Jarell Quansah,Quansah,,,626,Liverpool
@@ -639,7 +639,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 491279,Micky van de Ven,Van de Ven,10050,Micky van de Ven,639,Spurs
 490145,Dane Scarlett,Scarlett,9332,Dane Scarlett,640,Spurs
 536908,Alejo Véliz,Veliz,,,641,Spurs
-213999,Edson Álvarez Velázquez,Álvarez,,,642,West Ham
+213999,Edson Álvarez Velázquez,Álvarez,11926,Edson Álvarez,642,West Ham
 232980,Max Aarons,Aarons,7688,Max Aarons,643,Bournemouth
 503139,Alex Scott,Scott,,,644,Bournemouth
 491012,Youssef Ramalho Chermiti,Y. Chermiti,,,645,Everton
@@ -667,3 +667,5 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 101178,James Ward-Prowse,Ward-Prowse,843,James Ward-Prowse,664,West Ham
 158983,Wataru Endo,Endo,8808,Wataru Endo,668,Liverpool
 477733,Radek Vítek,Vítek,,,669,Man Utd
+462381,Filip Marschall,Marschall,,,670,Aston Villa
+461188,Bashir Humphreys,Humphreys,,,671,Chelsea
