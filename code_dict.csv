@@ -28,7 +28,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 84450,Granit Xhaka,Xhaka,204,Granit Xhaka,30,Arsenal
 206325,Oleksandr Zinchenko,Zinchenko,2958,Oleksandr Zinchenko,31,Arsenal
 106468,Alexandre Moreno Lopera,Alex Moreno,4120,Álex Moreno,32,Aston Villa
-433979,Cameron Archer,Archer,9912,Cameron Archer,33,Aston Villa
+433979,Cameron Archer,Archer,9912,Cameron Archer,33,Sheffield Utd
 215711,Leon Bailey,Bailey,5221,Leon Bailey,34,Aston Villa
 195546,Emiliano Buendía Stati,Buendia,2203,Emiliano Buendía,35,Aston Villa
 199796,Matty Cash,Cash,8864,Matthew Cash,36,Aston Villa
@@ -141,7 +141,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 50175,Danny Welbeck,Welbeck,501,Danny Welbeck,154,Brighton
 120202,Wout Weghorst,Weghorst,7052,Wout Weghorst,183,Burnley
 199598,Ethan Ampadu,Ampadu,6369,Ethan Ampadu,185,Chelsea
-532605,Andrey Nascimento dos Santos,Andrey,,,186,Chelsea
+532605,Andrey Nascimento dos Santos,Andrey,,,186,Nott'm Forest
 109745,Kepa Arrizabalaga,Arrizabalaga,5061,Kepa,187,Chelsea
 54694,Pierre-Emerick Aubameyang,Aubameyang,318,Pierre-Emerick Aubameyang,188,Chelsea
 41328,César Azpilicueta,Azpilicueta,681,César Azpilicueta,189,Chelsea
@@ -482,7 +482,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 168090,Mahmoud Dahoud,Dahoud,205,Mahmoud Dahoud,128,Brighton
 475168,João Pedro Junqueira de Jesus,João Pedro,8272,João Pedro,135,Brighton
 442229,Michał Karbownik,Karbownik,,,136,Brighton
-489639,Bart Verbruggen,Verbruggen,,,152,Brighton
+489639,Bart Verbruggen,Verbruggen,11711,Bart Verbruggen,152,Brighton
 204676,Andi Zeqiri,Zeqiri,9099,Andi Zeqiri,155,Brighton
 223434,Igor Julio dos Santos de Paulo,Igor,7943,Igor Julio,606,Brighton
 578614,Enock Agyei,Agyei,,,156,Burnley
@@ -623,7 +623,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 534392,Mason Burstow,Burstow,11810,Mason Burstow,623,Chelsea
 461421,Lewis Dobbin,Dobbin,10027,Lewis Dobbin,624,Everton
 547686,Luc De Fougerolles,De Fougerolles,,,625,Fulham
-441428,Jarell Quansah,Quansah,,,626,Liverpool
+441428,Jarell Quansah,Quansah,10187,Jarell Quansah,626,Liverpool
 491970,Bobby Clark,Clark,10997,Bobby Clark,627,Liverpool
 496208,Ben Doak,Doak,11231,Ben Doak,628,Liverpool
 491501,James McConnell,McConnell,,,629,Liverpool
@@ -642,7 +642,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 213999,Edson Álvarez Velázquez,Álvarez,11926,Edson Álvarez,642,West Ham
 232980,Max Aarons,Aarons,7688,Max Aarons,643,Bournemouth
 503139,Alex Scott,Scott,,,644,Bournemouth
-491012,Youssef Ramalho Chermiti,Y. Chermiti,,,645,Everton
+491012,Youssef Ramalho Chermiti,Y. Chermiti,11984,Youssef Chermiti,645,Everton
 463748,Karl Hein,Hein,,,646,Arsenal
 450542,Jesurun Rak-Sakyi,Rak-Sakyi,9461,Jesurun Rak-Sakyi,657,Crystal Palace
 461382,John-Kymani Gordon,Gordon,,,658,Crystal Palace
@@ -671,6 +671,19 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 461188,Bashir Humphreys,Humphreys,,,671,Chelsea
 245414,Nicolò Zaniolo,Zaniolo,6686,Nicolo Zaniolo,672,Aston Villa
 200785,Tyler Adams,Adams,7352,Tyler Adams,673,Bournemouth
-247245,Hannes Delcroix,Delcroix,,,674,Burnley
-447715,Aaron Ramsey,A.Ramsey,,,675,Burnley
+247245,Hannes Delcroix,Delcroix,11998,Hannes Delcroix,674,Burnley
+447715,Aaron Ramsey,A.Ramsey,9913,Aaron Ramsey,675,Burnley
 233963,Konstantinos Mavropanos,Mavropanos,6722,Konstantinos Mavropanos,676,West Ham
+516159,Oliwier Zych,Zych,,,686,Aston Villa
+494041,Ethan Brierley,Brierley,,,684,Brentford
+617054,Deivid Washington de Souza Eugênio,Deivid,,,677,Chelsea
+474803,Eddie Beach,Beach,,,680,Chelsea
+491011,Diego Manuel Jadon da Silva Moreira,Diego Moreira,,,681,Chelsea
+457569,Djordje Petrovic,Petrovic,,,687,Chelsea
+515024,Luke Harris,Harris,10719,Luke Harris,683,Fulham
+166477,Timothy Castagne,Castagne,6157,Timothy Castagne,688,Fulham
+611011,Joseph Johnson,Johnson,,,682,Luton
+248875,Jérémy Doku,Doku,8981,Jéremy Doku,678,Man City
+504598,Daniel Gore,Gore,,,685,Man Utd
+218430,Gonzalo Montiel,G.Montiel,9897,Gonzalo Montiel,679,Nott'm Forest
+460842,Mohammed Kudus,Kudus,,,689,West Ham
