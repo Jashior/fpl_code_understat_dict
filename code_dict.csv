@@ -566,7 +566,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 476369,Issa Kaboré,Kaboré,9619,Issa Kabore,602,Luton
 54738,Thomas Kaminski,Kaminski,11712,Thomas Kaminski,614,Luton
 477555,Oscar Bobb,Bobb,11903,Oscar Bobb,345,Man City
-220394,Tommy Doyle,Doyle,,,351,Wolves
+220394,Tommy Doyle,Doyle,8496,Tommy Doyle,351,Wolves
 477424,Joško Gvardiol,Gvardiol,9790,Josko Gvardiol,616,Man City
 515501,Álvaro Fernández Carreras,Fernandez,,,380,Man Utd
 465527,Hannibal Mejbri,Hannibal,9558,Hannibal Mejbri,383,Man Utd
@@ -581,7 +581,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 168547,Ethan Horvath,Horvath,,,449,Nott'm Forest
 201440,Hwang Ui-jo,Ui-jo,7746,Hwang Ui-Jo,466,Nott'm Forest
 159506,Olu Aina,Aina,725,Ola Aina,604,Nott'm Forest
-201410,Auston Trusty,Trusty,,,27,Sheffield Utd
+201410,Auston Trusty,Trusty,11732,Auston Trusty,27,Sheffield Utd
 233821,Anel Ahmedhodžić,Ahmedhodžić,10386,Anel Ahmedhodžić,471,Sheffield Utd
 538206,Jordan Amissah,Amissah,,,472,Sheffield Utd
 82691,George Baldock,Baldock,7706,George Baldock,473,Sheffield Utd
@@ -617,7 +617,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 138001,Tom King,King,,,564,Wolves
 549068,Omari Kellyman,Kellyman,,,618,Aston Villa
 474772,Ben Greenwood,Greenwood,,,619,Bournemouth
-501284,Michale Olakigbe,Olakigbe,11487,Michael Olakigbe,620,Brentford
+501284,Michael Olakigbe,Olakigbe,11487,Michael Olakigbe,620,Brentford
 532529,Jack Hinshelwood,Hinshelwood,11269,Jack Hinshelwood,621,Brighton
 461567,Owen Dodgson,Dodgson,,,622,Burnley
 534392,Mason Burstow,Burstow,11810,Mason Burstow,623,Chelsea
@@ -702,3 +702,17 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 37642,Jonny Evans,Evans,807,Jonny Evans,703,Man Utd
 548308,Ashley Phillips,Phillips,,,702,Spurs
 531363,Nathan Fraser,Fraser,,,704,Wolves
+224995,Luis Sinisterra,Sinisterra,10866,Luis Sinisterra,705,Bournemouth
+437748,Mike Trésor,M.Trésor,12094,Mike Trésor,706,Burnley
+514280,Alfie Gilchrist,Gilchrist,,,716,Chelsea
+517996,Ronnie Stutter,Stutter,,,717,Chelsea
+519198,Alex Matos,Matos,,,718,Chelsea
+225897,Fodé Ballo-Touré,Ballo-Touré,,,707,Fulham
+441266,Ryan Gravenberch,Gravenberch,10697,Ryan Gravenberch,708,Liverpool
+172912,Sofyan Amrabat,Amrabat,7927,Sofyan Amrabat,709,Man Utd
+111452,Odysseas Vlachodimos,Odysseas,,,710,Nott'm Forest
+466404,Andrew Omobamidele,Omobamidele,9833,Andrew Omobamidele,711,Nott'm Forest
+250199,Nicolás Domínguez,Dominguez,8252,Nicolás Domínguez,712,Nott'm Forest
+210462,Ibrahim Sangaré,Sangaré,5722,Ibrahim Sangare,713,Nott'm Forest
+152760,Divock Origi,Origi,484,Divock Origi,714,Nott'm Forest
+231057,Jean-Ricner Bellegarde,Bellegarde,7762,Jean-Ricner Bellegarde,715,Wolves
