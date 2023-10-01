@@ -570,7 +570,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 477424,Joško Gvardiol,Gvardiol,9790,Josko Gvardiol,616,Man City
 515501,Álvaro Fernández Carreras,Fernandez,,,380,Man Utd
 465527,Hannibal Mejbri,Hannibal,9558,Hannibal Mejbri,383,Man Utd
-244856,Teden Mengi,Mengi,,,393,Luton
+244856,Teden Mengi,Mengi,12073,Teden Mengi,393,Luton
 202641,André Onana,Onana,10913,André Onana,597,Man Utd
 497894,Rasmus Højlund,Højlund,11055,Rasmus Højlund,617,Man Utd
 153127,Isaac Hayden,Hayden,6062,Isaac Hayden,413,Newcastle
@@ -638,7 +638,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 424001,Vini de Souza Costa,Vini Souza,10872,Vinicius Souza,638,Sheffield Utd
 491279,Micky van de Ven,Van de Ven,10050,Micky van de Ven,639,Spurs
 490145,Dane Scarlett,Scarlett,9332,Dane Scarlett,640,Spurs
-536908,Alejo Véliz,Veliz,,,641,Spurs
+536908,Alejo Véliz,Veliz,12105,Alejo Véliz,641,Spurs
 213999,Edson Álvarez Velázquez,Álvarez,11926,Edson Álvarez,642,West Ham
 232980,Max Aarons,Aarons,7688,Max Aarons,643,Bournemouth
 503139,Alex Scott,Scott,,,644,Bournemouth
@@ -716,3 +716,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 210462,Ibrahim Sangaré,Sangaré,5722,Ibrahim Sangare,713,Nott'm Forest
 152760,Divock Origi,Origi,484,Divock Origi,714,Nott'm Forest
 231057,Jean-Ricner Bellegarde,Bellegarde,7762,Jean-Ricner Bellegarde,715,Wolves
+447261,Mackenzie Hunt,Hunt,,,719,Everton
+531993,Ademola Ola-Adebomi,Ola-Adebomi,,,720,Crystal Palace
+531989,David Ozoh,Ozoh,11268,David Ozoh,721,Crystal Palace
+513588,Jamie Donley,Donley,,,722,Spurs
