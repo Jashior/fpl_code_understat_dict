@@ -476,7 +476,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 544877,Milos Kerkez,Kerkez,11709,Milos Kerkez,595,Bournemouth
 215531,Ionuț Radu,Radu,1830,Ionut Radu,607,Bournemouth
 118342,Mark Flekken,Flekken,7047,Mark Flekken,101,Brentford
-508395,Yegor Yarmolyuk,Yarmolyuk,,,120,Brentford
+508395,Yegor Yarmolyuk,Yarmolyuk,11772,Yehor Yarmolyuk,120,Brentford
 535818,Simon Adingra,Adingra,11710,Simon Adingra,122,Brighton
 233425,Aaron Connolly,Connolly,7991,Aaron Connolly,127,Brighton
 168090,Mahmoud Dahoud,Dahoud,205,Mahmoud Dahoud,128,Brighton
@@ -528,7 +528,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 220362,Axel Disasi,Disasi,6885,Axel Disasi,611,Chelsea
 503714,Lesley Ugochukwu,Ugochukwu,9451,Chimuanya Ugochukwu,613,Chelsea
 512462,Jake O'Brien,O'Brien,,,235,Crystal Palace
-536694,Matheus França de Oliveira,Matheus França,,,615,Crystal Palace
+536694,Matheus França de Oliveira,Matheus França,12152,Matheus França,615,Crystal Palace
 222627,João Neves Virgínia,J.Virginia,8366,João Virgínia,266,Everton
 232892,Calvin Bassey,Bassey,11728,Calvin Bassey,610,Fulham
 424876,Dominik Szoboszlai,Szoboszlai,9788,Dominik Szoboszlai,309,Liverpool
@@ -641,7 +641,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 536908,Alejo Véliz,Veliz,12105,Alejo Véliz,641,Spurs
 213999,Edson Álvarez Velázquez,Álvarez,11926,Edson Álvarez,642,West Ham
 232980,Max Aarons,Aarons,7688,Max Aarons,643,Bournemouth
-503139,Alex Scott,Scott,,,644,Bournemouth
+503139,Alex Scott,Scott,12149,Alex Scott,644,Bournemouth
 491012,Youssef Ramalho Chermiti,Y. Chermiti,11984,Youssef Chermiti,645,Everton
 463748,Karl Hein,Hein,,,646,Arsenal
 450542,Jesurun Rak-Sakyi,Rak-Sakyi,9461,Jesurun Rak-Sakyi,657,Crystal Palace
@@ -724,3 +724,8 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 570241,Ji-Soo Kim,Kim Ji-Soo,,,725,Brentford
 474908,Jadan Raymond,Raymond,,,724,Crystal Palace
 462491,Luke Chambers,Chambers,,,726,Liverpool
+519328,Callum Scanlon,Scanlon,,,728,Liverpool
+60252,Andros Townsend,Townsend,775,Andros Townsend,727,Luton
+608060,Jayden Luker,Luker,,,729,Luton
+585472,Ryan Oné,Oné,,,730,Sheffield Utd
+601496,Jili Buyabu,Buyabu,,,731,Sheffield Utd
