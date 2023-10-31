@@ -141,7 +141,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 50175,Danny Welbeck,Welbeck,501,Danny Welbeck,154,Brighton
 120202,Wout Weghorst,Weghorst,7052,Wout Weghorst,183,Burnley
 199598,Ethan Ampadu,Ampadu,6369,Ethan Ampadu,185,Chelsea
-532605,Andrey Nascimento dos Santos,Andrey,,,186,Nott'm Forest
+532605,Andrey Nascimento dos Santos,Andrey,11808,Andrey Santos,186,Nott'm Forest
 109745,Kepa Arrizabalaga,Arrizabalaga,5061,Kepa,187,Chelsea
 54694,Pierre-Emerick Aubameyang,Aubameyang,318,Pierre-Emerick Aubameyang,188,Chelsea
 41328,César Azpilicueta,Azpilicueta,681,César Azpilicueta,189,Chelsea
@@ -548,7 +548,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 174595,Admiral Muskwe,Muskwe,,,327,Luton
 229164,Chiedozie Ogbene,Ogbene,11719,Chiedozie Ogbene,328,Luton
 168035,Fred Onyedinma,Onyedinma,,,329,Luton
-199056,Gabriel Osho,Osho,,,330,Luton
+199056,Gabriel Osho,Osho,12151,Gabriel Osho,330,Luton
 490180,Aribim Pepple,Pepple,,,331,Luton
 243532,Dion Pereira,Pereira,5559,Dion Pereira,332,Luton
 108411,Dan Potts,Potts,,,333,Luton
@@ -676,7 +676,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 233963,Konstantinos Mavropanos,Mavropanos,6722,Konstantinos Mavropanos,676,West Ham
 516159,Oliwier Zych,Zych,,,686,Aston Villa
 494041,Ethan Brierley,Brierley,,,684,Brentford
-617054,Deivid Washington de Souza Eugênio,Deivid,,,677,Chelsea
+617054,Deivid Washington de Souza Eugênio,Deivid,12033,Deivid Washington,677,Chelsea
 474803,Eddie Beach,Beach,,,680,Chelsea
 491011,Diego Manuel Jadon da Silva Moreira,Diego Moreira,,,681,Chelsea
 457569,Djordje Petrovic,Petrovic,,,687,Chelsea
@@ -727,5 +727,6 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 519328,Callum Scanlon,Scanlon,,,728,Liverpool
 60252,Andros Townsend,Townsend,775,Andros Townsend,727,Luton
 608060,Jayden Luker,Luker,,,729,Luton
-585472,Ryan Oné,Oné,,,730,Sheffield Utd
+585472,Ryan Oné,Oné,12158,Ryan Oné,730,Sheffield Utd
 601496,Jili Buyabu,Buyabu,,,731,Sheffield Utd
+487693,Devan Tanton,Tanton,,,732,Fulham
