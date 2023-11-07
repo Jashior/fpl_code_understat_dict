@@ -710,7 +710,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 225897,Fodé Ballo-Touré,Ballo-Touré,,,707,Fulham
 441266,Ryan Gravenberch,Gravenberch,10697,Ryan Gravenberch,708,Liverpool
 172912,Sofyan Amrabat,Amrabat,7927,Sofyan Amrabat,709,Man Utd
-111452,Odysseas Vlachodimos,Odysseas,,,710,Nott'm Forest
+111452,Odysseas Vlachodimos,Odysseas,375,Odisseas Vlachodimos,710,Nott'm Forest
 466404,Andrew Omobamidele,Omobamidele,9833,Andrew Omobamidele,711,Nott'm Forest
 250199,Nicolás Domínguez,Dominguez,8252,Nicolás Domínguez,712,Nott'm Forest
 210462,Ibrahim Sangaré,Sangaré,5722,Ibrahim Sangare,713,Nott'm Forest
@@ -730,3 +730,5 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 585472,Ryan Oné,Oné,12158,Ryan Oné,730,Sheffield Utd
 601496,Jili Buyabu,Buyabu,,,731,Sheffield Utd
 487693,Devan Tanton,Tanton,,,732,Fulham
+516432,Valintino Adedokun,Adedokun,,,733,Brentford
+589114,Zack Nelson,Nelson,,,734,Luton
