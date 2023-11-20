@@ -476,7 +476,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 544877,Milos Kerkez,Kerkez,11709,Milos Kerkez,595,Bournemouth
 215531,Ionuț Radu,Radu,1830,Ionut Radu,607,Bournemouth
 118342,Mark Flekken,Flekken,7047,Mark Flekken,101,Brentford
-508395,Yegor Yarmolyuk,Yarmolyuk,11772,Yehor Yarmolyuk,120,Brentford
+508395,Yegor Yarmoliuk,Yarmoliuk,11772,Yehor Yarmolyuk,120,Brentford
 535818,Simon Adingra,Adingra,11710,Simon Adingra,122,Brighton
 233425,Aaron Connolly,Connolly,7991,Aaron Connolly,127,Brighton
 168090,Mahmoud Dahoud,Dahoud,205,Mahmoud Dahoud,128,Brighton
@@ -538,7 +538,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 82738,Luke Berry,Berry,11722,Luke Berry,317,Luton
 156658,Reece Burke,Burke,1771,Reece Burke,318,Luton
 193195,Allan Campbell,Campbell,,,319,Luton
-96784,Jordan Clark,Clark,,,320,Luton
+96784,Jordan Clark,Clark,12187,Jordan Clark,320,Luton
 244262,Alfie Doughty,Doughty,11723,Alfie Doughty,321,Luton
 49083,Luke Freeman,Freeman,7713,Luke Freeman,322,Luton
 113534,Matt Macey,Macey,,,323,Luton
@@ -626,7 +626,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 441428,Jarell Quansah,Quansah,10187,Jarell Quansah,626,Liverpool
 491970,Bobby Clark,Clark,10997,Bobby Clark,627,Liverpool
 496208,Ben Doak,Doak,11231,Ben Doak,628,Liverpool
-491501,James McConnell,McConnell,,,629,Liverpool
+491501,James McConnell,McConnell,11811,James McConnell,629,Liverpool
 88894,Ross Barkley,Barkley,592,Ross Barkley,630,Luton
 242453,Jacob Brown,Brown,11720,Jacob Brown,631,Luton
 487828,Omari Forson,Forson,,,632,Man Utd
@@ -732,3 +732,13 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 487693,Devan Tanton,Tanton,,,732,Fulham
 516432,Valintino Adedokun,Adedokun,,,733,Brentford
 589114,Zack Nelson,Nelson,,,734,Luton
+516874,Charles Sagoe,Sagoe,,,735,Arsenal
+535262,Reuell Walters,Walters,,,736,Arsenal
+535264,Bradley Ibrahim,Ibrahim,,,737,Arsenal
+450539,Myles Peart-Harris,Peart-Harris,,,744,Brentford
+574402,Mark O’Mahony,O’Mahony,,,741,Brighton
+475480,Benicio Baker-Boaitey,Baker-Boaitey,,,742,Brighton
+591386,Treymaurice Nyoni,Nyoni,,,743,Liverpool
+248859,Amadou Diallo,Diallo,,,738,Newcastle
+547716,Ben Parkinson,Parkinson,12198,Ben Parkinson,739,Newcastle
+519321,Alfie Dorrington,Dorrington,,,740,Spurs
