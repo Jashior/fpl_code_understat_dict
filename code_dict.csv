@@ -496,7 +496,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 530873,Dara Costelloe,Costelloe,,,164,Burnley
 172567,Josh Cullen,Cullen,1018,Josh Cullen,165,Burnley
 432711,CJ Egan-Riley,Egan-Riley,10174,CJ Egan-Riley,166,Burnley
-478969,Hjalmar Ekdal,Ekdal,,,167,Burnley
+478969,Hjalmar Ekdal,Ekdal,11704,Hjalmar Ekdal,167,Burnley
 435973,Lyle Foster,Foster,7498,Lyle Foster,168,Burnley
 493347,Denis Franchi,Franchi,,,169,Burnley
 60586,Jóhann Berg Gudmundsson,Gudmundsson,1663,Johann Berg Gudmundsson,170,Burnley
@@ -719,7 +719,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 447261,Mackenzie Hunt,Hunt,,,719,Everton
 531993,Ademola Ola-Adebomi,Ola-Adebomi,,,720,Crystal Palace
 531989,David Ozoh,Ozoh,11268,David Ozoh,721,Crystal Palace
-513588,Jamie Donley,Donley,,,722,Spurs
+513588,Jamie Donley,Donley,12118,Jamie Donley,722,Spurs
 248854,Josh Brooking,Brooking,,,723,Chelsea
 570241,Ji-Soo Kim,Kim Ji-Soo,,,725,Brentford
 474908,Jadan Raymond,Raymond,,,724,Crystal Palace
@@ -735,9 +735,9 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 516874,Charles Sagoe,Sagoe,,,735,Arsenal
 535262,Reuell Walters,Walters,,,736,Arsenal
 535264,Bradley Ibrahim,Ibrahim,,,737,Arsenal
-450539,Myles Peart-Harris,Peart-Harris,,,744,Brentford
+450539,Myles Peart-Harris,Peart-Harris,10205,Myles Peart-Harris,744,Brentford
 574402,Mark O’Mahony,O’Mahony,,,741,Brighton
-475480,Benicio Baker-Boaitey,Baker-Boaitey,,,742,Brighton
+475480,Benicio Baker-Boaitey,Baker-Boaitey,12204,Benicio Baker-Boaitey,742,Brighton
 591386,Treymaurice Nyoni,Nyoni,,,743,Liverpool
 248859,Amadou Diallo,Diallo,12200,Amadou Diallo,738,Newcastle
 547716,Ben Parkinson,Parkinson,12198,Ben Parkinson,739,Newcastle
@@ -746,3 +746,9 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 532528,Joshua Duffus,Duffus,,,747,Brighton
 515504,Joe Hugill,Hugill,,,748,Man Utd
 490150,Michael Ndiweni,Ndiweni,12215,Michael Ndiweni,745,Newcastle
+563883,Vincent Angelini,Angelini,,,752,Brentford
+513836,Leigh Kavanagh,Kavanagh,,,753,Brighton
+492779,Yago de Santiago Alonso,Yago Santiago,,,754,Spurs
+483398,Matthew Whittingham,Whittingham,,,749,Wolves
+497606,Tawanda Chirewa,Chirewa,,,750,Wolves
+504750,Justin Hubner,Hubner,,,751,Wolves
