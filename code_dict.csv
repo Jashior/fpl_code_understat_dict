@@ -707,7 +707,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 514280,Alfie Gilchrist,Gilchrist,,,716,Chelsea
 517996,Ronnie Stutter,Stutter,,,717,Chelsea
 519198,Alex Matos,Matos,12086,Alex Matos,718,Chelsea
-225897,Fodé Ballo-Touré,Ballo-Touré,,,707,Fulham
+225897,Fodé Ballo-Touré,Ballo-Touré,5803,Fode Toure,707,Fulham
 441266,Ryan Gravenberch,Gravenberch,10697,Ryan Gravenberch,708,Liverpool
 172912,Sofyan Amrabat,Amrabat,7927,Sofyan Amrabat,709,Man Utd
 111452,Odysseas Vlachodimos,Odysseas,375,Odisseas Vlachodimos,710,Nott'm Forest
@@ -752,3 +752,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 483398,Matthew Whittingham,Whittingham,,,749,Wolves
 497606,Tawanda Chirewa,Chirewa,,,750,Wolves
 504750,Justin Hubner,Hubner,,,751,Wolves
+500052,Luca Barrington,Barrington,,,755,Brighton
+517995,Leo Castledine,Castledine,,,758,Chelsea
+443629,Marcelo de Araújo Pitaluga Filho,Pitaluga,,,756,Liverpool
+492777,Conor Bradley,Bradley,,,757,Liverpool
