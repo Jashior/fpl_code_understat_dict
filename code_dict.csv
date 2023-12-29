@@ -704,7 +704,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 531363,Nathan Fraser,Fraser,,,704,Wolves
 224995,Luis Sinisterra,Sinisterra,10866,Luis Sinisterra,705,Bournemouth
 437748,Mike Trésor,M.Trésor,12094,Mike Trésor,706,Burnley
-514280,Alfie Gilchrist,Gilchrist,,,716,Chelsea
+514280,Alfie Gilchrist,Gilchrist,11595,Alfie Gilchrist,716,Chelsea
 517996,Ronnie Stutter,Stutter,,,717,Chelsea
 519198,Alex Matos,Matos,12086,Alex Matos,718,Chelsea
 225897,Fodé Ballo-Touré,Ballo-Touré,5803,Fode Toure,707,Fulham
@@ -768,3 +768,5 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 515500,Rhys Bennett,Bennett,,,768,Man Utd
 432712,Owen Hesketh,Hesketh,,,769,Wolves
 490095,Ty Barnett,Barnett,,,770,Wolves
+499175,Ethan Nwaneri,Nwaneri,11132,Ethan Nwaneri,772,Arsenal
+462438,Micah Hamilton,Hamilton,,,771,Man City
