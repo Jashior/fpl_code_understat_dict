@@ -598,7 +598,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 155197,Max Lowe,Lowe,8918,Max Lowe,484,Sheffield Utd
 169432,Oliver McBurnie,McBurnie,1736,Oliver McBurnie,485,Sheffield Utd
 440993,Iliman Ndiaye,Ndiaye,9307,Iliman Ndiaye,486,Sheffield Utd
-443211,Rhys Norrington-Davies,Norrington-Davies,,,487,Sheffield Utd
+443211,Rhys Norrington-Davies,Norrington-Davies,12291,Rhys Norrington-Davies,487,Sheffield Utd
 79934,Oliver Norwood,Norwood,7710,Oliver Norwood,488,Sheffield Utd
 167878,Ben Osborn,Osborn,7714,Ben Osborn,489,Sheffield Utd
 538207,William Osula,Osula,9556,William Osula,490,Sheffield Utd
@@ -679,7 +679,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 617054,Deivid Washington de Souza Eugênio,Deivid,12033,Deivid Washington,677,Chelsea
 474803,Eddie Beach,Beach,,,680,Chelsea
 491011,Diego Manuel Jadon da Silva Moreira,Diego Moreira,,,681,Chelsea
-457569,Djordje Petrovic,Petrovic,12032,Djordje Petrovic,687,Chelsea
+457569,Đorđe Petrović,Petrović,12032,Djordje Petrovic,687,Chelsea
 515024,Luke Harris,Harris,10719,Luke Harris,683,Fulham
 166477,Timothy Castagne,Castagne,6157,Timothy Castagne,688,Fulham
 611011,Joseph Johnson,Johnson,,,682,Luton
@@ -770,3 +770,5 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 490095,Ty Barnett,Barnett,,,770,Wolves
 499175,Ethan Nwaneri,Nwaneri,11132,Ethan Nwaneri,772,Arsenal
 462438,Micah Hamilton,Hamilton,,,771,Man City
+518442,Lewis Orford,Orford,,,773,West Ham
+518438,Kaelan Casey,Casey,,,774,West Ham
