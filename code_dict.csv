@@ -141,7 +141,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 50175,Danny Welbeck,Welbeck,501,Danny Welbeck,154,Brighton
 120202,Wout Weghorst,Weghorst,7052,Wout Weghorst,183,Burnley
 199598,Ethan Ampadu,Ampadu,6369,Ethan Ampadu,185,Chelsea
-532605,Andrey Nascimento dos Santos,Andrey,11808,Andrey Santos,186,Nott'm Forest
+532605,Andrey Nascimento dos Santos,Andrey,11808,Andrey Santos,186,Chelsea
 109745,Kepa Arrizabalaga,Arrizabalaga,5061,Kepa,187,Chelsea
 54694,Pierre-Emerick Aubameyang,Aubameyang,318,Pierre-Emerick Aubameyang,188,Chelsea
 41328,César Azpilicueta,Azpilicueta,681,César Azpilicueta,189,Chelsea
@@ -393,7 +393,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 172780,James Maddison,Maddison,6818,James Maddison,504,Spurs
 441164,Pedro Porro,Pedro Porro,6912,Pedro Porro,506,Spurs
 45034,Ivan Perišić,Perišić,448,Ivan Perisic,507,Spurs
-199249,Sergio Reguilón,Reguilón,7187,Sergio Reguilón,508,Man Utd
+199249,Sergio Reguilón,Reguilón,7187,Sergio Reguilón,508,Spurs
 212319,Richarlison de Andrade,Richarlison,6026,Richarlison,509,Spurs
 214225,Joe Rodon,Rodon,6377,Joe Rodon,510,Spurs
 221632,Cristian Romero,Romero,7218,Cristian Romero,511,Spurs
@@ -772,3 +772,5 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 462438,Micah Hamilton,Hamilton,,,771,Man City
 518442,Lewis Orford,Orford,,,773,West Ham
 518438,Kaelan Casey,Casey,,,774,West Ham
+204814,Ben Brereton,Brereton Díaz,11815,Ben Brereton Díaz,775,Sheffield Utd
+165153,Timo Werner,Werner,65,Timo Werner,776,Spurs
