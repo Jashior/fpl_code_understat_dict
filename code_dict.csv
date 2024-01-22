@@ -154,7 +154,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 460028,Levi Colwill,Colwill,10805,Levi Colwill,197,Chelsea
 179268,Marc Cucurella Saseta,Cucurella,7134,Marc Cucurella,198,Chelsea
 448047,Enzo Fernández,Enzo,11356,Enzo Fernández,199,Chelsea
-520295,David Datro Fofana,D.D.Fofana,11295,David Datro Fofana,200,Chelsea
+520295,David Datro Fofana,D.D.Fofana,11295,David Datro Fofana,200,Burnley
 444463,Wesley Fofana,W.Fofana,7589,Wesley Fofana,201,Chelsea
 232787,Conor Gallagher,Gallagher,9040,Conor Gallagher,202,Chelsea
 487838,Lewis Hall,Hall,10216,Lewis Hall,204,Newcastle
@@ -393,7 +393,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 172780,James Maddison,Maddison,6818,James Maddison,504,Spurs
 441164,Pedro Porro,Pedro Porro,6912,Pedro Porro,506,Spurs
 45034,Ivan Perišić,Perišić,448,Ivan Perisic,507,Spurs
-199249,Sergio Reguilón,Reguilón,7187,Sergio Reguilón,508,Spurs
+199249,Sergio Reguilón,Reguilón,7187,Sergio Reguilón,508,Brentford
 212319,Richarlison de Andrade,Richarlison,6026,Richarlison,509,Spurs
 214225,Joe Rodon,Rodon,6377,Joe Rodon,510,Spurs
 221632,Cristian Romero,Romero,7218,Cristian Romero,511,Spurs
@@ -576,7 +576,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 153127,Isaac Hayden,Hayden,6062,Isaac Hayden,413,Newcastle
 432422,Sandro Tonali,Tonali,7958,Sandro Tonali,429,Newcastle
 232977,Kell Watts,Watts,,,431,Newcastle
-461682,Brandon Aguilera Zamora,B.Aguilera,,,434,Nott'm Forest
+461682,Brandon Aguilera Zamora,B.Aguilera,12034,Brandon Aguilera,434,Nott'm Forest
 245830,Josh Bowler,Bowler,,,440,Nott'm Forest
 168547,Ethan Horvath,Horvath,,,449,Nott'm Forest
 201440,Hwang Ui-jo,Ui-jo,7746,Hwang Ui-Jo,466,Nott'm Forest
@@ -755,7 +755,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 500052,Luca Barrington,Barrington,,,755,Brighton
 517995,Leo Castledine,Castledine,,,758,Chelsea
 443629,Marcelo de Araújo Pitaluga Filho,Pitaluga,,,756,Liverpool
-492777,Conor Bradley,Bradley,,,757,Liverpool
+492777,Conor Bradley,Bradley,10120,Conor Bradley,757,Liverpool
 552425,Sydie Peck,Peck,12251,Sydie Peck,759,Sheffield Utd
 499169,Myles Lewis-Skelly,Lewis-Skelly,,,764,Arsenal
 564505,Sam Proctor,Proctor,,,765,Aston Villa
@@ -775,3 +775,11 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 204814,Ben Brereton,Brereton Díaz,11815,Ben Brereton Díaz,775,Sheffield Utd
 165153,Timo Werner,Werner,65,Timo Werner,776,Spurs
 493125,Radu Dragusin,Drăgușin,9105,Radu Dragusin,777,Spurs
+481283,James Wright,Wright,,,778,Aston Villa
+430992,Owen Beck,Beck,10119,Owen Beck,782,Liverpool
+496185,Kaide Gordon,Gordon,10118,Kaide Gordon,783,Liverpool
+524070,Jamie McDonnell,McDonnell,,,779,Nott'm Forest
+536677,Detlef Esapa Osong,Osong,,,780,Nott'm Forest
+536681,Joe Gardner,Gardner,,,781,Nott'm Forest
+536109,Oliver Scarles,Scarles,,,784,West Ham
+565431,Callum Marshall,Marshall,,,785,West Ham
