@@ -750,7 +750,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 513836,Leigh Kavanagh,Kavanagh,,,753,Brighton
 492779,Yago de Santiago Alonso,Yago Santiago,,,754,Spurs
 483398,Matthew Whittingham,Whittingham,,,749,Wolves
-497606,Tawanda Chirewa,Chirewa,,,750,Wolves
+497606,Tawanda Chirewa,Chirewa,12234,Tawanda Chirewa,750,Wolves
 504750,Justin Hubner,Hubner,,,751,Wolves
 500052,Luca Barrington,Barrington,,,755,Brighton
 517995,Leo Castledine,Castledine,,,758,Chelsea
@@ -783,3 +783,6 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 536681,Joe Gardner,Gardner,,,781,Nott'm Forest
 536109,Oliver Scarles,Scarles,,,784,West Ham
 565431,Callum Marshall,Marshall,,,785,West Ham
+491598,Cameron Peupion,Peupion,11544,Cameron Peupion,786,Brighton
+449133,Harvey Griffiths,Griffiths,,,787,Wolves
+501837,Yerson Mosquera,Mosquera,9958,Yerson Mosquera,788,Wolves
