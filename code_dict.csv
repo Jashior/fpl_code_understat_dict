@@ -281,7 +281,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 88248,Stefan Ortega Moreno,Ortega Moreno,8786,Stefan Ortega Moreno,361,Man City
 244851,Cole Palmer,Palmer,8497,Cole Palmer,362,Chelsea
 482769,Máximo Perrone,Perrone,11378,Máximo Perrone,363,Man City
-155405,Kalvin Phillips,Phillips,8719,Kalvin Phillips,364,Man City
+155405,Kalvin Phillips,Phillips,8719,Kalvin Phillips,364,West Ham
 220566,Rodrigo Hernandez,Rodrigo,2496,Rodri,365,Man City
 437468,Sergio Gómez,Sergio Gómez,6656,Sergio Gómez,366,Man City
 164484,Zack Steffen,Steffen,7817,Zack Steffen,367,Man City
@@ -442,7 +442,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 114128,Jonathan Castro Otto,J.Otto,2280,Jonny,560,Wolves
 429414,Sasa Kalajdzic,Kalajdžić,8812,Sasa Kalajdzic,562,Wolves
 214048,Max Kilman,Kilman,7332,Max Kilman,563,Wolves
-151086,Mario Lemina,Lemina,1299,Mario Lemina,565,Wolves
+151086,Mario Lemina,Mario Jr.,1299,Mario Lemina,565,Wolves
 465351,Matheus Luiz Nunes,Matheus N.,11000,Matheus Nunes,566,Man City
 247632,Pedro Lomba Neto,Neto,6382,Pedro Neto,567,Wolves
 200600,Daniel Castelo Podence,Podence,8291,Daniel Podence,568,Wolves
@@ -629,7 +629,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 491501,James McConnell,McConnell,11811,James McConnell,629,Liverpool
 88894,Ross Barkley,Barkley,592,Ross Barkley,630,Luton
 242453,Jacob Brown,Brown,11720,Jacob Brown,631,Luton
-487828,Omari Forson,Forson,,,632,Man Utd
+487828,Omari Forson,Forson,12340,Omari Forson,632,Man Utd
 441191,Tino Livramento,Livramento,9512,Valentino Livramento,633,Newcastle
 545477,Alex Murphy,A.Murphy,12199,Alex Murphy,634,Newcastle
 547719,Lewis Miley,Miley,11386,Lewis Miley,635,Newcastle
@@ -701,7 +701,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 205836,Saman Ghoddos,Ghoddos,7069,Saman Ghoddos,701,Brentford
 37642,Jonny Evans,Evans,807,Jonny Evans,703,Man Utd
 548308,Ashley Phillips,Phillips,,,702,Spurs
-531363,Nathan Fraser,Fraser,,,704,Wolves
+531363,Nathan Fraser,Fraser,11210,Nathan Fraser,704,Wolves
 224995,Luis Sinisterra,Sinisterra,10866,Luis Sinisterra,705,Bournemouth
 437748,Mike Trésor,M.Trésor,12094,Mike Trésor,706,Burnley
 514280,Alfie Gilchrist,Gilchrist,11595,Alfie Gilchrist,716,Chelsea
@@ -786,3 +786,24 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 491598,Cameron Peupion,Peupion,11544,Cameron Peupion,786,Brighton
 449133,Harvey Griffiths,Griffiths,,,787,Wolves
 501837,Yerson Mosquera,Mosquera,9958,Yerson Mosquera,788,Wolves
+465390,Kaine Kesler-Hayden,Kesler-Hayden,,,793,Aston Villa
+244850,Morgan Rogers,Rogers,,,803,Aston Villa
+441240,Romain Faivre,Faivre,6420,Romain Faivre,799,Bournemouth
+496683,Max Kinsey-Wellings,Kinsey-Wellings,,,802,Bournemouth
+168636,Enes Ünal,Enes Ünal,6219,Enes Ünal,804,Bournemouth
+507433,Hákon Valdimarsson,Valdimarsson,,,789,Brentford
+612534,Benjamin Fredrick,Fredrick,,,797,Brentford
+503724,Lorenz Assignon,Assignon,8973,Lorenz Assignon,805,Burnley
+477717,Maxime Esteve,Estève,9487,Maxime Estève,806,Burnley
+505187,Cesare Casadei,Casadei,10433,Cesare Casadei,791,Chelsea
+247348,Daniel Muñoz,Muñoz,,,792,Crystal Palace
+496221,Adam Wharton,Wharton,,,807,Crystal Palace
+511504,Kristian Sekularac,Sekularac,,,796,Fulham
+209293,Daiki Hashioka,Hashioka,,,798,Luton
+461484,Joe White,White,,,794,Newcastle
+592436,Travis Hernes,Hernes,,,795,Newcastle
+427420,Giovanni Reyna,Reyna,8191,Giovanni Reyna,801,Nott'm Forest
+85633,Matz Sels,Sels,6903,Matz Sels,808,Nott'm Forest
+551232,Rodrigo Duarte Ribeiro,Ribeiro,,,809,Nott'm Forest
+173268,Ivo Grbic,Grbić,8923,Ivo Grbic,790,Sheffield Utd
+550833,Noha Lemina,N.Lemina,,,800,Wolves
