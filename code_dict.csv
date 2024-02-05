@@ -147,7 +147,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 41328,César Azpilicueta,Azpilicueta,681,César Azpilicueta,189,Chelsea
 242880,Benoît Badiashile,B.Badiashile,7240,Benoit Badiashile Mukinayi,191,Chelsea
 122074,Marcus Bettinelli,Bettinelli,7076,Marcus Bettinelli,192,Chelsea
-440323,Armando Broja,Broja,8384,Armando Broja,193,Chelsea
+440323,Armando Broja,Broja,8384,Armando Broja,193,Fulham
 180736,Trevoh Chalobah,Chalobah,6615,Trevoh Chalobah,194,Chelsea
 172850,Ben Chilwell,Chilwell,782,Ben Chilwell,195,Chelsea
 478912,Carney Chukwuemeka,Chukwuemeka,9356,Carney Chukwuemeka,196,Chelsea
@@ -203,7 +203,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 198826,Ben Godfrey,Godfrey,7689,Ben Godfrey,252,Everton
 172632,Demarai Gray,Gray,762,Demarai Gray,253,Everton
 80801,Idrissa Gueye,Gana,668,Idrissa Gueye,254,Everton
-194164,Mason Holgate,Holgate,985,Mason Holgate,255,Everton
+194164,Mason Holgate,Holgate,985,Mason Holgate,255,Sheffield Utd
 153133,Alex Iwobi,Iwobi,500,Alex Iwobi,256,Fulham
 106611,Michael Keane,Keane,1653,Michael Keane,257,Everton
 115382,Neal Maupay,Maupay,3621,Neal Maupay,258,Brentford
@@ -787,7 +787,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 449133,Harvey Griffiths,Griffiths,,,787,Wolves
 501837,Yerson Mosquera,Mosquera,9958,Yerson Mosquera,788,Wolves
 465390,Kaine Kesler-Hayden,Kesler-Hayden,,,793,Aston Villa
-244850,Morgan Rogers,Rogers,,,803,Aston Villa
+244850,Morgan Rogers,Rogers,12412,Morgan Rogers,803,Aston Villa
 441240,Romain Faivre,Faivre,6420,Romain Faivre,799,Bournemouth
 496683,Max Kinsey-Wellings,Kinsey-Wellings,,,802,Bournemouth
 168636,Enes Ünal,Enes Ünal,6219,Enes Ünal,804,Bournemouth
@@ -796,14 +796,15 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 503724,Lorenz Assignon,Assignon,8973,Lorenz Assignon,805,Burnley
 477717,Maxime Esteve,Estève,9487,Maxime Estève,806,Burnley
 505187,Cesare Casadei,Casadei,10433,Cesare Casadei,791,Chelsea
-247348,Daniel Muñoz,Muñoz,,,792,Crystal Palace
-496221,Adam Wharton,Wharton,,,807,Crystal Palace
+247348,Daniel Muñoz,Muñoz,12408,Daniel Muñoz,792,Crystal Palace
+496221,Adam Wharton,Wharton,12409,Adam Wharton,807,Crystal Palace
 511504,Kristian Sekularac,Sekularac,,,796,Fulham
 209293,Daiki Hashioka,Hashioka,,,798,Luton
 461484,Joe White,White,,,794,Newcastle
 592436,Travis Hernes,Hernes,,,795,Newcastle
 427420,Giovanni Reyna,Reyna,8191,Giovanni Reyna,801,Nott'm Forest
 85633,Matz Sels,Sels,6903,Matz Sels,808,Nott'm Forest
-551232,Rodrigo Duarte Ribeiro,Ribeiro,,,809,Nott'm Forest
+551232,Rodrigo Duarte Ribeiro,Ribeiro,12418,Rodrigo Ribeiro,809,Nott'm Forest
 173268,Ivo Grbic,Grbić,8923,Ivo Grbic,790,Sheffield Utd
 550833,Noha Lemina,N.Lemina,,,800,Wolves
+577725,Joshua King,King,,,810,Fulham
