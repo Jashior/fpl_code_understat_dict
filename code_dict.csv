@@ -731,7 +731,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 601496,Jili Buyabu,Buyabu,,,731,Sheffield Utd
 487693,Devan Tanton,Tanton,,,732,Fulham
 516432,Valintino Adedokun,Adedokun,,,733,Brentford
-589114,Zack Nelson,Nelson,,,734,Luton
+589114,Zack Nelson,Nelson,12188,Zack Nelson,734,Luton
 516874,Charles Sagoe,Sagoe,,,735,Arsenal
 535262,Reuell Walters,Walters,,,736,Arsenal
 535264,Bradley Ibrahim,Ibrahim,,,737,Arsenal
@@ -789,7 +789,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 465390,Kaine Kesler-Hayden,Kesler-Hayden,,,793,Aston Villa
 244850,Morgan Rogers,Rogers,12412,Morgan Rogers,803,Aston Villa
 441240,Romain Faivre,Faivre,6420,Romain Faivre,799,Bournemouth
-496683,Max Kinsey-Wellings,Kinsey-Wellings,,,802,Bournemouth
+496683,Max Kinsey,Kinsey,,,802,Bournemouth
 168636,Enes Ünal,Enes Ünal,6219,Enes Ünal,804,Bournemouth
 507433,Hákon Valdimarsson,Valdimarsson,,,789,Brentford
 612534,Benjamin Fredrick,Fredrick,,,797,Brentford
@@ -831,3 +831,8 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 547668,Axel Piesold,Piesold,,,831,Luton
 519325,Habeeb Ogunneye,Ogunneye,,,833,Man Utd
 613467,Wesley Okoduwa,Okoduwa,,,832,Wolves
+622536,Benjamin Arthur,Arthur,,,834,Brentford
+577016,Josh Acheampong,Acheampong,,,838,Chelsea
+611926,Amara Nallo,Nallo,,,837,Liverpool
+461537,Dermot Mee,Mee,,,835,Man Utd
+589507,Leon Chiwome,Chiwome,,,836,Wolves
