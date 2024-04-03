@@ -501,7 +501,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 493347,Denis Franchi,Franchi,,,169,Burnley
 60586,Jóhann Berg Gudmundsson,Gudmundsson,1663,Johann Berg Gudmundsson,170,Burnley
 483391,Luke McNally,McNally,,,171,Burnley
-232917,Arijanet Muric,Muric,,,172,Burnley
+232917,Arijanet Muric,Muric,7027,Arijanet Muric,172,Burnley
 216616,Dara O'Shea,O'Shea,8756,Dara O'Shea,173,Burnley
 220598,Michael Obafemi,Obafemi,6504,Michael Obafemi,174,Burnley
 220037,Bailey Peacock-Farrell,Peacock-Farrell,8482,Bailey Peacock-Farrell,175,Burnley
@@ -547,7 +547,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 156700,Carlton Morris,Morris,11717,Carlton Morris,326,Luton
 174595,Admiral Muskwe,Muskwe,,,327,Luton
 229164,Chiedozie Ogbene,Ogbene,11719,Chiedozie Ogbene,328,Luton
-168035,Fred Onyedinma,Onyedinma,,,329,Luton
+168035,Fred Onyedinma,Onyedinma,12549,Fred Onyedinma,329,Luton
 199056,Gabriel Osho,Osho,12151,Gabriel Osho,330,Luton
 490180,Aribim Pepple,Pepple,,,331,Luton
 243532,Dion Pereira,Pereira,5559,Dion Pereira,332,Luton
@@ -786,7 +786,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 491598,Cameron Peupion,Peupion,11544,Cameron Peupion,786,Brighton
 449133,Harvey Griffiths,Griffiths,,,787,Wolves
 501837,Yerson Mosquera,Mosquera,9958,Yerson Mosquera,788,Wolves
-465390,Kaine Kesler-Hayden,Kesler-Hayden,,,793,Aston Villa
+465390,Kaine Kesler-Hayden,Kesler-Hayden,9409,Kaine Hayden,793,Aston Villa
 244850,Morgan Rogers,Rogers,12412,Morgan Rogers,803,Aston Villa
 441240,Romain Faivre,Faivre,6420,Romain Faivre,799,Bournemouth
 496683,Max Kinsey,Kinsey,,,802,Bournemouth
@@ -815,7 +815,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 504751,Mauro Bandeira,Bandeira,,,815,Arsenal
 503308,James Sweet,Sweet,,,817,Arsenal
 462492,Joe Gauci,Gauci,,,818,Aston Villa
-543158,Valentín Barco,Barco,,,816,Brighton
+543158,Valentín Barco,Barco,12498,Valentín Barco,816,Brighton
 536238,Ishé Samuels-Smith,Samuels-Smith,,,819,Chelsea
 597983,Ollie Harrison,Harrison,,,820,Chelsea
 574398,Franco Umeh-Chibueze,Umeh-Chibueze,,,821,Crystal Palace
@@ -835,4 +835,9 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 577016,Josh Acheampong,Acheampong,,,838,Chelsea
 611926,Amara Nallo,Nallo,,,837,Liverpool
 461537,Dermot Mee,Mee,,,835,Man Utd
-589507,Leon Chiwome,Chiwome,,,836,Wolves
+589507,Leon Chiwome,Chiwome,12532,Leon Chiwome,836,Wolves
+647597,Dominic Dos Santos Martins,Martins,,,839,Luton
+513840,Samy Chouchane,Chouchane,,,843,Brighton
+493121,Roshaun Mathurin,Mathurin,,,842,Crystal Palace
+461453,Lewis Warrington,Warrington,,,841,Everton
+602934,Fletcher Holman,Holman,,,840,Wolves
