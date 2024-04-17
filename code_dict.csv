@@ -682,7 +682,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 457569,Đorđe Petrović,Petrović,12032,Djordje Petrovic,687,Chelsea
 515024,Luke Harris,Harris,10719,Luke Harris,683,Fulham
 166477,Timothy Castagne,Castagne,6157,Timothy Castagne,688,Fulham
-611011,Joseph Johnson,Johnson,,,682,Luton
+611011,Joseph Johnson,Johnson,11980,Joseph Johnson,682,Luton
 248875,Jérémy Doku,Doku,8981,Jéremy Doku,678,Man City
 504598,Daniel Gore,Gore,11987,Daniel Gore,685,Man Utd
 218430,Gonzalo Montiel,G.Montiel,9897,Gonzalo Montiel,679,Nott'm Forest
@@ -736,7 +736,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 535262,Reuell Walters,Walters,,,736,Arsenal
 535264,Bradley Ibrahim,Ibrahim,,,737,Arsenal
 450539,Myles Peart-Harris,Peart-Harris,10205,Myles Peart-Harris,744,Brentford
-574402,Mark O’Mahony,O’Mahony,,,741,Brighton
+574402,Mark O’Mahony,O’Mahony,12205,Mark O’Mahony,741,Brighton
 475480,Benicio Baker-Boaitey,Baker-Boaitey,12204,Benicio Baker-Boaitey,742,Brighton
 591386,Treymaurice Nyoni,Nyoni,,,743,Liverpool
 248859,Amadou Diallo,Diallo,12200,Amadou Diallo,738,Newcastle
@@ -826,7 +826,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 490881,Toby Collyer,Collyer,,,826,Man Utd
 616094,Dovydas Sasnauskas,Sasnauskas,,,827,Sheffield Utd
 549344,Sam Curtis,Curtis,,,828,Sheffield Utd
-490885,George Earthy,Earthy,,,829,West Ham
+490885,George Earthy,Earthy,12474,George Earthy,829,West Ham
 514277,Jimi Tauriainen,Tauriainen,,,830,Chelsea
 547668,Axel Piesold,Piesold,,,831,Luton
 519325,Habeeb Ogunneye,Ogunneye,,,833,Man Utd
@@ -843,3 +843,10 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 602934,Fletcher Holman,Holman,,,840,Wolves
 445548,Odeluga Offiah,Offiah,10453,Odeluga Offiah,845,Brighton
 634640,Christian Chigozie,Chigozie,,,844,Luton
+499857,Teddy Sharman-Lowe,Sharman-Lowe,,,847,Chelsea
+577974,Harry Amass,Amass,,,846,Man Utd
+596572,Michael Dacosta Gonzalez,Dacosta Gonzalez,,,849,Bournemouth
+550615,Tyrique George,George,,,851,Chelsea
+559963,Kiano Dyer,Dyer,,,852,Chelsea
+551995,Taylan Harris,Harris,,,848,Luton
+575034,Ethan Wheatley,Wheatley,,,850,Man Utd
