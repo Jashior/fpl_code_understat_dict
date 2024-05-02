@@ -808,7 +808,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 173268,Ivo Grbic,Grbić,8923,Ivo Grbic,790,Sheffield Utd
 550833,Noha Lemina,N.Lemina,,,800,Wolves
 577725,Joshua King,King,,,810,Fulham
-550596,Dominic Sadi,Sadi,,,811,Bournemouth
+550596,Dominic Sadi,Sadi,11300,Dominic Sadi,811,Bournemouth
 514514,Lewis Koumas,Koumas,,,812,Liverpool
 518199,Fabian Mrozek,Mrozek,,,813,Liverpool
 516250,Jacob Wright,Wright,,,814,Man City
@@ -855,3 +855,4 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24
 568791,Callan McKenna,McKenna,,,855,Bournemouth
 530117,Louis Jackson,Jackson,,,856,Man Utd
 591538,Owen Hampson,Hampson,,,857,Sheffield Utd
+518892,Ted Curd,Curd,,,858,Chelsea
