@@ -31,6 +31,8 @@ axios
           { id: "Understat_Name", title: "Understat_Name" },
           { id: "FPL_ID_2023_24", title: "FPL_ID_2023-24" },
           { id: "Team_2023_24", title: "Team_2023-24" },
+          { id: "FPL_ID_2024_25", title: "FPL_ID_2024-25" },
+          { id: "Team_2024_25", title: "Team_2024-25" },
         ];
 
         // Process each element
@@ -56,8 +58,15 @@ axios
             // Update existing player's data
             existingPlayer.FPL_Name = fplName;
             existingPlayer.Web_Name = web_name;
-            existingPlayer.FPL_ID_2023_24 = id;
-            existingPlayer.Team_2023_24 = teamName;
+
+            // Previous Years
+            existingPlayer.FPL_ID_2023_24 =
+              existingPlayer["FPL_ID_2023-24"] || "";
+            existingPlayer.Team_2023_24 = existingPlayer["Team_2023-24"] || "";
+
+            // Current Year
+            existingPlayer.FPL_ID_2024_25 = id;
+            existingPlayer.Team_2024_25 = teamName;
 
             // Check if the player has over 0 minutes and no Understat_ID
             if (minutes > 0 && !existingPlayer.Understat_ID) {
@@ -79,8 +88,10 @@ axios
                 Web_Name: web_name,
                 Understat_ID: "",
                 Understat_Name: "",
-                FPL_ID_2023_24: id,
-                Team_2023_24: teamName,
+                FPL_ID_2023_24: "",
+                Team_2023_24: "",
+                FPL_ID_2024_25: id,
+                Team_2024_25: teamName,
               };
               console.log(
                 `New data: ${fplName} (${web_name}, ${teamName}) (${minutes} mins).`
@@ -127,6 +138,7 @@ const team_codes = {
   31: "Crystal Palace",
   36: "Brighton",
   39: "Wolves",
+  40: "Ipswich",
   43: "Man City",
   49: "Sheffield Utd",
   54: "Fulham",
