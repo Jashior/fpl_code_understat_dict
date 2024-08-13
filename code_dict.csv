@@ -77,7 +77,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 437730,Antoine Semenyo,Semenyo,11363,Antoine Semenyo,82,Bournemouth,78,Bournemouth
 221466,Marcos Senesi,Senesi,10864,Marcos Senesi,83,Bournemouth,79,Bournemouth
 54469,Adam Smith,Smith,825,Adam Smith,84,Bournemouth,81,Bournemouth
-154566,Dominic Solanke-Mitchell,Solanke,1679,Dominic Solanke,85,Bournemouth,82,Bournemouth
+154566,Dominic Solanke-Mitchell,Solanke,1679,Dominic Solanke,85,Bournemouth,82,Spurs
 201658,Marcus Tavernier,Tavernier,10741,Marcus Tavernier,86,Bournemouth,83,Bournemouth
 424044,Hamed Traorè,H.Traorè,6986,Hamed Junior Traore,87,Bournemouth,67,Bournemouth
 229600,Mark Travers,Travers,7582,Mark Travers,88,Bournemouth,84,Bournemouth
@@ -114,7 +114,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 48760,Mathias Jorgensen,Zanka,6030,Zanka,121,Brentford,112,Brentford
 235382,Steven Alzate,Alzate,8020,Steven Alzate,,,,
 509416,Yasin Ayari,Ayari,11385,Yasin Ayari,,,,
-536916,Facundo Buonanotte,Buonanotte,11362,Facundo Buonanotte,125,Brighton,117,Brighton
+536916,Facundo Buonanotte,Buonanotte,11362,Facundo Buonanotte,125,Brighton,117,Leicester
 486672,Moisés Caicedo Corozo,Caicedo,9453,Moisés Caicedo,126,Chelsea,157,Chelsea
 83299,Lewis Dunk,Dunk,6048,Lewis Dunk,129,Brighton,120,Brighton
 474120,Julio Enciso,Enciso,11058,Julio Enciso,130,Brighton,121,Brighton
@@ -444,7 +444,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 214048,Max Kilman,Kilman,7332,Max Kilman,563,Wolves,524,West Ham
 151086,Mario Lemina,Mario Jr.,1299,Mario Lemina,565,Wolves,557,Wolves
 465351,Matheus Luiz Nunes,Matheus N.,11000,Matheus Nunes,566,Man City,356,Man City
-247632,Pedro Lomba Neto,Neto,6382,Pedro Neto,567,Wolves,560,Wolves
+247632,Pedro Lomba Neto,Neto,6382,Pedro Neto,567,Wolves,560,Chelsea
 200600,Daniel Castelo Podence,Podence,8291,Daniel Podence,568,Wolves,562,Wolves
 149065,José Malheiro de Sá,José Sá,9740,José Sá,569,Wolves,554,Wolves
 88484,Pablo Sarabia,Sarabia,2199,Pablo Sarabia,570,Wolves,565,Wolves
@@ -935,7 +935,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 95463,Danny Ward,Ward,473,Danny Ward,,,308,Leicester
 157668,Harry Winks,Winks,971,Harry Winks,,,309,Leicester
 531442,Abdul Fatawu,A.Fatawu,,,,,570,Leicester
-244858,Fábio Freitas Gouveia Carvalho,Carvalho,9501,Fabio Carvalho,,,314,Liverpool
+244858,Fábio Freitas Gouveia Carvalho,Carvalho,9501,Fabio Carvalho,,,314,Brentford
 440148,Tyler Morton,Morton,10091,Tyler Morton,,,331,Liverpool
 219937,Rhys Williams,R.Williams,9086,Rhys Williams,,,334,Liverpool
 510281,Sávio 'Savinho' Moreira de Oliveira,Sávio,11735,Sávio,,,571,Man City
@@ -982,3 +982,4 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 641221,Pedro Cardoso de Lima,Pedro Lima,,,,,561,Wolves
 483081,Rodrigo Martins Gomes,R.Gomes,,,,,563,Wolves
 247412,Jørgen Strand Larsen,Strand Larsen,11070,Jørgen Strand Larsen,,,566,Wolves
+462116,Jean-Clair Todibo,Todibo,6816,Jean-Clair Todibo,,,591,West Ham
