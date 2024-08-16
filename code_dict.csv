@@ -281,7 +281,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 88248,Stefan Ortega Moreno,Ortega Moreno,8786,Stefan Ortega Moreno,361,Man City,358,Man City
 244851,Cole Palmer,Palmer,8497,Cole Palmer,362,Chelsea,182,Chelsea
 482769,Máximo Perrone,Perrone,11378,Máximo Perrone,,,,
-155405,Kalvin Phillips,Phillips,8719,Kalvin Phillips,364,West Ham,359,Man City
+155405,Kalvin Phillips,Phillips,8719,Kalvin Phillips,364,West Ham,359,Ipswich
 220566,Rodrigo 'Rodri' Hernandez,Rodrigo,2496,Rodri,365,Man City,360,Man City
 437468,Sergio Gómez,Sergio Gómez,6656,Sergio Gómez,,,,
 164484,Zack Steffen,Steffen,7817,Zack Steffen,,,,
@@ -657,7 +657,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 487836,Antwoine Hackford,Hackford,9222,Antwoine Hackford,,,,
 447879,Joseph Anang,Anang,,,,,,
 482158,Lucas Bergström,Bergström,,,659,Chelsea,154,Chelsea
-550839,Wilson Odobert,Odobert,10822,Wilson Odobert,,,,
+550839,Wilson Odobert,Odobert,10822,Wilson Odobert,,,612,Spurs
 514356,Roméo Lavia,Lavia,10004,Romeo Lavia,667,Chelsea,174,Chelsea
 221399,Jack Harrison,Harrison,8720,Jack Harrison,661,Everton,224,Everton
 159533,Adama Traoré,Adama,900,Adama Traoré,662,Fulham,239,Fulham
@@ -997,3 +997,4 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 510500,João Pedro Ferreira Silva,Jota Silva,,,,,596,Nott'm Forest
 496661,Tyler Dibling,Dibling,,,,,608,Southampton
 552427,Will Lankshear,Lankshear,,,,,609,Spurs
+172453,Sammie Szmodics,Szmodics,,,,,611,Ipswich
