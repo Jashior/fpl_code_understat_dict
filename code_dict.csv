@@ -526,7 +526,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 518620,Ângelo Gabriel Borges Damaceno,Ângelo,,,589,Chelsea,151,Chelsea
 441302,Ian Maatsen,Maatsen,11807,Ian Maatsen,609,Chelsea,45,Aston Villa
 220362,Axel Disasi,Disasi,6885,Axel Disasi,611,Chelsea,167,Chelsea
-503714,Lesley Ugochukwu,Ugochukwu,9451,Chimuanya Ugochukwu,613,Chelsea,188,Chelsea
+503714,Lesley Ugochukwu,Ugochukwu,9451,Chimuanya Ugochukwu,613,Chelsea,188,Southampton
 512462,Jake O'Brien,O'Brien,,,235,Crystal Palace,582,Everton
 536694,Matheus França de Oliveira,M.França,12152,Matheus França,615,Crystal Palace,208,Crystal Palace
 222627,João Neves Virgínia,J.Virginia,8366,João Virgínia,266,Everton,227,Everton
@@ -918,7 +918,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 245419,Patson Daka,Daka,9738,Patson Daka,,,289,Leicester
 218218,Wout Faes,Faes,8646,Wout Faes,,,291,Leicester
 549640,Michael Golding,Golding,,,,,292,Leicester
-467189,Mads Hermansen,Hermansen,,,,,293,Leicester
+467189,Mads Hermansen,Hermansen,12910,Mads Hermansen,,,293,Leicester
 207270,Daniel Iversen,Iversen,10808,Daniel Iversen,,,294,Leicester
 220627,James Justin,Justin,7753,James Justin,,,295,Leicester
 481510,Victor Kristiansen,Kristiansen,11367,Victor Kristiansen,,,296,Leicester
@@ -934,7 +934,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 93100,Jannik Vestergaard,Vestergaard,111,Jannik Vestergaard,,,307,Leicester
 95463,Danny Ward,Ward,473,Danny Ward,,,308,Leicester
 157668,Harry Winks,Winks,971,Harry Winks,,,309,Leicester
-531442,Abdul Fatawu,A.Fatawu,,,,,570,Leicester
+531442,Abdul Fatawu,A.Fatawu,12911,Abdul Fatawu,,,570,Leicester
 244858,Fábio Freitas Gouveia Carvalho,Carvalho,9501,Fabio Carvalho,,,314,Brentford
 440148,Tyler Morton,Morton,10091,Tyler Morton,,,331,Liverpool
 219937,Rhys Williams,R.Williams,9086,Rhys Williams,,,334,Liverpool
@@ -971,9 +971,9 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 219279,Sugawara Yukinari,Sugawara,12761,Yukinari Sugawara,,,474,Southampton
 158534,Kyle Walker-Peters,Walker-Peters,885,Kyle Walker-Peters,,,476,Southampton
 244845,Nathan Wood-Gordon,Wood,,,,,477,Southampton
-570526,Lucas Bergvall,Bergvall,,,,,481,Spurs
+570526,Lucas Bergvall,Bergvall,12912,Lucas Bergvall,,,481,Spurs
 496179,Alfie Devine,Devine,,,,,485,Spurs
-547701,Archie Gray,Gray,,,,,489,Spurs
+547701,Archie Gray,Gray,10184,Archie Gray,,,489,Spurs
 577114,Luis Guilherme Lira dos Santos,L.Guilherme,,,,,526,West Ham
 229384,Andy Irving,Irving,,,,,576,West Ham
 450070,Crysencio Summerville,Summerville,9492,Crysencio Summerville,,,587,West Ham
@@ -999,3 +999,4 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 552427,Will Lankshear,Lankshear,,,,,609,Spurs
 172453,Sam Szmodics,Szmodics,12752,Szmodics,,,611,Ipswich
 472739,Carl Rushworth,Rushworth,,,,,615,Brighton
+501770,Ben Nelson,Nelson,,,,,616,Leicester
