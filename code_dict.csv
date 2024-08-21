@@ -398,7 +398,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 214225,Joe Rodon,Rodon,6377,Joe Rodon,,,,
 221632,Cristian Romero,Romero,7218,Cristian Romero,511,Spurs,498,Spurs
 173904,Davinson Sánchez,Sánchez,6249,Davinson Sánchez,,,,
-482442,Pape Matar Sarr,P.Sarr,9021,Pape Sarr,513,Spurs,499,Spurs
+482442,Pape Matar Sarr,P.M.Sarr,9021,Pape Sarr,513,Spurs,499,Spurs
 184349,Ryan Sessegnon,Sessegnon,6837,Ryan Sessegnon,514,Spurs,579,Fulham
 209042,Oliver Skipp,Skipp,7198,Oliver Skipp,515,Spurs,501,Spurs
 85971,Son Heung-min,Son,453,Son Heung-Min,516,Spurs,503,Spurs
@@ -1000,3 +1000,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 172453,Sam Szmodics,Szmodics,12752,Szmodics,,,611,Ipswich
 472739,Carl Rushworth,Rushworth,,,,,615,Brighton
 501770,Ben Nelson,Nelson,,,,,616,Leicester
+444102,Francisco Evanilson de Lima Barbosa,Evanilson,,,,,617,Bournemouth
+463067,Georginio Rutter,Georginio,6937,Georginio Rutter,,,618,Brighton
+454667,Jens Cajuste,Cajuste,10301,Jens Cajuste,,,619,Ipswich
+502222,Ramón Sosa,Sosa,,,,,620,Nott'm Forest
