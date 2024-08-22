@@ -27,7 +27,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 198869,Benjamin White,White,7298,Ben White,29,Arsenal,24,Arsenal
 84450,Granit Xhaka,Xhaka,204,Granit Xhaka,,,,
 206325,Oleksandr Zinchenko,Zinchenko,2958,Oleksandr Zinchenko,31,Arsenal,25,Arsenal
-106468,Álex Moreno Lopera,Alex Moreno,4120,Álex Moreno,32,Aston Villa,26,Aston Villa
+106468,Álex Moreno Lopera,Alex Moreno,4120,Álex Moreno,32,Aston Villa,26,Nott'm Forest
 433979,Cameron Archer,Archer,9912,Cameron Archer,33,Sheffield Utd,27,Southampton
 215711,Leon Bailey,Bailey,5221,Leon Bailey,34,Aston Villa,28,Aston Villa
 195546,Emiliano Buendía Stati,Buendia,2203,Emiliano Buendía,35,Aston Villa,31,Aston Villa
@@ -400,7 +400,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 173904,Davinson Sánchez,Sánchez,6249,Davinson Sánchez,,,,
 482442,Pape Matar Sarr,P.M.Sarr,9021,Pape Sarr,513,Spurs,499,Spurs
 184349,Ryan Sessegnon,Sessegnon,6837,Ryan Sessegnon,514,Spurs,579,Fulham
-209042,Oliver Skipp,Skipp,7198,Oliver Skipp,515,Spurs,501,Spurs
+209042,Oliver Skipp,Skipp,7198,Oliver Skipp,515,Spurs,501,Leicester
 85971,Son Heung-min,Son,453,Son Heung-Min,516,Spurs,503,Spurs
 232859,Djed Spence,Spence,10764,Djed Spence,517,Spurs,504,Spurs
 199584,Japhet Tanganga,Tanganga,8222,Japhet Tanganga,,,,
@@ -586,7 +586,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 538206,Jordan Amissah,Amissah,,,,,,
 82691,George Baldock,Baldock,7706,George Baldock,,,,
 40386,Chris Basham,Basham,7704,Chris Basham,,,,
-207189,Sander Berge,Berge,8285,Sander Berge,,,,
+207189,Sander Berge,Berge,8285,Sander Berge,,,622,Fulham
 226182,Jayden Bogle,Bogle,9205,Jayden Bogle,,,,
 195473,Rhian Brewster,Brewster,5569,Rhian Brewster,,,,
 476938,Ismaila Coulibaly,Coulibaly,,,,,,
@@ -1004,3 +1004,5 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 463067,Georginio Rutter,Georginio,6937,Georginio Rutter,,,618,Brighton
 454667,Jens Cajuste,Cajuste,10301,Jens Cajuste,,,619,Ipswich
 502222,Ramón Sosa,Sosa,,,,,620,Nott'm Forest
+428399,João Félix Sequeira,João Félix,7892,João Félix,,,621,Chelsea
+551226,Mateus Gonçalo Espanha Fernandes,M.Fernandes,,,,,623,Southampton
