@@ -169,7 +169,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 51090,Thiago Emiliano da Silva,T.Silva,3288,Thiago Silva,,,,
 124183,Hakim Ziyech,Ziyech,8992,Hakim Ziyech,,,,
 466117,Naouirou Ahamada,Ahamada,9274,Naouirou Ahamada,219,Crystal Palace,190,Crystal Palace
-174874,Joachim Andersen,Andersen,6314,Joachim Andersen,220,Crystal Palace,191,Crystal Palace
+174874,Joachim Andersen,Andersen,6314,Joachim Andersen,220,Crystal Palace,191,Fulham
 80146,Jordan Ayew,J.Ayew,672,Jordan Ayew,221,Crystal Palace,192,Crystal Palace
 57328,Nathaniel Clyne,Clyne,603,Nathaniel Clyne,222,Crystal Palace,196,Crystal Palace
 438464,Cheick Doucouré,C.Doucouré,8666,Cheick Oumar Doucoure,223,Crystal Palace,193,Crystal Palace
@@ -258,7 +258,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 118748,Mohamed Salah,M.Salah,1250,Mohamed Salah,308,Liverpool,328,Liverpool
 61558,Thiago Alcántara do Nascimento,Thiago,229,Thiago Alcántara,,,,
 214285,Konstantinos Tsimikas,Tsimikas,8852,Konstantinos Tsimikas,311,Liverpool,337,Liverpool
-444765,Sepp van den Berg,Van den Berg,10721,Sepp van den Berg,312,Liverpool,338,Liverpool
+444765,Sepp van den Berg,Van den Berg,10721,Sepp van den Berg,312,Liverpool,338,Brentford
 97032,Virgil van Dijk,Virgil,833,Virgil van Dijk,313,Liverpool,339,Liverpool
 211975,Manuel Akanji,Akanji,6490,Manuel Akanji,341,Man City,340,Man City
 126184,Nathan Aké,Aké,579,Nathan Aké,342,Man City,341,Man City
@@ -1006,3 +1006,5 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 502222,Ramón Sosa,Sosa,,,,,620,Nott'm Forest
 428399,João Félix Sequeira,João Félix,7892,João Félix,,,621,Chelsea
 551226,Mateus Gonçalo Espanha Fernandes,M.Fernandes,,,,,623,Southampton
+40349,Asmir Begovic,Begovic,694,Asmir Begovic,,,624,Everton
+59859,Ilkay Gündogan,Gündogan,314,Ilkay Gündogan,,,625,Man City
