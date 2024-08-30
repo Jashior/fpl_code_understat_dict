@@ -14,7 +14,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 184029,Martin Ødegaard,Ødegaard,2517,Martin Odegaard,14,Arsenal,13,Arsenal
 167199,Thomas Partey,Thomas,2328,Thomas Partey,15,Arsenal,20,Arsenal
 195735,Nicolas Pépé,Pepe,5656,Nicolas Pepe,,,,
-225321,Aaron Ramsdale,Ramsdale,5603,Aaron Ramsdale,17,Arsenal,14,Arsenal
+225321,Aaron Ramsdale,Ramsdale,5603,Aaron Ramsdale,17,Arsenal,14,Southampton
 223340,Bukayo Saka,Saka,7322,Bukayo Saka,19,Arsenal,17,Arsenal
 462424,William Saliba,Saliba,6888,William Saliba,20,Arsenal,18,Arsenal
 437742,Albert Sambi Lokonga,Sambi,9689,Albert Sambi Lokonga,,,,
@@ -142,7 +142,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 120202,Wout Weghorst,Weghorst,7052,Wout Weghorst,,,,
 199598,Ethan Ampadu,Ampadu,6369,Ethan Ampadu,,,,
 532605,Andrey Nascimento dos Santos,Andrey Santos,11808,Andrey Santos,186,Chelsea,150,Chelsea
-109745,Kepa Arrizabalaga,Arrizabalaga,5061,Kepa,187,Chelsea,152,Chelsea
+109745,Kepa Arrizabalaga,Arrizabalaga,5061,Kepa,187,Chelsea,152,Bournemouth
 54694,Pierre-Emerick Aubameyang,Aubameyang,318,Pierre-Emerick Aubameyang,,,,
 41328,César Azpilicueta,Azpilicueta,681,César Azpilicueta,,,,
 242880,Benoît Badiashile,B.Badiashile,7240,Benoit Badiashile Mukinayi,191,Chelsea,153,Chelsea
@@ -502,7 +502,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 60586,Jóhann Berg Gudmundsson,Gudmundsson,1663,Johann Berg Gudmundsson,,,,
 483391,Luke McNally,McNally,,,,,,
 232917,Arijanet Muric,Muric,7027,Arijanet Muric,172,Burnley,568,Ipswich
-216616,Dara O'Shea,O'Shea,8756,Dara O'Shea,,,,
+216616,Dara O'Shea,O'Shea,8756,Dara O'Shea,,,630,Ipswich
 220598,Michael Obafemi,Obafemi,6504,Michael Obafemi,,,,
 220037,Bailey Peacock-Farrell,Peacock-Farrell,8482,Bailey Peacock-Farrell,,,,
 192290,Connor Roberts,Roberts,5568,Connor Roberts,,,,
@@ -546,7 +546,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 453537,Carlos Mendes Gomes,Mendes,,,,,,
 156700,Carlton Morris,Morris,11717,Carlton Morris,,,,
 174595,Admiral Muskwe,Muskwe,,,,,,
-229164,Chiedozie Ogbene,Ogbene,11719,Chiedozie Ogbene,,,,
+229164,Chiedozie Ogbene,Ogbene,11719,Chiedozie Ogbene,,,632,Ipswich
 168035,Fred Onyedinma,Onyedinma,12549,Fred Onyedinma,,,,
 199056,Gabriel Osho,Osho,12151,Gabriel Osho,,,,
 490180,Aribim Pepple,Pepple,,,,,,
@@ -893,7 +893,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 122411,Cameron Burgess,Burgess,,,,,263,Ipswich
 149929,Wes Burns,Burns,12749,Wes Burns,,,264,Ipswich
 196411,Conor Chaplin,Chaplin,12750,Conor Chaplin,,,265,Ipswich
-232228,Harry Clarke,Clarke,,,,,266,Ipswich
+232228,Harry Clarke,H.Clarke,,,,,266,Ipswich
 455084,Leif Davis,Davis,8919,Leif Davis,,,267,Ipswich
 463034,Liam Delap,Delap,8868,Liam Delap,,,268,Ipswich
 214964,George Edmundson,Edmundson,12947,George Edmundson,,,269,Ipswich
@@ -1009,3 +1009,11 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 40349,Asmir Begovic,Begovic,694,Asmir Begovic,,,624,Everton
 59859,Ilkay Gündogan,Gündogan,314,Ilkay Gündogan,,,625,Man City
 496178,Roman Dixon,Dixon,12946,Roman Dixon,,,627,Everton
+195384,Mikel Merino,Merino,5304,Mikel Merino,,,633,Arsenal
+626464,Gustavo Nunes Fernandes Gomes,G.Nunes,,,,,634,Brentford
+231416,Ferdi Kadioglu,F.Kadıoğlu,,,,,628,Brighton
+219249,Matt O'Riley,O'Riley,,,,,629,Brighton
+443261,Jack Clarke,J.Clarke,,,,,631,Ipswich
+513527,Bilal El Khannouss,El Khannouss,,,,,635,Leicester
+223541,Federico Chiesa,Chiesa,1433,Federico Chiesa,,,636,Liverpool
+560248,Bastien Meupiyou,Meupiyou,11775,Bastien Meupiyou,,,637,Wolves
