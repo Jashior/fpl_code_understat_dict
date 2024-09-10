@@ -40,7 +40,14 @@ jobs:
             cd /home/dev/fpl_code_understat_dict
             git pull
             npm install
-            pm2 restart fpl_code_understat_dict
+            # Check if fpl_code_understat_dict is running in PM2
+            if pm2 list | grep -q "fpl_code_understat_dict"; then
+              echo "fpl_code_understat_dict is already running, restarting..."
+              pm2 restart fpl_code_understat_dict
+            else
+              echo "fpl_code_understat_dict is not running, starting..."
+              pm2 start ecosystem.config.js 
+            fi
 
       # Add steps here to configure Nginx/Apache for subdomain deployment if needed
       # - Create/modify virtual host for fpl.zanaris.dev
