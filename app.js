@@ -22,7 +22,6 @@ app.get("/code_dict.csv", (req, res) => {
   try {
     const data = fs.readFileSync(filePath, "utf8");
     res.set("Content-Type", "text/plain");
-    res.set("Content-Type", "text/csv");
     res.set("Cache-Control", "public, max-age=600");
     res.send(data);
   } catch (err) {
