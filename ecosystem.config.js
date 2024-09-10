@@ -2,7 +2,8 @@ module.exports = {
   apps: [
     {
       name: "fpl_code_understat_dict",
-      script: "app.js",
+      script: "nodemon",
+      args: "--ext js,csv app.js", // Watch .js and .csv files, then run app.js
       instances: 1,
       autorestart: true,
       watch: true,
