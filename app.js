@@ -20,6 +20,11 @@ app.get("/code_dict.csv", (req, res) => {
   }
 });
 
+// Basic route for the root path "/"
+app.get("/", (req, res) => {
+  res.send("Welcome to the FPL code dictionary CSV server!");
+});
+
 // Start the server
 app.listen(port, () => {
   console.log(`Started. Server listening on port ${port}`);
