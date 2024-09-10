@@ -1,19 +1,9 @@
 const express = require("express");
 const fs = require("fs"); // Import the 'fs' module for file system operations
 const path = require("path");
-const cors = require("cors");
 
 const app = express();
 const port = 3001;
-
-// Use CORS middleware
-app.use(
-  cors({
-    origin: "*", // Allow all origins
-    methods: "GET,POST,OPTIONS", // Allow specific methods
-    allowedHeaders: "Content-Type, Authorization", // Allow specific headers
-  })
-);
 
 // Serve the code_dict.csv file and display in browser
 app.get("/code_dict.csv", (req, res) => {
