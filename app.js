@@ -8,11 +8,13 @@ const port = 3001;
 // Serve the code_dict.csv file and display in browser
 app.get("/code_dict.csv", (req, res) => {
   const filePath = path.join(__dirname, "code_dict.csv");
-
   // Read the file synchronously on each request
   try {
     const data = fs.readFileSync(filePath, "utf8");
     res.set("Content-Type", "text/plain");
+    res.set("Cache-Control", "no-cache, no-store, must-revalidate");
+    res.set("Pragma", "no-cache");
+    res.set("Expires", "0");
     res.send(data);
   } catch (err) {
     console.error(err);
