@@ -1,9 +1,11 @@
 const express = require("express");
 const fs = require("fs"); // Import the 'fs' module for file system operations
 const path = require("path");
+const cors = require("cors");
 
 const app = express();
 const port = 3001;
+app.use(cors());
 
 // Serve the code_dict.csv file and display in browser
 app.get("/code_dict.csv", (req, res) => {
