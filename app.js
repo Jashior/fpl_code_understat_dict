@@ -9,20 +9,18 @@ const port = 3001;
 app.get("/code_dict.csv", (req, res) => {
   const filePath = path.join(__dirname, "code_dict.csv");
 
-  fs.readFile(filePath, "utf8", (err, data) => {
-    // Read the CSV file
-    if (err) {
-      console.error(err);
-      res.status(500).send("Error reading CSV file");
-      return;
-    }
-
-    res.set("Content-Type", "text/plain"); // Set the content type to plain text
-    res.send(data); // Send the CSV data as the response
-  });
+  // Read the file synchronously on each request
+  try {
+    const data = fs.readFileSync(filePath, "utf8");
+    res.set("Content-Type", "text/plain");
+    res.send(data);
+  } catch (err) {
+    console.error(err);
+    res.status(500).send("Error reading CSV file");
+  }
 });
 
 // Start the server
 app.listen(port, () => {
-  console.log(`Server listening on port ${port}`);
+  console.log(`Started. Server listening on port ${port}`);
 });
