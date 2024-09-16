@@ -1,38 +1,38 @@
-const fs = require("fs");
-const csv = require("csv-parser");
-const createCsvWriter = require("csv-writer").createObjectCsvWriter;
-const axios = require("axios");
+const fs = require('fs');
+const csv = require('csv-parser');
+const createCsvWriter = require('csv-writer').createObjectCsvWriter;
+const axios = require('axios');
 
-console.log("Fetching JSON data...");
+console.log('Fetching JSON data...');
 // Fetch JSON data from the URL
 axios
-  .get("https://fantasy.premierleague.com/api/bootstrap-static/")
+  .get('https://fantasy.premierleague.com/api/bootstrap-static/')
   .then((response) => {
-    console.log("JSON data fetched successfully.");
+    console.log('JSON data fetched successfully.');
     const jsonData = response.data;
     const elements = jsonData.elements;
 
     // Read existing CSV data
     const existingData = [];
-    fs.createReadStream("code_dict.csv")
+    fs.createReadStream('code_dict.csv')
       .pipe(csv())
-      .on("data", (row) => {
+      .on('data', (row) => {
         existingData.push(row);
       })
-      .on("end", () => {
-        console.log("CSV data read successfully.");
+      .on('end', () => {
+        console.log('CSV data read successfully.');
 
         // Add missing columns to the header
         const header = [
-          { id: "Code", title: "Code" },
-          { id: "FPL_Name", title: "FPL_Name" },
-          { id: "Web_Name", title: "Web_Name" },
-          { id: "Understat_ID", title: "Understat_ID" },
-          { id: "Understat_Name", title: "Understat_Name" },
-          { id: "FPL_ID_2023_24", title: "FPL_ID_2023-24" },
-          { id: "Team_2023_24", title: "Team_2023-24" },
-          { id: "FPL_ID_2024_25", title: "FPL_ID_2024-25" },
-          { id: "Team_2024_25", title: "Team_2024-25" },
+          { id: 'Code', title: 'Code' },
+          { id: 'FPL_Name', title: 'FPL_Name' },
+          { id: 'Web_Name', title: 'Web_Name' },
+          { id: 'Understat_ID', title: 'Understat_ID' },
+          { id: 'Understat_Name', title: 'Understat_Name' },
+          { id: 'FPL_ID_2023_24', title: 'FPL_ID_2023-24' },
+          { id: 'Team_2023_24', title: 'Team_2023-24' },
+          { id: 'FPL_ID_2024_25', title: 'FPL_ID_2024-25' },
+          { id: 'Team_2024_25', title: 'Team_2024-25' },
         ];
 
         // Process each element
@@ -47,7 +47,7 @@ axios
             minutes,
           } = element;
           const fplName = `${first_name} ${second_name}`;
-          const teamName = team_codes[team_code] || ""; // Get the team name or use an empty string
+          const teamName = team_codes[team_code] || ''; // Get the team name or use an empty string
 
           // Find the matching player in existingData
           const existingPlayer = existingData.find(
@@ -61,8 +61,8 @@ axios
 
             // Previous Years
             existingPlayer.FPL_ID_2023_24 =
-              existingPlayer["FPL_ID_2023-24"] || "";
-            existingPlayer.Team_2023_24 = existingPlayer["Team_2023-24"] || "";
+              existingPlayer['FPL_ID_2023-24'] || '';
+            existingPlayer.Team_2023_24 = existingPlayer['Team_2023-24'] || '';
 
             // Current Year
             existingPlayer.FPL_ID_2024_25 = id;
@@ -86,10 +86,10 @@ axios
                 Code: code,
                 FPL_Name: fplName,
                 Web_Name: web_name,
-                Understat_ID: "",
-                Understat_Name: "",
-                FPL_ID_2023_24: "",
-                Team_2023_24: "",
+                Understat_ID: '',
+                Understat_Name: '',
+                FPL_ID_2023_24: '',
+                Team_2023_24: '',
                 FPL_ID_2024_25: id,
                 Team_2024_25: teamName,
               };
@@ -103,47 +103,47 @@ axios
 
         // Write updated data back to CSV
         const csvWriter = createCsvWriter({
-          path: "code_dict.csv",
+          path: 'code_dict.csv',
           header: header,
         });
 
         csvWriter
           .writeRecords(existingData)
           .then(() => {
-            console.log("CSV file updated successfully.");
+            console.log('CSV file updated successfully.');
           })
           .catch((error) => {
-            console.error("Error writing to CSV file:", error);
+            console.error('Error writing to CSV file:', error);
           });
       });
   })
   .catch((error) => {
-    console.error("Error fetching JSON data:", error);
+    console.error('Error fetching JSON data:', error);
   });
 
 const team_codes = {
-  1: "Man Utd",
-  2: "Leeds",
-  3: "Arsenal",
-  4: "Newcastle",
-  6: "Spurs",
-  8: "Chelsea",
-  7: "Aston Villa",
-  11: "Everton",
-  13: "Leicester",
-  14: "Liverpool",
+  1: 'Man Utd',
+  2: 'Leeds',
+  3: 'Arsenal',
+  4: 'Newcastle',
+  6: 'Spurs',
+  8: 'Chelsea',
+  7: 'Aston Villa',
+  11: 'Everton',
+  13: 'Leicester',
+  14: 'Liverpool',
   17: "Nott'm Forest",
-  20: "Southampton",
-  21: "West Ham",
-  31: "Crystal Palace",
-  36: "Brighton",
-  39: "Wolves",
-  40: "Ipswich",
-  43: "Man City",
-  49: "Sheffield Utd",
-  54: "Fulham",
-  90: "Burnley",
-  91: "Bournemouth",
-  94: "Brentford",
-  102: "Luton",
+  20: 'Southampton',
+  21: 'West Ham',
+  31: 'Crystal Palace',
+  36: 'Brighton',
+  39: 'Wolves',
+  40: 'Ipswich',
+  43: 'Man City',
+  49: 'Sheffield Utd',
+  54: 'Fulham',
+  90: 'Burnley',
+  91: 'Bournemouth',
+  94: 'Brentford',
+  102: 'Luton',
 };

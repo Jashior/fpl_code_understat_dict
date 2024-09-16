@@ -527,7 +527,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 441302,Ian Maatsen,Maatsen,11807,Ian Maatsen,609,Chelsea,45,Aston Villa
 220362,Axel Disasi,Disasi,6885,Axel Disasi,611,Chelsea,167,Chelsea
 503714,Lesley Ugochukwu,Ugochukwu,9451,Chimuanya Ugochukwu,613,Chelsea,188,Southampton
-512462,Jake O'Brien,O'Brien,,,235,Crystal Palace,582,Everton
+512462,Jake O'Brien,O'Brien,12014,Jake O'Brien,235,Crystal Palace,582,Everton
 536694,Matheus França de Oliveira,M.França,12152,Matheus França,615,Crystal Palace,208,Crystal Palace
 222627,João Neves Virgínia,J.Virginia,8366,João Virgínia,266,Everton,227,Everton
 232892,Calvin Bassey,Bassey,11728,Calvin Bassey,610,Fulham,241,Fulham
@@ -860,7 +860,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 499721,Mikey Moore,Moore,12603,Mikey Moore,,,610,Spurs
 549014,Noël Atom,Atom,,,,,,
 563934,Tyrese Hall,Hall,,,,,,
-537403,Kadan Young,Young,,,,,,
+537403,Kadan Young,Young,,,,,656,Aston Villa
 646754,Lander Emery,Emery,,,,,,
 628204,Yunus Emre Konak,Konak,,,864,Brentford,97,Brentford
 438405,Billy Crellin,Crellin,,,,,,
@@ -967,7 +967,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 147611,Paul Onuachu,Onuachu,11360,Paul Onuachu,,,470,Southampton
 214466,Will Smallbone,Smallbone,8224,William Smallbone,,,471,Southampton
 88900,Jack Stephens,Stephens,1735,Jack Stephens,,,472,Southampton
-230348,Ross Stewart,Stewart,,,,,473,Southampton
+230348,Ross Stewart,Stewart,13060,Ross Stewart,,,473,Southampton
 219279,Sugawara Yukinari,Sugawara,12761,Yukinari Sugawara,,,474,Southampton
 158534,Kyle Walker-Peters,Walker-Peters,885,Kyle Walker-Peters,,,476,Southampton
 244845,Nathan Wood-Gordon,Wood,,,,,477,Southampton
@@ -1011,7 +1011,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 496178,Roman Dixon,Dixon,12946,Roman Dixon,,,627,Everton
 195384,Mikel Merino,Merino,5304,Mikel Merino,,,633,Arsenal
 626464,Gustavo Nunes Fernandes Gomes,G.Nunes,,,,,634,Brentford
-231416,Ferdi Kadioglu,F.Kadıoğlu,,,,,628,Brighton
+231416,Ferdi Kadioglu,F.Kadıoğlu,13066,Ferdi Kadioglu,,,628,Brighton
 219249,Matt O'Riley,O'Riley,,,,,629,Brighton
 443261,Jack Clarke,J.Clarke,13019,Jack Clarke,,,631,Ipswich
 513527,Bilal El Khannouss,El Khannouss,13020,Bilal El Khannouss,,,635,Leicester
@@ -1026,6 +1026,9 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 579075,Asher Agbinone,Agbinone,,,,,646,Crystal Palace
 437499,Maxence Lacroix,Lacroix,8853,Maxence Lacroix,,,650,Crystal Palace
 232112,Manuel Ugarte,Ugarte,11766,Manuel Ugarte,,,652,Man Utd
-485047,Felipe Rodrigues da Silva,Morato,,,,,653,Nott'm Forest
+485047,Felipe Rodrigues da Silva,Morato,13068,Morato,,,653,Nott'm Forest
 224860,Carlos Soler,C.Soler,2478,Carlos Soler,,,654,West Ham
-463212,Carlos Roberto Forbs Borges,Forbs,,,,,655,Wolves
+463212,Carlos Roberto Forbs Borges,Forbs,13092,Carlos Forbs,,,655,Wolves
+588793,Maldini Kacurri,Kacurri,,,,,657,Arsenal
+606745,Ayden Heaven,Heaven,,,,,658,Arsenal
+588796,Ismeal Kabia,Kabia,,,,,659,Arsenal
