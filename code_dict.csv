@@ -109,7 +109,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 513418,Kevin Schade,Schade,9156,Kevin Schade,115,Brentford,106,Brentford
 140200,Thomas Strakosha,Strakosha,1214,Thomas Strakosha,,,,
 144485,Ivan Toney,Toney,998,Ivan Toney,117,Brentford,108,Brentford
-591357,Ryan Trevitt,Trevitt,,,,,602,Brentford
+591357,Ryan Trevitt,Trevitt,11146,Ryan Trevitt,,,602,Brentford
 216646,Yoane Wissa,Wissa,5786,Yoane Wissa,119,Brentford,110,Brentford
 48760,Mathias Jorgensen,Zanka,6030,Zanka,121,Brentford,112,Brentford
 235382,Steven Alzate,Alzate,8020,Steven Alzate,,,,
@@ -757,7 +757,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 443629,Marcelo de Araújo Pitaluga Filho,Pitaluga,,,,,,
 492777,Conor Bradley,Bradley,10120,Conor Bradley,757,Liverpool,313,Liverpool
 552425,Sydie Peck,Peck,12251,Sydie Peck,,,,
-499169,Myles Lewis-Skelly,Lewis-Skelly,,,,,597,Arsenal
+499169,Myles Lewis-Skelly,Lewis-Skelly,12272,Myles Lewis-Skelly,,,597,Arsenal
 564505,Sam Proctor,Proctor,,,,,,
 501468,Tayo Adaramola,Adaramola,,,,,,
 491557,Jenson Metcalfe,Metcalfe,,,,,614,Everton
@@ -862,7 +862,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 563934,Tyrese Hall,Hall,,,,,,
 537403,Kadan Young,Young,,,,,656,Aston Villa
 646754,Lander Emery,Emery,,,,,,
-628204,Yunus Emre Konak,Konak,,,864,Brentford,97,Brentford
+628204,Yunus Emre Konak,Konak,12633,Yunus Konak,864,Brentford,97,Brentford
 438405,Billy Crellin,Crellin,,,,,,
 466075,Riccardo Calafiori,Calafiori,8129,Riccardo Calafiori,,,578,Arsenal
 491287,Enzo Barrenechea,Barrenechea,11140,Enzo Barrenechea,,,30,Aston Villa
@@ -975,7 +975,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 496179,Alfie Devine,Devine,,,,,485,Spurs
 547701,Archie Gray,Gray,10184,Archie Gray,,,489,Spurs
 577114,Luis Guilherme Lira dos Santos,L.Guilherme,,,,,526,West Ham
-229384,Andy Irving,Irving,,,,,576,West Ham
+229384,Andy Irving,Irving,12774,Andy Irving,,,576,West Ham
 450070,Crysencio Summerville,Summerville,9492,Crysencio Summerville,,,587,West Ham
 197024,Guido Rodríguez,G.Rodríguez,8267,Guido Rodríguez,,,588,West Ham
 91889,Niclas Füllkrug,Füllkrug,6098,Niclas Füllkrug,,,589,West Ham
@@ -1032,3 +1032,5 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 588793,Maldini Kacurri,Kacurri,,,,,657,Arsenal
 606745,Ayden Heaven,Heaven,,,,,658,Arsenal
 588796,Ismeal Kabia,Kabia,,,,,659,Arsenal
+592662,Tony Yogane,Yogane,,,,,661,Brentford
+432987,Vítezslav Jaros,Jaros,,,,,660,Liverpool
