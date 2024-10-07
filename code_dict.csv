@@ -961,7 +961,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 515571,Juan Larios López,Larios,11078,Juan Larios,,,464,Southampton
 200428,Mateusz Lis,Lis,11103,Mateusz Lis,,,465,Southampton
 167888,Joe Lumley,Lumley,,,,,466,Southampton
-204863,Ryan Manning,Manning,,,,,467,Southampton
+204863,Ryan Manning,Manning,13134,Ryan Manning,,,467,Southampton
 476888,Sékou Mara,Mara,8970,Sékou Mara,,,468,Southampton
 58376,Alex McCarthy,McCarthy,635,Alex McCarthy,,,469,Southampton
 147611,Paul Onuachu,Onuachu,11360,Paul Onuachu,,,470,Southampton
@@ -974,7 +974,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 570526,Lucas Bergvall,Bergvall,12912,Lucas Bergvall,,,481,Spurs
 496179,Alfie Devine,Devine,,,,,485,Spurs
 547701,Archie Gray,Gray,10184,Archie Gray,,,489,Spurs
-577114,Luis Guilherme Lira dos Santos,L.Guilherme,,,,,526,West Ham
+577114,Luis Guilherme Lira dos Santos,L.Guilherme,13026,Luis Guilherme,,,526,West Ham
 229384,Andy Irving,Irving,12774,Andy Irving,,,576,West Ham
 450070,Crysencio Summerville,Summerville,9492,Crysencio Summerville,,,587,West Ham
 197024,Guido Rodríguez,G.Rodríguez,8267,Guido Rodríguez,,,588,West Ham
@@ -1033,4 +1033,9 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 606745,Ayden Heaven,Heaven,,,,,658,Arsenal
 588796,Ismeal Kabia,Kabia,,,,,659,Arsenal
 592662,Tony Yogane,Yogane,,,,,661,Brentford
-432987,Vítezslav Jaros,Jaros,,,,,660,Liverpool
+432987,Vítezslav Jaros,Jaros,13103,Vítezslav Jaros,,,660,Liverpool
+499167,Josh Nichols,Nichols,,,,,662,Arsenal
+447720,Imari Samuels,Samuels,,,,,663,Brighton
+517179,Alfie Pond,Pond,,,,,664,Wolves
+461025,Nathan Butler-Oyedeji,Butler-Oyedeji,,,,,665,Arsenal
+590012,Caleb Kporha,Kporha,,,,,666,Crystal Palace
