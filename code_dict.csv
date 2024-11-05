@@ -811,7 +811,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 550596,Dominic Sadi,Sadi,11300,Dominic Sadi,,,,
 514514,Lewis Koumas,Koumas,,,,,,
 518199,Fabian Mrozek,Mrozek,,,,,,
-516250,Jacob Wright,Wright,,,,,,
+516250,Jacob Wright,Wright,,,,,671,Man City
 504751,Mauro Bandeira,Bandeira,,,,,,
 503308,James Sweet,Sweet,,,,,,
 462492,Joe Gauci,Gauci,,,818,Aston Villa,39,Aston Villa
@@ -844,7 +844,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 445548,Odeluga Offiah,Offiah,10453,Odeluga Offiah,845,Brighton,139,Brighton
 634640,Christian Chigozie,Chigozie,,,,,,
 499857,Teddy Sharman-Lowe,Sharman-Lowe,,,,,,
-577974,Harry Amass,Amass,,,,,,
+577974,Harry Amass,Amass,,,,,670,Man Utd
 596572,Michael Dacosta Gonzalez,Dacosta Gonzalez,,,,,,
 550615,Tyrique George,George,,,,,,
 559963,Kiano Dyer,Dyer,,,,,,
@@ -944,7 +944,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 19236,John Ruddy,Ruddy,785,John Ruddy,,,414,Newcastle
 578512,Miodrag Pivaš,Pivas,,,,,574,Newcastle
 475123,Carlos Miguel dos Santos Pereira,C.Miguel,,,,,427,Nott'm Forest
-569014,Eric da Silva Moreira,Da Silva Moreira,,,,,428,Nott'm Forest
+569014,Eric da Silva Moreira,Da Silva Moreira,12765,Eric da Silva Moreira,,,428,Nott'm Forest
 227444,Nikola Milenković,Milenković,6174,Nikola Milenkovic,,,573,Nott'm Forest
 502697,Carlos Alcaraz Durán,Alcaraz,11297,Carlos Alcaraz,,,450,Southampton
 499724,Samuel Amo-Ameyaw,Amo-Ameyaw,11618,Samuel Amo-Ameyaw,,,451,Southampton
@@ -1040,3 +1040,8 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 461025,Nathan Butler-Oyedeji,Butler-Oyedeji,,,,,665,Arsenal
 590012,Caleb Kporha,Kporha,,,,,666,Crystal Palace
 547037,Jack Fletcher,Fletcher,,,,,667,Man Utd
+565858,Killian Cahill,Cahill,,,,,668,Brighton
+464353,Harvey Davies,Davies,,,,,669,Liverpool
+220695,Paris Maghoma,Maghoma,,,,,674,Brentford
+554194,Jahmai Simpson-Pusey,Simpson-Pusey,,,,,672,Man City
+556639,Jayce Fitzgerald,Fitzgerald,,,,,673,Man Utd
