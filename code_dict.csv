@@ -781,7 +781,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 524070,Jamie McDonnell,McDonnell,,,,,,
 536677,Detlef Esapa Osong,Osong,,,,,,
 536681,Joe Gardner,Gardner,,,,,,
-536109,Oliver Scarles,Scarles,,,,,,
+536109,Ollie Scarles,Scarles,,,,,677,West Ham
 565431,Callum Marshall,Marshall,,,,,,
 491598,Cameron Peupion,Peupion,11544,Cameron Peupion,786,Brighton,140,Brighton
 449133,Harvey Griffiths,Griffiths,,,,,,
@@ -1012,7 +1012,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 195384,Mikel Merino,Merino,5304,Mikel Merino,,,633,Arsenal
 626464,Gustavo Nunes Fernandes Gomes,G.Nunes,,,,,634,Brentford
 231416,Ferdi Kadioglu,F.Kadıoğlu,13066,Ferdi Kadioglu,,,628,Brighton
-219249,Matt O'Riley,O'Riley,,,,,629,Brighton
+219249,Matt O'Riley,O'Riley,13206,Matt O'Riley,,,629,Brighton
 443261,Jack Clarke,J.Clarke,13019,Jack Clarke,,,631,Ipswich
 513527,Bilal El Khannouss,El Khannouss,13020,Bilal El Khannouss,,,635,Leicester
 223541,Federico Chiesa,Chiesa,1433,Federico Chiesa,,,636,Liverpool
@@ -1022,7 +1022,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 514287,Sil Swinkels,Swinkels,,,,,640,Aston Villa
 509291,André Trindade da Costa Neto,André,13022,André,,,642,Wolves
 499717,Jayden Meghoma,Meghoma,,,,,649,Brentford
-489706,Justin Devenny,Devenny,,,,,645,Crystal Palace
+489706,Justin Devenny,Devenny,13038,Justin Devenny,,,645,Crystal Palace
 579075,Asher Agbinone,Agbinone,13039,Asher Agbinone,,,646,Crystal Palace
 437499,Maxence Lacroix,Lacroix,8853,Maxence Lacroix,,,650,Crystal Palace
 232112,Manuel Ugarte,Ugarte,11766,Manuel Ugarte,,,652,Man Utd
@@ -1038,10 +1038,13 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 447720,Imari Samuels,Samuels,,,,,663,Brighton
 517179,Alfie Pond,Pond,,,,,664,Wolves
 461025,Nathan Butler-Oyedeji,Butler-Oyedeji,,,,,665,Arsenal
-590012,Caleb Kporha,Kporha,,,,,666,Crystal Palace
+590012,Caleb Kporha,Kporha,13130,Caleb Kporha,,,666,Crystal Palace
 547037,Jack Fletcher,Fletcher,,,,,667,Man Utd
 565858,Killian Cahill,Cahill,,,,,668,Brighton
 464353,Harvey Davies,Davies,,,,,669,Liverpool
 220695,Paris Maghoma,Maghoma,,,,,674,Brentford
-554194,Jahmai Simpson-Pusey,Simpson-Pusey,,,,,672,Man City
+554194,Jahmai Simpson-Pusey,Simpson-Pusey,13185,Jahmai Simpson-Pusey,,,672,Man City
 556639,Jayce Fitzgerald,Fitzgerald,,,,,673,Man Utd
+576980,Zach Marsh,Marsh,,,,,676,Crystal Palace
+547801,Callum Bates,Bates,,,,,678,Everton
+447880,Josh Wilson-Esbrand,Wilson-Esbrand,10005,Joshua Wilson-Esbrand,,,675,Man City
