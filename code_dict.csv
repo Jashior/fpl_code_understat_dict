@@ -789,7 +789,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 465390,Kaine Kesler-Hayden,Kesler-Hayden,9409,Kaine Hayden,793,Aston Villa,43,Aston Villa
 244850,Morgan Rogers,Rogers,12412,Morgan Rogers,803,Aston Villa,54,Aston Villa
 441240,Romain Faivre,Faivre,6420,Romain Faivre,799,Bournemouth,66,Bournemouth
-496683,Max Kinsey,Kinsey,,,,,,
+496683,Max Kinsey,Kinsey,,,,,680,Bournemouth
 168636,Enes Ünal,Enes Ünal,6219,Enes Ünal,804,Bournemouth,65,Bournemouth
 507433,Hákon Valdimarsson,Valdimarsson,,,789,Brentford,109,Brentford
 612534,Benjamin Fredrick,Fredrick,,,,,,
@@ -871,7 +871,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 514315,Lino da Cruz Sousa,Sousa,,,,,56,Aston Villa
 495145,Alex Paulsen,Paulsen,,,,,75,Bournemouth
 554605,Dean Huijsen,Huijsen,11943,Dean Huijsen,,,580,Bournemouth
-502500,Igor Thiago Nascimento Rodrigues,Thiago,,,,,107,Brentford
+502500,Igor Thiago Nascimento Rodrigues,Thiago,13222,Thiago,,,107,Brentford
 519324,Amario Cozier-Duberry,Cozier-Duberry,,,,,118,Brighton
 612855,Ibrahim Osman,I.Osman,,,,,127,Brighton
 550141,Adrian Mazilu,Mazilu,,,,,133,Brighton
@@ -1036,7 +1036,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 432987,Vítezslav Jaros,Jaros,13103,Vítezslav Jaros,,,660,Liverpool
 499167,Josh Nichols,Nichols,,,,,662,Arsenal
 447720,Imari Samuels,Samuels,,,,,663,Brighton
-517179,Alfie Pond,Pond,,,,,664,Wolves
+517179,Alfie Pond,Pond,13117,Alfie Pond,,,664,Wolves
 461025,Nathan Butler-Oyedeji,Butler-Oyedeji,,,,,665,Arsenal
 590012,Caleb Kporha,Kporha,13130,Caleb Kporha,,,666,Crystal Palace
 547037,Jack Fletcher,Fletcher,,,,,667,Man Utd
@@ -1048,3 +1048,8 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 576980,Zach Marsh,Marsh,,,,,676,Crystal Palace
 547801,Callum Bates,Bates,,,,,678,Everton
 447880,Josh Wilson-Esbrand,Wilson-Esbrand,10005,Joshua Wilson-Esbrand,,,675,Man City
+577731,Ben Broggio,Broggio,,,,,679,Aston Villa
+539721,Ruairi McConville,McConville,,,,,681,Brighton
+499726,Callum Olusesi,Olusesi,,,,,683,Spurs
+611920,Malachi Hardy,Hardy,,,,,684,Spurs
+596054,Tom Edozie,Edozie,,,,,682,Wolves
