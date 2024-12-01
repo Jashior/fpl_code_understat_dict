@@ -738,7 +738,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 450539,Myles Peart-Harris,Peart-Harris,10205,Myles Peart-Harris,744,Brentford,103,Brentford
 574402,Mark O’Mahony,O’Mahony,12205,Mark O’Mahony,741,Brighton,138,Brighton
 475480,Benicio Baker-Boaitey,Baker-Boaitey,12204,Benicio Baker-Boaitey,742,Brighton,114,Brighton
-591386,Treymaurice Nyoni,Nyoni,,,,,,
+591386,Treymaurice Nyoni,Nyoni,,,,,688,Liverpool
 248859,Amadou Diallo,Diallo,12200,Amadou Diallo,,,,
 547716,Ben Parkinson,Parkinson,12198,Ben Parkinson,,,,
 519321,Alfie Dorrington,Dorrington,,,,,,
@@ -960,7 +960,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 504783,Kamaldeen Sulemana,Kamaldeen,9630,Kamaldeen Sulemana,,,462,Southampton
 515571,Juan Larios López,Larios,11078,Juan Larios,,,464,Southampton
 200428,Mateusz Lis,Lis,11103,Mateusz Lis,,,465,Southampton
-167888,Joe Lumley,Lumley,,,,,466,Southampton
+167888,Joe Lumley,Lumley,12762,Joe Lumley,,,466,Southampton
 204863,Ryan Manning,Manning,13134,Ryan Manning,,,467,Southampton
 476888,Sékou Mara,Mara,8970,Sékou Mara,,,468,Southampton
 58376,Alex McCarthy,McCarthy,635,Alex McCarthy,,,469,Southampton
@@ -996,7 +996,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 230001,Noussair Mazraoui,Mazraoui,10696,Noussair Mazraoui,,,594,Man Utd
 510500,João Pedro Ferreira Silva,Jota Silva,12766,Jota Silva,,,596,Nott'm Forest
 496661,Tyler Dibling,Dibling,10586,Tyler Dibling,,,608,Southampton
-552427,Will Lankshear,Lankshear,,,,,609,Spurs
+552427,Will Lankshear,Lankshear,13127,Will Lankshear,,,609,Spurs
 172453,Sam Szmodics,Szmodics,12752,Szmodics,,,611,Ipswich
 472739,Carl Rushworth,Rushworth,,,,,615,Brighton
 501770,Ben Nelson,Nelson,,,,,616,Leicester
@@ -1053,3 +1053,8 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 499726,Callum Olusesi,Olusesi,,,,,683,Spurs
 611920,Malachi Hardy,Hardy,,,,,684,Spurs
 596054,Tom Edozie,Edozie,,,,,682,Wolves
+606775,Ben Winterburn,Winterburn,,,,,687,Bournemouth
+589100,Jacob Slater,Slater,,,,,685,Brighton
+591385,Samuel Amissah,Amissah,,,,,690,Fulham
+611917,Luca Williams-Barnett,Williams-Barnett,,,,,689,Spurs
+602903,Ezra Mayers,Mayers,,,,,686,West Ham
