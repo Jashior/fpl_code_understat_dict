@@ -807,7 +807,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 551232,Rodrigo Duarte Ribeiro,Ribeiro,12418,Rodrigo Ribeiro,,,,
 173268,Ivo Grbic,Grbić,8923,Ivo Grbic,,,,
 550833,Noha Lemina,N.Lemina,,,,,,
-577725,Josh King,King,,,,,604,Fulham
+577725,Josh King,King,12410,Joshua King,,,604,Fulham
 550596,Dominic Sadi,Sadi,11300,Dominic Sadi,,,,
 514514,Lewis Koumas,Koumas,,,,,,
 518199,Fabian Mrozek,Mrozek,,,,,,
@@ -833,7 +833,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 613467,Wesley Okoduwa,Okoduwa,,,,,,
 622536,Benjamin Arthur,Arthur,,,,,,
 577016,Josh Acheampong,Acheampong,12535,Josh Acheampong,,,,
-611926,Amara Nallo,Nallo,,,,,,
+611926,Amara Nallo,Nallo,,,,,692,Liverpool
 461537,Dermot Mee,Mee,,,,,,
 589507,Leon Chiwome,Chiwome,12532,Leon Chiwome,836,Wolves,539,Wolves
 647597,Dominic Dos Santos Martins,Martins,,,,,,
@@ -955,7 +955,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 477386,Armel Bella-Kotchap,Bella-Kotchap,9710,Armel Bella Kotchap,,,456,Southampton
 184386,James Bree,Bree,11359,James Bree,,,457,Southampton
 490503,Samuel Edozie,Edozie,10072,Samuel Edozie,,,459,Southampton
-500926,Ronnie Edwards,Edwards,,,,,460,Southampton
+500926,Ronnie Edwards,Edwards,13239,Ronnie Edwards,,,460,Southampton
 245719,Taylor Harwood-Bellis,Harwood-Bellis,8495,Taylor Harwood-Bellis,,,461,Southampton
 504783,Kamaldeen Sulemana,Kamaldeen,9630,Kamaldeen Sulemana,,,462,Southampton
 515571,Juan Larios López,Larios,11078,Juan Larios,,,464,Southampton
@@ -970,7 +970,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 230348,Ross Stewart,Stewart,13060,Ross Stewart,,,473,Southampton
 219279,Sugawara Yukinari,Sugawara,12761,Yukinari Sugawara,,,474,Southampton
 158534,Kyle Walker-Peters,Walker-Peters,885,Kyle Walker-Peters,,,476,Southampton
-244845,Nathan Wood-Gordon,Wood,,,,,477,Southampton
+244845,Nathan Wood-Gordon,Wood,12763,Nathan Wood,,,477,Southampton
 570526,Lucas Bergvall,Bergvall,12912,Lucas Bergvall,,,481,Spurs
 496179,Alfie Devine,Devine,,,,,485,Spurs
 547701,Archie Gray,Gray,10184,Archie Gray,,,489,Spurs
@@ -1042,7 +1042,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 547037,Jack Fletcher,Fletcher,,,,,667,Man Utd
 565858,Killian Cahill,Cahill,,,,,668,Brighton
 464353,Harvey Davies,Davies,,,,,669,Liverpool
-220695,Paris Maghoma,Maghoma,,,,,674,Brentford
+220695,Paris Maghoma,Maghoma,10053,Paris Maghoma,,,674,Brentford
 554194,Jahmai Simpson-Pusey,Simpson-Pusey,13185,Jahmai Simpson-Pusey,,,672,Man City
 556639,Jayce Fitzgerald,Fitzgerald,,,,,673,Man Utd
 576980,Zach Marsh,Marsh,,,,,676,Crystal Palace
@@ -1058,3 +1058,5 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 591385,Samuel Amissah,Amissah,,,,,690,Fulham
 611917,Luca Williams-Barnett,Williams-Barnett,,,,,689,Spurs
 602903,Ezra Mayers,Mayers,,,,,686,West Ham
+576637,Godwill Kukonki,Kukonki,,,,,691,Man Utd
+545508,Joseph O'Brien-Whitmarsh,O'Brien-Whitmarsh,,,,,693,Southampton
