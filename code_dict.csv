@@ -420,7 +420,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 84939,Danny Ings,Ings,986,Danny Ings,535,West Ham,523,West Ham
 222018,Ben Johnson,Johnson,6424,Ben Johnson,536,West Ham,275,Ipswich
 201057,Thilo Kehrer,Kehrer,2674,Thilo Kehrer,,,,
-487837,Divin Mubama,Mubama,11242,Divin Mubama,,,,
+487837,Divin Mubama,Mubama,11242,Divin Mubama,,,698,Man City
 224024,Lucas Tolentino Coelho de Lima,L.Paquetá,7365,Lucas Paquetá,539,West Ham,527,West Ham
 204480,Declan Rice,Rice,5553,Declan Rice,540,Arsenal,16,Arsenal
 195899,Gianluca Scamacca,Scamacca,6253,Gianluca Scamacca,,,,
@@ -741,7 +741,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 591386,Treymaurice Nyoni,Nyoni,,,,,688,Liverpool
 248859,Amadou Diallo,Diallo,12200,Amadou Diallo,,,,
 547716,Ben Parkinson,Parkinson,12198,Ben Parkinson,,,,
-519321,Alfie Dorrington,Dorrington,,,,,,
+519321,Alfie Dorrington,Dorrington,12193,Alfie Dorrington,,,699,Spurs
 514154,Ben Jackson,Jackson,,,,,,
 532528,Joshua Duffus,Duffus,,,,,,
 515504,Joe Hugill,Hugill,,,,,,
@@ -770,7 +770,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 490095,Ty Barnett,Barnett,,,,,,
 499175,Ethan Nwaneri,Nwaneri,11132,Ethan Nwaneri,772,Arsenal,12,Arsenal
 462438,Micah Hamilton,Hamilton,,,,,,
-518442,Lewis Orford,Orford,,,,,,
+518442,Lewis Orford,Orford,,,,,701,West Ham
 518438,Kaelan Casey,Casey,11409,Kaelan Casey,,,643,West Ham
 204814,Ben Brereton Díaz,Brereton Díaz,11815,Ben Brereton Díaz,775,Sheffield Utd,584,Southampton
 165153,Timo Werner,Werner,65,Timo Werner,776,Spurs,509,Spurs
@@ -781,7 +781,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 524070,Jamie McDonnell,McDonnell,,,,,,
 536677,Detlef Esapa Osong,Osong,,,,,,
 536681,Joe Gardner,Gardner,,,,,,
-536109,Ollie Scarles,Scarles,,,,,677,West Ham
+536109,Ollie Scarles,Scarles,12358,Oliver Scarles,,,677,West Ham
 565431,Callum Marshall,Marshall,,,,,,
 491598,Cameron Peupion,Peupion,11544,Cameron Peupion,786,Brighton,140,Brighton
 449133,Harvey Griffiths,Griffiths,,,,,,
@@ -832,7 +832,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 519325,Habeeb Ogunneye,Ogunneye,,,,,,
 613467,Wesley Okoduwa,Okoduwa,,,,,,
 622536,Benjamin Arthur,Arthur,,,,,,
-577016,Josh Acheampong,Acheampong,12535,Josh Acheampong,,,,
+577016,Josh Acheampong,Acheampong,12535,Josh Acheampong,,,697,Chelsea
 611926,Amara Nallo,Nallo,,,,,692,Liverpool
 461537,Dermot Mee,Mee,,,,,,
 589507,Leon Chiwome,Chiwome,12532,Leon Chiwome,836,Wolves,539,Wolves
@@ -846,7 +846,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 499857,Teddy Sharman-Lowe,Sharman-Lowe,,,,,,
 577974,Harry Amass,Amass,,,,,670,Man Utd
 596572,Michael Dacosta Gonzalez,Dacosta Gonzalez,,,,,,
-550615,Tyrique George,George,,,,,,
+550615,Tyrique George,George,,,,,696,Chelsea
 559963,Kiano Dyer,Dyer,,,,,,
 551995,Taylan Harris,Harris,,,,,,
 575034,Ethan Wheatley,Wheatley,12568,Ethan Wheatley,,,648,Man Utd
@@ -1021,7 +1021,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 551221,Tommy Setford,Setford,,,,,639,Arsenal
 514287,Sil Swinkels,Swinkels,,,,,640,Aston Villa
 509291,André Trindade da Costa Neto,André,13022,André,,,642,Wolves
-499717,Jayden Meghoma,Meghoma,,,,,649,Brentford
+499717,Jayden Meghoma,Meghoma,13067,Jayden Meghoma,,,649,Brentford
 489706,Justin Devenny,Devenny,13038,Justin Devenny,,,645,Crystal Palace
 579075,Asher Agbinone,Agbinone,13039,Asher Agbinone,,,646,Crystal Palace
 437499,Maxence Lacroix,Lacroix,8853,Maxence Lacroix,,,650,Crystal Palace
@@ -1060,3 +1060,6 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 602903,Ezra Mayers,Mayers,,,,,686,West Ham
 576637,Godwill Kukonki,Kukonki,,,,,691,Man Utd
 545508,Joseph O'Brien-Whitmarsh,O'Brien-Whitmarsh,,,,,693,Southampton
+547692,Samuel Rak-Sakyi,Rak-Sakyi,,,,,695,Chelsea
+531997,Henry Cartwright,Cartwright,,,,,694,Leicester
+592736,Maeson King,King,,,,,700,Spurs
