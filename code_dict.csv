@@ -721,7 +721,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 531989,David Ozoh,Ozoh,11268,David Ozoh,721,Crystal Palace,212,Crystal Palace
 513588,Jamie Donley,Donley,12118,Jamie Donley,,,,
 248854,Josh Brooking,Brooking,,,,,,
-570241,Kim Ji-soo,Ji-soo,,,725,Brentford,96,Brentford
+570241,Kim Ji-soo,Ji-soo,12136,Kim Ji-Soo,725,Brentford,96,Brentford
 474908,Jadan Raymond,Raymond,,,,,,
 462491,Luke Chambers,Chambers,,,,,,
 519328,Callum Scanlon,Scanlon,,,,,,
@@ -791,7 +791,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 441240,Romain Faivre,Faivre,6420,Romain Faivre,799,Bournemouth,66,Bournemouth
 496683,Max Kinsey,Kinsey,,,,,680,Bournemouth
 168636,Enes Ünal,Enes Ünal,6219,Enes Ünal,804,Bournemouth,65,Bournemouth
-507433,Hákon Valdimarsson,Valdimarsson,,,789,Brentford,109,Brentford
+507433,Hákon Valdimarsson,Valdimarsson,12595,Hákon Valdimarsson,789,Brentford,109,Brentford
 612534,Benjamin Fredrick,Fredrick,,,,,,
 503724,Lorenz Assignon,Assignon,8973,Lorenz Assignon,,,,
 477717,Maxime Esteve,Estève,9487,Maxime Estève,,,,
@@ -831,7 +831,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 547668,Axel Piesold,Piesold,,,,,,
 519325,Habeeb Ogunneye,Ogunneye,,,,,,
 613467,Wesley Okoduwa,Okoduwa,,,,,,
-622536,Benjamin Arthur,Arthur,,,,,,
+622536,Benjamin Arthur,Arthur,,,,,705,Brentford
 577016,Josh Acheampong,Acheampong,12535,Josh Acheampong,,,697,Chelsea
 611926,Amara Nallo,Nallo,,,,,692,Liverpool
 461537,Dermot Mee,Mee,,,,,,
@@ -929,7 +929,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 473341,Caleb Okoli,Okoli,7333,Caleb Okoli,,,301,Leicester
 111931,Ricardo Barbosa Pereira,Ricardo,3303,Ricardo Pereira,,,302,Leicester
 194190,Harry Souttar,Souttar,6329,Harry Souttar,,,303,Leicester
-436680,Jakub Stolarczyk,Stolarczyk,,,,,304,Leicester
+436680,Jakub Stolarczyk,Stolarczyk,13301,Jakub Stolarczyk,,,304,Leicester
 101668,Jamie Vardy,Vardy,755,Jamie Vardy,,,306,Leicester
 93100,Jannik Vestergaard,Vestergaard,111,Jannik Vestergaard,,,307,Leicester
 95463,Danny Ward,Ward,473,Danny Ward,,,308,Leicester
@@ -1063,3 +1063,6 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 547692,Samuel Rak-Sakyi,Rak-Sakyi,,,,,695,Chelsea
 531997,Henry Cartwright,Cartwright,,,,,694,Leicester
 592736,Maeson King,King,,,,,700,Spurs
+632822,Archie Harris,Harris,,,,,702,Bournemouth
+494307,Max Alleyne,Alleyne,,,,,703,Man City
+613120,Spike Brits,Brits,,,,,704,Man City
