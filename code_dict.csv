@@ -822,7 +822,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 591539,Billy Blacker,Blacker,,,,,,
 532372,Oliver Arblaster,Arblaster,12449,Oliver Arblaster,,,,
 530318,Kaden Rodney,Rodney,,,,,647,Crystal Palace
-500058,Jayden Danns,Danns,12455,Jayden Danns,,,,
+500058,Jayden Danns,Danns,12455,Jayden Danns,,,709,Liverpool
 490881,Toby Collyer,Collyer,12461,Toby Collyer,,,613,Man Utd
 616094,Dovydas Sasnauskas,Sasnauskas,,,,,,
 549344,Sam Curtis,Curtis,12465,Sam Curtis,,,,
@@ -990,7 +990,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 513834,Andrew Moran,Moran,11193,Andrew Moran,,,601,Brighton
 609873,Harrison Armstrong,Armstrong,12757,Harrison Armstrong,,,603,Everton
 573062,Martial Godo,Godo,11164,Martial Godo,,,605,Fulham
-532534,Will Alves,Alves,,,,,606,Leicester
+532534,Will Alves,Alves,13302,Will Alves,,,606,Leicester
 472769,Nico O'Reilly,O’Reilly,,,,,607,Man City
 209365,Matthijs de Ligt,De Ligt,7902,Matthijs de Ligt,,,593,Man Utd
 230001,Noussair Mazraoui,Mazraoui,10696,Noussair Mazraoui,,,594,Man Utd
@@ -1053,7 +1053,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 499726,Callum Olusesi,Olusesi,,,,,683,Spurs
 611920,Malachi Hardy,Hardy,,,,,684,Spurs
 596054,Tom Edozie,Edozie,,,,,682,Wolves
-606775,Ben Winterburn,Winterburn,,,,,687,Bournemouth
+606775,Ben Winterburn,Winterburn,13242,Ben Winterburn,,,687,Bournemouth
 589100,Jacob Slater,Slater,,,,,685,Brighton
 591385,Samuel Amissah,Amissah,,,,,690,Fulham
 611917,Luca Williams-Barnett,Williams-Barnett,,,,,689,Spurs
@@ -1066,3 +1066,6 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 632822,Archie Harris,Harris,,,,,702,Bournemouth
 494307,Max Alleyne,Alleyne,,,,,703,Man City
 613120,Spike Brits,Brits,,,,,704,Man City
+606774,Remy Rees-Dottin,Rees-Dottin,,,,,707,Bournemouth
+532535,Thomas Wilson-Brown,Wilson-Brown,,,,,708,Leicester
+549067,Zach Abbott,Abbott,,,,,706,Nott'm Forest
