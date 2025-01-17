@@ -49,7 +49,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 149484,Tyrone Mings,Mings,1024,Tyrone Mings,51,Aston Villa,49,Aston Villa
 184704,Marvelous Nakamba,Nakamba,8040,Marvelous Nakamba,,,,
 111782,Robin Olsen,Olsen,6962,Robin Olsen,53,Aston Villa,51,Aston Villa
-481624,Jaden Philogene,Jaden,9415,Jaden Philogene-Bidace,54,Aston Villa,569,Aston Villa
+481624,Jaden Philogene,Jaden,9415,Jaden Philogene-Bidace,54,Aston Villa,569,Ipswich
 232653,Jacob Ramsey,Ramsey,8941,Jacob Ramsey,55,Aston Villa,53,Aston Villa
 122775,Morgan Sanson,Sanson,3696,Morgan Sanson,,,,
 248164,Viljami Sinisalo,Sinisalo,,,57,Aston Villa,55,Aston Villa
@@ -148,7 +148,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 242880,Benoît Badiashile,B.Badiashile,7240,Benoit Badiashile Mukinayi,191,Chelsea,153,Chelsea
 122074,Marcus Bettinelli,Bettinelli,7076,Marcus Bettinelli,192,Chelsea,155,Chelsea
 440323,Armando Broja,Broja,8384,Armando Broja,193,Fulham,156,Everton
-180736,Trevoh Chalobah,Chalobah,6615,Trevoh Chalobah,194,Chelsea,159,Crystal Palace
+180736,Trevoh Chalobah,Chalobah,6615,Trevoh Chalobah,194,Chelsea,159,Chelsea
 172850,Ben Chilwell,Chilwell,782,Ben Chilwell,195,Chelsea,160,Chelsea
 478912,Carney Chukwuemeka,Chukwuemeka,9356,Carney Chukwuemeka,196,Chelsea,161,Chelsea
 460028,Levi Colwill,Colwill,10805,Levi Colwill,197,Chelsea,162,Chelsea
@@ -357,7 +357,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 116404,Felipe Augusto de Almeida Monteiro,Felipe,7921,Felipe,,,,
 89076,Remo Freuler,Freuler,1488,Remo Freuler,,,,
 222531,Morgan Gibbs-White,Gibbs-White,6857,Morgan Gibbs-White,447,Nott'm Forest,433,Nott'm Forest
-20066,Wayne Hennessey,Hennessey,509,Wayne Hennessey,,,,
+20066,Wayne Hennessey,Hennessey,509,Wayne Hennessey,,,721,Nott'm Forest
 242898,Brennan Johnson,Johnson,10760,Brennan Johnson,450,Spurs,491,Spurs
 55037,Cheikhou Kouyaté,Kouyaté,532,Cheikhou Kouyaté,,,,
 221403,Richie Laryea,Laryea,,,,,,
@@ -808,7 +808,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 173268,Ivo Grbic,Grbić,8923,Ivo Grbic,,,,
 550833,Noha Lemina,N.Lemina,,,,,,
 577725,Josh King,King,12410,Joshua King,,,604,Fulham
-550596,Dominic Sadi,Sadi,11300,Dominic Sadi,,,,
+550596,Dominic Sadi,Sadi,11300,Dominic Sadi,,,723,Bournemouth
 514514,Lewis Koumas,Koumas,,,,,,
 518199,Fabian Mrozek,Mrozek,,,,,,
 516250,Jacob Wright,Wright,,,,,671,Man City
@@ -938,7 +938,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 244858,Fábio Freitas Gouveia Carvalho,Carvalho,9501,Fabio Carvalho,,,314,Brentford
 440148,Tyler Morton,Morton,10091,Tyler Morton,,,331,Liverpool
 219937,Rhys Williams,R.Williams,9086,Rhys Williams,,,334,Liverpool
-510281,Sávio 'Savinho' Moreira de Oliveira,Sávio,11735,Sávio,,,571,Man City
+510281,Sávio 'Savinho' Moreira de Oliveira,Savinho,11735,Sávio,,,571,Man City
 458249,Joshua Zirkzee,Zirkzee,8044,Joshua Zirkzee,,,389,Man Utd
 550864,Leny Yoro,Yoro,10564,Leny Yoro,,,572,Man Utd
 19236,John Ruddy,Ruddy,785,John Ruddy,,,414,Newcastle
@@ -1074,5 +1074,11 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 575901,Julio Soler,Soler,,,,,713,Bournemouth
 514254,Diego Gómez,Gómez,,,,,714,Brighton
 500016,Welington Damascena Santos,Welington,,,,,718,Southampton
-485055,Antonín Kinsky,Kinsky,,,,,716,Spurs
+485055,Antonín Kinsky,Kinsky,13348,Antonín Kinsky,,,716,Spurs
 623095,Min-Hyeok Yang,Yang,,,,,717,Spurs
+204646,Donyell Malen,Malen,,,,,725,Aston Villa
+590760,Daniel Adu-Adjei,Adu-Adjei,,,,,722,Bournemouth
+536241,Martin Sherif,Sherif,,,,,724,Everton
+488439,Woyo Coulibaly,Coulibaly,,,,,726,Leicester
+620408,Joachim Kayi-Sanda,Kayi Sanda,,,,,719,Southampton
+516939,Emmanuel Agbadou,Agbadou,10856,Emmanuel Agbadou,,,720,Wolves
