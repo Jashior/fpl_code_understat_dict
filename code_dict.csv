@@ -764,13 +764,13 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 491745,Elijah Campbell,Campbell,,,,,,
 496283,Mahamadou Susoho,Susoho,,,,,,
 518466,Willy Kambwala,Kambwala,12275,Willy Kambwala,,,,
-515599,Tommi O'Reilly,O'Reilly,,,,,,
+515599,Tommi O'Reilly,O'Reilly,11592,Nico O'Reilly,,,,
 515500,Rhys Bennett,Bennett,,,,,,
 432712,Owen Hesketh,Hesketh,,,,,,
 490095,Ty Barnett,Barnett,,,,,,
 499175,Ethan Nwaneri,Nwaneri,11132,Ethan Nwaneri,772,Arsenal,12,Arsenal
 462438,Micah Hamilton,Hamilton,,,,,,
-518442,Lewis Orford,Orford,,,,,701,West Ham
+518442,Lewis Orford,Orford,12296,Lewis Orford,,,701,West Ham
 518438,Kaelan Casey,Casey,11409,Kaelan Casey,,,643,West Ham
 204814,Ben Brereton Díaz,Brereton Díaz,11815,Ben Brereton Díaz,775,Sheffield Utd,584,Southampton
 165153,Timo Werner,Werner,65,Timo Werner,776,Spurs,509,Spurs
@@ -846,13 +846,13 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 499857,Teddy Sharman-Lowe,Sharman-Lowe,,,,,,
 577974,Harry Amass,Amass,,,,,670,Man Utd
 596572,Michael Dacosta Gonzalez,Dacosta Gonzalez,,,,,,
-550615,Tyrique George,George,,,,,696,Chelsea
+550615,Tyrique George,George,12573,Tyrique George,,,696,Chelsea
 559963,Kiano Dyer,Dyer,,,,,,
 551995,Taylan Harris,Harris,,,,,,
 575034,Ethan Wheatley,Wheatley,12568,Ethan Wheatley,,,648,Man Utd
 514362,Temple Ojinnaka,Ojinnaka,,,,,,
 521966,Finley Munroe,Munroe,12581,Finley Munroe,,,,
-568791,Callan McKenna,McKenna,,,,,,
+568791,Callan McKenna,McKenna,,,,,727,Bournemouth
 530117,Louis Jackson,Jackson,,,,,,
 591538,Owen Hampson,Hampson,,,,,,
 518892,Ted Curd,Curd,,,,,,
@@ -1066,13 +1066,13 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 632822,Archie Harris,Harris,,,,,702,Bournemouth
 494307,Max Alleyne,Alleyne,,,,,703,Man City
 613120,Spike Brits,Brits,,,,,704,Man City
-606774,Remy Rees-Dottin,Rees-Dottin,,,,,707,Bournemouth
+606774,Remy Rees-Dottin,Rees-Dottin,13307,Remy Rees-Dottin,,,707,Bournemouth
 532535,Thomas Wilson-Brown,Wilson-Brown,,,,,708,Leicester
 549067,Zach Abbott,Abbott,,,,,706,Nott'm Forest
 559962,Jamaldeen Jimoh,Jimoh,,,,,710,Aston Villa
 541462,Matai Akinmboni,Akinmboni,,,,,712,Bournemouth
 575901,Julio Soler,Soler,,,,,713,Bournemouth
-514254,Diego Gómez,Gómez,,,,,714,Brighton
+514254,Diego Gómez,Gómez,13364,Diego Gómez,,,714,Brighton
 500016,Welington Damascena Santos,Welington,,,,,718,Southampton
 485055,Antonín Kinsky,Kinsky,13348,Antonín Kinsky,,,716,Spurs
 623095,Min-Hyeok Yang,Yang,,,,,717,Spurs
@@ -1082,3 +1082,8 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 488439,Woyo Coulibaly,Coulibaly,,,,,726,Leicester
 620408,Joachim Kayi-Sanda,Kayi Sanda,,,,,719,Southampton
 516939,Emmanuel Agbadou,Agbadou,10856,Emmanuel Agbadou,,,720,Wolves
+606798,Andrés García,A. Garcia,,,,,731,Aston Villa
+530121,Zain Silcott-Duberry,Silcott-Duberry,,,,,728,Bournemouth
+606921,Romain Esse,Esse,,,,,730,Crystal Palace
+578153,Abdukodir Khusanov,Khusanov,11763,Abduqodir Khusanov,,,732,Man City
+574799,Damola Ajayi,Ajayi,,,,,729,Spurs
