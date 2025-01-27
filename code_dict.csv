@@ -117,7 +117,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 536916,Facundo Buonanotte,Buonanotte,11362,Facundo Buonanotte,125,Brighton,117,Leicester
 486672,Moisés Caicedo Corozo,Caicedo,9453,Moisés Caicedo,126,Chelsea,157,Chelsea
 83299,Lewis Dunk,Dunk,6048,Lewis Dunk,129,Brighton,120,Brighton
-474120,Julio Enciso,Enciso,11058,Julio Enciso,130,Brighton,121,Brighton
+474120,Julio Enciso,Enciso,11058,Julio Enciso,130,Brighton,121,Ipswich
 204214,Pervis Estupiñán,Estupiñan,5136,Estupiñán,131,Brighton,122,Brighton
 487117,Evan Ferguson,Ferguson,10177,Evan Ferguson,132,Brighton,123,Brighton
 243568,Billy Gilmour,Gilmour,7988,Billy Gilmour,133,Brighton,124,Brighton
@@ -764,7 +764,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 491745,Elijah Campbell,Campbell,,,,,,
 496283,Mahamadou Susoho,Susoho,,,,,,
 518466,Willy Kambwala,Kambwala,12275,Willy Kambwala,,,,
-515599,Tommi O'Reilly,O'Reilly,11592,Nico O'Reilly,,,,
+515599,Tommi O'Reilly,O'Reilly,,,,,,
 515500,Rhys Bennett,Bennett,,,,,,
 432712,Owen Hesketh,Hesketh,,,,,,
 490095,Ty Barnett,Barnett,,,,,,
@@ -991,7 +991,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 609873,Harrison Armstrong,Armstrong,12757,Harrison Armstrong,,,603,Everton
 573062,Martial Godo,Godo,11164,Martial Godo,,,605,Fulham
 532534,Will Alves,Alves,13302,Will Alves,,,606,Leicester
-472769,Nico O'Reilly,O’Reilly,,,,,607,Man City
+472769,Nico O'Reilly,O’Reilly,11592,Nico O'Reilly,,,607,Man City
 209365,Matthijs de Ligt,De Ligt,7902,Matthijs de Ligt,,,593,Man Utd
 230001,Noussair Mazraoui,Mazraoui,10696,Noussair Mazraoui,,,594,Man Utd
 510500,João Pedro Ferreira Silva,Jota Silva,12766,Jota Silva,,,596,Nott'm Forest
@@ -1076,14 +1076,38 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 500016,Welington Damascena Santos,Welington,,,,,718,Southampton
 485055,Antonín Kinsky,Kinsky,13348,Antonín Kinsky,,,716,Spurs
 623095,Min-Hyeok Yang,Yang,,,,,717,Spurs
-204646,Donyell Malen,Malen,,,,,725,Aston Villa
+204646,Donyell Malen,Malen,9749,Donyell Malen,,,725,Aston Villa
 590760,Daniel Adu-Adjei,Adu-Adjei,,,,,722,Bournemouth
 536241,Martin Sherif,Sherif,,,,,724,Everton
-488439,Woyo Coulibaly,Coulibaly,,,,,726,Leicester
+488439,Woyo Coulibaly,Coulibaly,12782,Woyo Coulibaly,,,726,Leicester
 620408,Joachim Kayi-Sanda,Kayi Sanda,,,,,719,Southampton
 516939,Emmanuel Agbadou,Agbadou,10856,Emmanuel Agbadou,,,720,Wolves
 606798,Andrés García,A. Garcia,,,,,731,Aston Villa
-530121,Zain Silcott-Duberry,Silcott-Duberry,,,,,728,Bournemouth
-606921,Romain Esse,Esse,,,,,730,Crystal Palace
+530121,Zain Silcott-Duberry,Silcott-Duberry,13351,Zain Silcott-Duberry,,,728,Bournemouth
+606921,Romain Esse,Esse,13387,Romain Esse,,,730,Crystal Palace
 578153,Abdukodir Khusanov,Khusanov,11763,Abduqodir Khusanov,,,732,Man City
 574799,Damola Ajayi,Ajayi,,,,,729,Spurs
+100051017,Mikel Arteta,Arteta,,,,,735,Arsenal
+616059,Jack Porter,Porter,,,,,756,Arsenal
+100037568,Unai Emery,Emery,,,,,737,Aston Villa
+100050427,Andoni Iraola,Iraola,,,,,738,Bournemouth
+100042830,Thomas Frank,Frank,,,,,752,Brentford
+100053901,Fabian Hürzeler,Hürzeler,,,,,739,Brighton
+100048548,Enzo Maresca,Maresca,,,,,740,Chelsea
+100044409,Oliver Glasner,Glasner,,,,,741,Crystal Palace
+100000084,David Moyes,Moyes,,,,,742,Everton
+100041800,Marco Alexandre Saraiva da Silva,Silva,,,,,753,Fulham
+100047417,Kieran McKenna,McKenna,,,,,743,Ipswich
+100050995,Ruud van Nistelrooij,Van Nistelrooy,,,,,754,Leicester
+100052173,Arne Slot,Slot,,,,,744,Liverpool
+616222,Vitor de Oliveira Nunes dos Reis,Vitor Reis,,,,,733,Man City
+100037973,Pep Guardiola,Guardiola,,,,,736,Man City
+438234,Omar Marmoush,Marmoush,8393,Omar Marmoush,,,755,Man City
+100053636,Ruben Filipe Marques Diogo Amorim,Amorim,,,,,745,Man Utd
+100038215,Eddie Howe,Howe,,,,,746,Newcastle
+100041808,Nuno Herlander Simões Espírito Santo,Nuno,,,,,747,Nott'm Forest
+494779,Albert Grønbæk,Grønbæk,,,,,734,Southampton
+100045653,Ivan Juric,Jurić,,,,,748,Southampton
+100041880,Ange Postecoglou,Postecoglou,,,,,749,Spurs
+100046435,Graham Potter,Potter,,,,,750,West Ham
+100040854,Vítor Manuel de Oliveira Lopes Pereira,Pereira,,,,,751,Wolves
