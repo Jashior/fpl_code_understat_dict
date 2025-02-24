@@ -816,7 +816,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 503308,James Sweet,Sweet,,,,,,
 462492,Joe Gauci,Gauci,,,818,Aston Villa,39,Aston Villa
 543158,Valentín Barco,Barco,12498,Valentín Barco,816,Brighton,116,Brighton
-536238,Ishé Samuels-Smith,Samuels-Smith,,,,,,
+536238,Ishé Samuels-Smith,Samuels-Smith,,,,,782,Chelsea
 597983,Ollie Harrison,Harrison,,,,,,
 574398,Franco Umeh-Chibueze,Umeh-Chibueze,,,,,644,Crystal Palace
 591539,Billy Blacker,Blacker,,,,,,
@@ -1125,7 +1125,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 501620,Dante Cassanova,Cassanova,,,,,760,Spurs
 135720,Kevin Danso,Danso,5261,Kevin Danso,,,767,Spurs
 511499,Mathys Tel,Tel,9780,Mathys Tel,,,768,Spurs
-531170,Nasser Djiga,Djiga,,,,,769,Wolves
+531170,Nasser Djiga,Djiga,13463,Nasser Djiga,,,769,Wolves
 433312,Marshall Munetsi,Munetsi,7908,Marshall Munetsi,,,770,Wolves
 622758,Aaron Anselmino,Anselmino,,,,,774,Chelsea
 504296,Coby Ebere,Coby Ebere,,,,,775,Everton
@@ -1133,3 +1133,6 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 547676,Tyler Fredricson,Fredricson,,,,,777,Man Utd
 559684,Jack Moorhouse,Moorhouse,,,,,778,Man Utd
 618873,Sékou Koné,Koné,,,,,779,Man Utd
+533710,Iwan Morgan,Morgan,,,,,780,Brentford
+567119,Shumaira Mheuka,Mheuka,,,,,781,Chelsea
+439483,Hubert Graczyk,Graczyk,,,,,783,Man Utd
