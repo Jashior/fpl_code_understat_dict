@@ -792,7 +792,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 496683,Max Kinsey,Kinsey,,,,,680,Bournemouth
 168636,Enes Ünal,Enes Ünal,6219,Enes Ünal,804,Bournemouth,65,Bournemouth
 507433,Hákon Valdimarsson,Valdimarsson,12595,Hákon Valdimarsson,789,Brentford,109,Brentford
-612534,Benjamin Fredrick,Fredrick,,,,,,
+612534,Benjamin Fredrick,Benjamin Fredrick,,,,,786,Brentford
 503724,Lorenz Assignon,Assignon,8973,Lorenz Assignon,,,,
 477717,Maxime Esteve,Estève,9487,Maxime Estève,,,,
 505187,Cesare Casadei,Casadei,10433,Cesare Casadei,791,Chelsea,158,Chelsea
@@ -834,7 +834,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 622536,Benjamin Arthur,Arthur,,,,,705,Brentford
 577016,Josh Acheampong,Acheampong,12535,Josh Acheampong,,,697,Chelsea
 611926,Amara Nallo,Nallo,,,,,692,Liverpool
-461537,Dermot Mee,Mee,,,,,,
+461537,Dermot Mee,Dermot Mee,,,,,788,Man Utd
 589507,Leon Chiwome,Chiwome,12532,Leon Chiwome,836,Wolves,539,Wolves
 647597,Dominic Dos Santos Martins,Martins,,,,,,
 513840,Samy Chouchane,Chouchane,,,,,,
@@ -1030,7 +1030,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 224860,Carlos Soler,C.Soler,2478,Carlos Soler,,,654,West Ham
 463212,Carlos Roberto Forbs Borges,Forbs,13092,Carlos Forbs,,,655,Wolves
 588793,Maldini Kacurri,Kacurri,,,,,657,Arsenal
-606745,Ayden Heaven,Heaven,,,,,658,Man Utd
+606745,Ayden Heaven,Heaven,13080,Ayden Heaven,,,658,Man Utd
 588796,Ismeal Kabia,Kabia,,,,,659,Arsenal
 592662,Tony Yogane,Yogane,,,,,661,Brentford
 432987,Vítezslav Jaros,Jaros,13103,Vítezslav Jaros,,,660,Liverpool
@@ -1138,3 +1138,5 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 439483,Hubert Graczyk,Graczyk,,,,,783,Man Utd
 647671,Mateus Mané,Mané,,,,,784,Wolves
 575204,Claudio Echeverri,Echeverri,,,,,785,Man City
+591382,Genesis Antwi,Genesis Antwi,,,,,787,Chelsea
+599303,Sean Neave,Neave,,,,,789,Newcastle
