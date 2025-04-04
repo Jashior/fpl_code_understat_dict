@@ -1100,7 +1100,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 100047417,Kieran McKenna,McKenna,,,,,743,Ipswich
 100050995,Ruud van Nistelrooij,Van Nistelrooy,,,,,754,Leicester
 100052173,Arne Slot,Slot,,,,,744,Liverpool
-616222,Vitor de Oliveira Nunes dos Reis,Vitor Reis,,,,,733,Man City
+616222,Vitor de Oliveira Nunes dos Reis,Vitor Reis,13380,Vitor Reis,,,733,Man City
 100037973,Pep Guardiola,Guardiola,,,,,736,Man City
 438234,Omar Marmoush,Marmoush,8393,Omar Marmoush,,,755,Man City
 100053636,Ruben Filipe Marques Diogo Amorim,Amorim,,,,,745,Man Utd
@@ -1115,7 +1115,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 607464,Michael Kayode,Kayode,11281,Michael Kayode,,,757,Brentford
 535017,Julian Eyestone,Eyestone,,,,,759,Brentford
 567121,Joe Knight,Knight,,,,,758,Brighton
-439135,Eiran Cashin,Cashin,,,,,763,Brighton
+439135,Eiran Cashin,Cashin,13459,Eiran Cashin,,,763,Brighton
 609640,Mathis Amougou,Amougou,12808,Mathis Amougou,,,771,Chelsea
 496279,Isaac Heath,Heath,,,,,773,Everton
 112520,Alex Palmer,Palmer,1038,Alex Palmer,,,764,Ipswich
@@ -1140,3 +1140,5 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 575204,Claudio Echeverri,Echeverri,,,,,785,Man City
 591382,Genesis Antwi,Genesis Antwi,,,,,787,Chelsea
 599303,Sean Neave,Neave,,,,,789,Newcastle
+538182,Jimi Gower,Gower,,,,,790,Arsenal
+547720,Charlie Tasker,Charlie Tasker,,,,,791,Brighton
