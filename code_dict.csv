@@ -693,7 +693,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 437757,Han-Noah Massengo,Massengo,7264,Han-Noah Massengo,,,,
 486385,Norberto Bercique Gomes Betuncal,Beto,9983,Beto,691,Everton,218,Everton
 428971,Steven Benda,Benda,,,692,Fulham,242,Fulham
-451302,Altay Bayindir,Bayindir,,,695,Man Utd,367,Man Utd
+451302,Altay Bayindir,Bayindir,12054,Altay Bayindir,695,Man Utd,367,Man Utd
 575476,Murillo Santiago Costa dos Santos,Murillo,12123,Murillo,696,Nott'm Forest,436,Nott'm Forest
 244619,Luke Thomas,Thomas,8562,Luke Thomas,693,Sheffield Utd,305,Leicester
 231480,Santiago Bueno,S.Bueno,10945,Santiago Bueno,697,Wolves,564,Wolves
@@ -1010,7 +1010,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 59859,Ilkay Gündogan,Gündogan,314,Ilkay Gündogan,,,625,Man City
 496178,Roman Dixon,Dixon,12946,Roman Dixon,,,627,Everton
 195384,Mikel Merino,Merino,5304,Mikel Merino,,,633,Arsenal
-626464,Gustavo Nunes Fernandes Gomes,G.Nunes,,,,,634,Brentford
+626464,Gustavo Nunes Fernandes Gomes,G.Nunes,13588,Gustavo Nunes,,,634,Brentford
 231416,Ferdi Kadioglu,F.Kadıoğlu,13066,Ferdi Kadioglu,,,628,Brighton
 219249,Matt O'Riley,O'Riley,13206,Matt O'Riley,,,629,Brighton
 443261,Jack Clarke,J.Clarke,13019,Jack Clarke,,,631,Ipswich
@@ -1071,7 +1071,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 549067,Zach Abbott,Abbott,,,,,706,Nott'm Forest
 559962,Jamaldeen Jimoh,Jimoh,,,,,710,Aston Villa
 541462,Matai Akinmboni,Akinmboni,,,,,712,Bournemouth
-575901,Julio Soler,Soler,,,,,713,Bournemouth
+575901,Julio Soler,Soler,13474,Julio Soler,,,713,Bournemouth
 514254,Diego Gómez,Gómez,13364,Diego Gómez,,,714,Brighton
 500016,Welington Damascena Santos,Welington,13403,Welington,,,718,Southampton
 485055,Antonín Kinsky,Kinsky,13348,Antonín Kinsky,,,716,Spurs
@@ -1107,7 +1107,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 100038215,Eddie Howe,Howe,,,,,746,Newcastle
 100041808,Nuno Herlander Simões Espírito Santo,Nuno,,,,,747,Nott'm Forest
 494779,Albert Grønbæk,Grønbæk,12880,Albert Grønbæk,,,734,Southampton
-100045653,Ivan Juric,Jurić,,,,,748,Southampton
+100045653,Ivan Juric,Jurić,,,,,,
 100041880,Ange Postecoglou,Postecoglou,,,,,749,Spurs
 100046435,Graham Potter,Potter,,,,,750,West Ham
 100040854,Vítor Manuel de Oliveira Lopes Pereira,Pereira,,,,,751,Wolves
@@ -1142,3 +1142,11 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 599303,Sean Neave,Neave,,,,,789,Newcastle
 538182,Jimi Gower,Gower,,,,,790,Arsenal
 547720,Charlie Tasker,Charlie Tasker,,,,,791,Brighton
+514307,Jack Henry-Francis,Jack Henry-Francis,,,,,793,Arsenal
+604988,Freddie Simmonds,Freddie Simmonds,,,,,794,Brighton
+597320,Harry Howell,Harry Howell,,,,,795,Brighton
+649208,Jeremy Monga,Monga,,,,,792,Leicester
+619146,Olabade Aluko,Olabade Aluko,,,,,796,Leicester
+630664,Jake Evans,Jake Evans,,,,,797,Leicester
+100047426,Simon Rusk,Rusk,,,,,748,Southampton
+495024,Jay Robinson,Jay Robinson,,,,,798,Southampton
