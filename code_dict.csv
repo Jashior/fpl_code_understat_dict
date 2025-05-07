@@ -917,7 +917,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 94147,Conor Coady,Coady,6851,Conor Coady,,,288,Leicester
 245419,Patson Daka,Daka,9738,Patson Daka,,,289,Leicester
 218218,Wout Faes,Faes,8646,Wout Faes,,,291,Leicester
-549640,Michael Golding,Golding,,,,,292,Leicester
+549640,Michael Golding,Golding,13606,Michael Golding,,,292,Leicester
 467189,Mads Hermansen,Hermansen,12910,Mads Hermansen,,,293,Leicester
 207270,Daniel Iversen,Iversen,10808,Daniel Iversen,,,294,Leicester
 220627,James Justin,Justin,7753,James Justin,,,295,Leicester
@@ -1151,3 +1151,5 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 100047426,Simon Rusk,Rusk,,,,,748,Southampton
 495024,Jay Robinson,Jay Robinson,13582,Jay Robinson,,,798,Southampton
 547693,Somto Boniface,Boniface,,,,,799,Ipswich
+592712,Tom Taylor,Tom Taylor,,,,,800,Ipswich
+563324,Brayden Clarke,Clarke,,,,,801,Arsenal
