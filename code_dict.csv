@@ -614,7 +614,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 431960,Bendegúz Bolla,Bolla,,,,,,
 441271,Ki-Jana Hoever,Hoever,8351,Ki-Jana Hoever,556,Wolves,552,Wolves
 428610,Bruno Cavaco Jordão,Jordão,6336,Bruno Jordao,,,,
-138001,Tom King,King,,,564,Wolves,556,Wolves
+138001,Tom King,King,12245,Tom King,564,Wolves,556,Wolves
 549068,Omari Kellyman,Kellyman,11739,Omari Kellyman,618,Aston Villa,173,Chelsea
 474772,Ben Greenwood,Greenwood,,,,,,
 501284,Michael Olakigbe,Olakigbe,11487,Michael Olakigbe,,,,
@@ -1080,7 +1080,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 590760,Daniel Adu-Adjei,Adu-Adjei,,,,,722,Bournemouth
 536241,Martin Sherif,Sherif,,,,,724,Everton
 488439,Woyo Coulibaly,Coulibaly,12782,Woyo Coulibaly,,,726,Leicester
-620408,Joachim Kayi-Sanda,Kayi Sanda,,,,,719,Southampton
+620408,Joachim Kayi-Sanda,Kayi Sanda,13636,Joachim Kayi-Sanda,,,719,Southampton
 516939,Emmanuel Agbadou,Agbadou,10856,Emmanuel Agbadou,,,720,Wolves
 606798,Andrés García,A. Garcia,13392,Andrés García,,,731,Aston Villa
 530121,Zain Silcott-Duberry,Silcott-Duberry,13351,Zain Silcott-Duberry,,,728,Bournemouth
@@ -1137,19 +1137,22 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 567119,Shumaira Mheuka,Mheuka,13476,Shumaira Mheuka,,,781,Chelsea
 439483,Hubert Graczyk,Graczyk,,,,,783,Man Utd
 647671,Mateus Mané,Mané,13484,Mateus Mané,,,784,Wolves
-575204,Claudio Echeverri,Echeverri,,,,,785,Man City
+575204,Claudio Echeverri,Echeverri,13649,Claudio Echeverri,,,785,Man City
 591382,Genesis Antwi,Genesis Antwi,,,,,787,Chelsea
 599303,Sean Neave,Neave,,,,,789,Newcastle
 538182,Jimi Gower,Gower,,,,,790,Arsenal
 547720,Charlie Tasker,Charlie Tasker,,,,,791,Brighton
 514307,Jack Henry-Francis,Jack Henry-Francis,,,,,793,Arsenal
 604988,Freddie Simmonds,Freddie Simmonds,,,,,794,Brighton
-597320,Harry Howell,Harry Howell,,,,,795,Brighton
+597320,Harry Howell,Harry Howell,13584,Harry Howell,,,795,Brighton
 649208,Jeremy Monga,Monga,13579,Jeremy Monga,,,792,Leicester
-619146,Olabade Aluko,Olabade Aluko,,,,,796,Leicester
+619146,Olabade Aluko,Olabade Aluko,13586,Olabade Aluko,,,796,Leicester
 630664,Jake Evans,Jake Evans,13585,Jake Evans,,,797,Leicester
 100047426,Simon Rusk,Rusk,,,,,748,Southampton
 495024,Jay Robinson,Jay Robinson,13582,Jay Robinson,,,798,Southampton
 547693,Somto Boniface,Boniface,,,,,799,Ipswich
 592712,Tom Taylor,Tom Taylor,,,,,800,Ipswich
 563324,Brayden Clarke,Clarke,,,,,801,Arsenal
+474907,Reece Welch,Welch,,,,,803,Everton
+519223,Sammy Braybrooke,Braybrooke,,,,,802,Leicester
+494551,Jayden Moore,Moore,,,,,804,Southampton
