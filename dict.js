@@ -2,6 +2,7 @@ const fs = require("fs");
 const csv = require("csv-parser");
 const createCsvWriter = require("csv-writer").createObjectCsvWriter;
 const axios = require("axios");
+const { Readable } = require('stream');
 
 // --- CONFIG ---
 const CSV_PATH = "code_dict.csv";
@@ -193,5 +194,91 @@ async function updateDict() {
   }
 }
 
-// --- Run ---
-updateDict();
+// --- Helper: Parse CSV from string ---
+function parseCsvFromString(csvString) {
+  return new Promise((resolve, reject) => {
+    const data = [];
+    const stream = Readable.from(csvString);
+    stream
+      .pipe(csv())
+      .on('data', (row) => data.push(row))
+      .on('end', () => resolve(data))
+      .on('error', (err) => reject(err));
+  });
+}
+
+// --- New function to update Understat IDs ---
+async function updateUnderstatIdsFromMasterCSV() {
+  console.log("\n--- Starting Understat ID update ---");
+  const MASTER_CSV_URL = "https://raw.githubusercontent.com/ChrisMusson/FPL-ID-Map/refs/heads/main/Master.csv";
+
+  try {
+    console.log("Fetching Master CSV from GitHub...");
+    const response = await axios.get(MASTER_CSV_URL);
+    const masterCsvData = await parseCsvFromString(response.data);
+    console.log("Master CSV fetched and parsed.");
+
+    const understatMap = new Map();
+    masterCsvData.forEach(row => {
+      if (row.code && row.understat) {
+        understatMap.set(row.code, row.understat);
+      }
+    });
+
+    let localData = await readCSV(CSV_PATH);
+    const headerKeys = Object.keys(localData[0]);
+    const header = headerKeys.map((k) => ({ id: k, title: k }));
+
+    let updatedCount = 0;
+    let mismatchedCount = 0;
+    localData.forEach(player => {
+      if (player.Code) {
+        const understatId = understatMap.get(player.Code);
+        if (player.Understat_ID && understatId && player.Understat_ID !== understatId) {
+          console.warn(`Mismatched Understat_ID for ${player.FPL_Name} (${player.Web_Name}). Local: ${player.Understat_ID}, Master: ${understatId}. Updating to Master ID.`);
+          player.Understat_ID = understatId;
+          mismatchedCount++;
+        }
+
+        if (!player.Understat_ID && understatId) {
+          player.Understat_ID = understatId;
+          updatedCount++;
+          console.log(`Updated Understat_ID for ${player.FPL_Name} (${player.Web_Name}) to ${understatId}`);
+        }
+      }
+    });
+
+    if (mismatchedCount > 0) {
+      console.log(`--- Mismatch check complete. ${mismatchedCount} players with mismatched IDs found and updated. ---`);
+    } else {
+      console.log("--- Mismatch check complete. No mismatched IDs found. ---");
+    }
+
+    if (updatedCount > 0 || mismatchedCount > 0) {
+      await writeCSV(CSV_PATH, header, localData);
+      if (updatedCount > 0) {
+        console.log(`--- Understat ID update complete. ${updatedCount} players updated. ---`);
+      }
+    } else {
+      console.log("--- No new Understat IDs to update. ---");
+    }
+
+  } catch (error) {
+    console.error("Error during Understat ID update:", error.message);
+  }
+}
+
+
+// --- Main Execution ---
+async function main() {
+  // --- CONFIG ---
+  const UPDATE_UNDERSTAT_IDS = true; // Toggle this to enable/disable the new feature
+
+  await updateDict();
+
+  if (UPDATE_UNDERSTAT_IDS) {
+    await updateUnderstatIdsFromMasterCSV();
+  }
+}
+
+main();
