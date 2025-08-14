@@ -4,6 +4,74 @@ const createCsvWriter = require("csv-writer").createObjectCsvWriter;
 const axios = require("axios");
 const { Readable } = require('stream');
 
+// --- A simple logger for formatted output ---
+class Logger {
+    constructor(title) {
+        this.title = title;
+        this.width = 80;
+        this.hasError = false;
+        this.output = [];
+    }
+
+    _printLine(text = '', leftChar = '│', rightChar = '│') {
+        const content = text.toString();
+        const padding = this.width - content.length - 4;
+        const line = `${leftChar} ${content}${' '.repeat(padding > 0 ? padding : 0)} ${rightChar}`;
+        this.output.push(line);
+    }
+
+    start() {
+        this.output.push('┌' + '─'.repeat(this.width - 2) + '┐');
+        this._printLine();
+        const titlePadding = ' '.repeat(Math.floor((this.width - 2 - this.title.length) / 2));
+        this._printLine(`${titlePadding}${this.title}`);
+        this._printLine();
+        this.hr();
+    }
+
+    hr() {
+        this._printLine('', '├', '┤');
+    }
+
+    step(name) {
+        this._printLine();
+        this._printLine(`--- ${name} ---`);
+    }
+
+    info(message) {
+        this._printLine(`  • ${message}`);
+    }
+    
+    success(message) {
+        this._printLine(`  ✔ ${message}`);
+    }
+
+    warn(message) {
+        this._printLine(`  ⚠ ${message}`);
+    }
+
+    error(message) {
+        this.hasError = true;
+        this._printLine(`  ✖ ERROR: ${message}`);
+    }
+
+    summary(message) {
+        this._printLine();
+        this._printLine(message);
+    }
+
+    end() {
+        this._printLine();
+        this.hr();
+        const status = this.hasError ? 'Completed with errors' : 'Run Complete';
+        const statusPadding = ' '.repeat(Math.floor((this.width - 2 - status.length) / 2));
+        this._printLine(`${statusPadding}${status}`);
+        this.output.push('└' + '─'.repeat(this.width - 2) + '┘');
+        console.log(this.output.join('\n'));
+    }
+}
+
+
 // --- CONFIG ---
 const CSV_PATH = "code_dict.csv";
 const FPL_API_URL = "https://fantasy.premierleague.com/api/bootstrap-static/";
@@ -48,13 +116,13 @@ async function writeCSV(path, header, data) {
 }
 
 // --- Main update function ---
-async function updateDict() {
+async function updateDict(logger) {
   try {
-    console.log("Fetching FPL data from API...");
+    logger.info("Fetching FPL data from API...");
     const response = await axios.get(FPL_API_URL);
     const elements = response.data.elements;
     const teams = response.data.teams;
-    console.log("FPL data fetched.");
+    logger.success("FPL data fetched.");
 
     // Build team code map from API
     const apiTeamCodes = {};
@@ -96,11 +164,11 @@ async function updateDict() {
       if (!team_codes[code]) {
         team_codes[code] = name;
         newTeams++;
-        console.log(`New team code found: ${code} = ${name}`);
+        logger.info(`New team code found: ${code} = ${name}`);
       }
     });
     if (newTeams > 0) {
-      console.log(`Added ${newTeams} new team(s) to team_codes.`);
+      logger.success(`Added ${newTeams} new team(s) to team_codes.`);
     }
 
     // --- Read CSV ---
@@ -126,7 +194,7 @@ async function updateDict() {
       existingData.forEach((row) => (row[team] = ""));
     }
     if (addedColumns) {
-      console.log(
+      logger.info(
         `Added new columns for season ${currentSeason}: ${fplId}, ${team}`
       );
     }
@@ -156,7 +224,7 @@ async function updateDict() {
         updatedPlayers++;
         // Warn if no Understat_ID and played minutes
         if (minutes > 0 && !player.Understat_ID) {
-          console.warn(
+          logger.warn(
             `Player ${fplName} (${web_name}, ${teamName}) has >0 minutes but no Understat_ID (${minutes} mins).`
           );
         }
@@ -177,7 +245,7 @@ async function updateDict() {
         newRow[team] = teamName;
         existingData.push(newRow);
         newPlayers++;
-        console.log(
+        logger.info(
           `Added new player: ${fplName} (${web_name}, ${teamName}) (${minutes} mins).`
         );
       }
@@ -185,12 +253,12 @@ async function updateDict() {
 
     // --- Write back to CSV ---
     await writeCSV(CSV_PATH, header, existingData);
-    console.log(
+    logger.summary(
       `CSV updated. ${updatedPlayers} players updated, ${newPlayers} new players added.`
     );
   } catch (err) {
-    console.error("Error updating dict:", err.message);
-    process.exit(1);
+    logger.error(`Error updating dict: ${err.message}`);
+    throw err; // re-throw to be caught in main
   }
 }
 
@@ -208,15 +276,14 @@ function parseCsvFromString(csvString) {
 }
 
 // --- New function to update Understat IDs ---
-async function updateUnderstatIdsFromMasterCSV() {
-  console.log("\n--- Starting Understat ID update ---");
+async function updateUnderstatIdsFromMasterCSV(logger) {
   const MASTER_CSV_URL = "https://raw.githubusercontent.com/ChrisMusson/FPL-ID-Map/refs/heads/main/Master.csv";
 
   try {
-    console.log("Fetching Master CSV from GitHub...");
+    logger.info("Fetching Master CSV from GitHub...");
     const response = await axios.get(MASTER_CSV_URL);
     const masterCsvData = await parseCsvFromString(response.data);
-    console.log("Master CSV fetched and parsed.");
+    logger.success("Master CSV fetched and parsed.");
 
     const understatMap = new Map();
     masterCsvData.forEach(row => {
@@ -235,7 +302,7 @@ async function updateUnderstatIdsFromMasterCSV() {
       if (player.Code) {
         const understatId = understatMap.get(player.Code);
         if (player.Understat_ID && understatId && player.Understat_ID !== understatId) {
-          console.warn(`Mismatched Understat_ID for ${player.FPL_Name} (${player.Web_Name}). Local: ${player.Understat_ID}, Master: ${understatId}. Updating to Master ID.`);
+          logger.warn(`Mismatched Understat_ID for ${player.FPL_Name} (${player.Web_Name}). Local: ${player.Understat_ID}, Master: ${understatId}. Updating to Master ID.`);
           player.Understat_ID = understatId;
           mismatchedCount++;
         }
@@ -243,41 +310,54 @@ async function updateUnderstatIdsFromMasterCSV() {
         if (!player.Understat_ID && understatId) {
           player.Understat_ID = understatId;
           updatedCount++;
-          console.log(`Updated Understat_ID for ${player.FPL_Name} (${player.Web_Name}) to ${understatId}`);
+          logger.info(`Updated Understat_ID for ${player.FPL_Name} (${player.Web_Name}) to ${understatId}`);
         }
       }
     });
 
     if (mismatchedCount > 0) {
-      console.log(`--- Mismatch check complete. ${mismatchedCount} players with mismatched IDs found and updated. ---`);
+      logger.summary(`Mismatch check complete. ${mismatchedCount} players with mismatched IDs found and updated.`);
     } else {
-      console.log("--- Mismatch check complete. No mismatched IDs found. ---");
+      logger.info("Mismatch check complete. No mismatched IDs found.");
     }
 
     if (updatedCount > 0 || mismatchedCount > 0) {
       await writeCSV(CSV_PATH, header, localData);
       if (updatedCount > 0) {
-        console.log(`--- Understat ID update complete. ${updatedCount} players updated. ---`);
+        logger.summary(`Understat ID update complete. ${updatedCount} players updated.`);
       }
     } else {
-      console.log("--- No new Understat IDs to update. ---");
+      logger.info("No new Understat IDs to update.");
     }
 
   } catch (error) {
-    console.error("Error during Understat ID update:", error.message);
+    logger.error(`Error during Understat ID update: ${error.message}`);
+    throw error; // re-throw to be caught in main
   }
 }
 
 
 // --- Main Execution ---
 async function main() {
-  // --- CONFIG ---
-  const UPDATE_UNDERSTAT_IDS = true; // Toggle this to enable/disable the new feature
+  const logger = new Logger("FPL & Understat Data Sync");
+  logger.start();
 
-  await updateDict();
+  try {
+    // --- CONFIG ---
+    const UPDATE_UNDERSTAT_IDS = true; // Toggle this to enable/disable the new feature
 
-  if (UPDATE_UNDERSTAT_IDS) {
-    await updateUnderstatIdsFromMasterCSV();
+    logger.step("FPL Player Data Update");
+    await updateDict(logger);
+
+    if (UPDATE_UNDERSTAT_IDS) {
+      logger.step("Understat ID Update from Master CSV");
+      await updateUnderstatIdsFromMasterCSV(logger);
+    }
+  } catch (e) {
+    // Errors are already logged, just ensures the script exits with an error code
+    process.exitCode = 1;
+  } finally {
+    logger.end();
   }
 }
 
