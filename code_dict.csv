@@ -775,7 +775,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 204814,Ben Brereton Díaz,Brereton Díaz,11815,Ben Brereton Díaz,775,Sheffield Utd,584,Southampton,,
 165153,Timo Werner,Werner,65,Timo Werner,776,Spurs,509,Spurs,,
 493125,Radu Drăgușin,Dragusin,9105,Radu Dragusin,777,Spurs,486,Spurs,572,Spurs
-481283,James Wright,Wright,11488,,,,,,,
+481283,James Wright,Wright,11488,,,,,,688,Aston Villa
 430992,Owen Beck,Beck,10119,Owen Beck,,,,,,
 496185,Kaide Gordon,Gordon,10118,Kaide Gordon,,,,,,
 524070,Jamie McDonnell,McDonnell,12349,,,,,,,
@@ -1066,7 +1066,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 632822,Archie Harris,Harris,13300,,,,702,Bournemouth,,
 494307,Max Alleyne,Alleyne,13298,,,,703,Man City,,
 613120,Spike Brits,Brits,13299,,,,704,Man City,,
-606774,Remy Rees-Dottin,Rees-Dottin,13307,Remy Rees-Dottin,,,707,Bournemouth,,
+606774,Remy Rees-Dottin,Rees-Dottin,13307,Remy Rees-Dottin,,,707,Bournemouth,687,Bournemouth
 532535,Thomas Wilson-Brown,Wilson-Brown,13304,,,,708,Leicester,,
 549067,Zach Abbott,Abbott,13306,,,,706,Nott'm Forest,513,Nott'm Forest
 559962,Jamaldeen Jimoh-Aloba,Jimoh-Aloba,13310,,,,710,Aston Villa,62,Aston Villa
@@ -1295,3 +1295,5 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 105717,Arthur Masuaku,Masuaku,1760,,,,,,678,Sunderland
 201895,Omar Alderete,Alderete,8986,,,,,,683,Sunderland
 497949,David Møller Wolfe,Møller Wolfe,,,,,,,682,Wolves
+611922,Rio Ngumoha,Ngumoha,13692,,,,,,686,Liverpool
+623110,Seung-Soo Park,Seung soo,,,,,,,689,Newcastle
