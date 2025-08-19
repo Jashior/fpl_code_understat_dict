@@ -50,7 +50,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 184704,Marvelous Nakamba,Nakamba,8040,Marvelous Nakamba,,,,,,
 111782,Robin Olsen,Olsen,6962,Robin Olsen,53,Aston Villa,51,Aston Villa,,
 481624,Jaden Philogene,Jaden,9415,Jaden Philogene-Bidace,54,Aston Villa,569,Ipswich,,
-232653,Jacob Ramsey,J.Ramsey,8941,Jacob Ramsey,55,Aston Villa,53,Aston Villa,52,Aston Villa
+232653,Jacob Ramsey,J.Ramsey,8941,Jacob Ramsey,55,Aston Villa,53,Aston Villa,52,Newcastle
 122775,Morgan Sanson,Sanson,3696,Morgan Sanson,,,,,,
 248164,Viljami Sinisalo,Sinisalo,9967,,57,Aston Villa,55,Aston Villa,,
 166989,Youri Tielemans,Tielemans,5956,Youri Tielemans,58,Aston Villa,57,Aston Villa,48,Aston Villa
@@ -625,7 +625,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 547686,Luc De Fougerolles,De Fougerolles,12172,,,,,,,
 441428,Jarell Quansah,Quansah,10187,Jarell Quansah,626,Liverpool,333,Liverpool,,
 491970,Bobby Clark,Clark,10997,Bobby Clark,627,Liverpool,315,Liverpool,,
-496208,Ben Doak,Doak,11231,Ben Doak,628,Liverpool,318,Liverpool,391,Liverpool
+496208,Ben Doak,Doak,11231,Ben Doak,628,Liverpool,318,Liverpool,391,Bournemouth
 491501,James McConnell,McConnell,11811,James McConnell,629,Liverpool,330,Liverpool,394,Liverpool
 88894,Ross Barkley,Barkley,592,Ross Barkley,630,Luton,29,Aston Villa,55,Aston Villa
 242453,Jacob Brown,Brown,11720,Jacob Brown,,,,,,
@@ -1300,3 +1300,5 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 590014,Rio Cardines,Cardines,,,,,,,690,Crystal Palace
 647681,Giovanni Leoni,Leoni,,,,,,,692,Liverpool
 200834,Nordi Mukiele,Mukiele,,,,,,,694,Sunderland
+465680,Arnaud Kalimuendo,Kalimuendo,,,,,,,696,Nott'm Forest
+523705,Jackson Tchatchoua,Tchatchoua,,,,,,,695,Wolves
