@@ -758,7 +758,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 492777,Conor Bradley,Bradley,10120,Conor Bradley,757,Liverpool,313,Liverpool,375,Liverpool
 552425,Sydie Peck,Peck,12251,Sydie Peck,,,,,,
 499169,Myles Lewis-Skelly,Lewis-Skelly,12272,Myles Lewis-Skelly,,,597,Arsenal,10,Arsenal
-564505,Sam Proctor,Proctor,12273,,,,,,,
+564505,Sam Proctor,Proctor,12273,,,,,,703,Aston Villa
 501468,Tayo Adaramola,Adaramola,10429,,,,,,,
 491557,Jenson Metcalfe,Metcalfe,12269,,,,614,Everton,309,Everton
 491745,Elijah Campbell,Campbell,12270,,,,,,,
@@ -1298,9 +1298,12 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 611922,Rio Ngumoha,Ngumoha,13692,,,,,,686,Liverpool
 623110,Seung-Soo Park,Seung soo,,,,,,,689,Newcastle
 590014,Rio Cardines,Cardines,,,,,,,690,Crystal Palace
-647681,Giovanni Leoni,Leoni,,,,,,,692,Liverpool
-200834,Nordi Mukiele,Mukiele,,,,,,,694,Sunderland
-465680,Arnaud Kalimuendo,Kalimuendo,,,,,,,696,Nott'm Forest
-523705,Jackson Tchatchoua,Tchatchoua,,,,,,,695,Wolves
-489888,Amine Adli,Adli,,,,,,,697,Bournemouth
-435997,Noah Okafor,Okafor,,,,,,,698,Leeds
+647681,Giovanni Leoni,Leoni,13031,,,,,,692,Liverpool
+200834,Nordi Mukiele,Mukiele,5659,,,,,,694,Sunderland
+465680,Arnaud Kalimuendo,Kalimuendo,8056,,,,,,696,Nott'm Forest
+523705,Jackson Tchatchoua,Tchatchoua,12113,,,,,,695,Wolves
+489888,Amine Adli,Adli,8211,,,,,,697,Bournemouth
+435997,Noah Okafor,Okafor,11966,,,,,,698,Leeds
+616077,Max Dowman,Dowman,,,,,,,700,Arsenal
+569577,Triston Rowe,Rowe,,,,,,,701,Aston Villa
+645618,Bradley Burrowes,Burrowes,,,,,,,702,Aston Villa
