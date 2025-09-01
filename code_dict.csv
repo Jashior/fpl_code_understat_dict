@@ -298,10 +298,10 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 449434,Anthony Elanga,Elanga,9524,Anthony Elanga,378,Nott'm Forest,432,Nott'm Forest,486,Newcastle
 80607,Christian Eriksen,Eriksen,646,Christian Eriksen,379,Man Utd,370,Man Utd,,
 101582,Frederico Rodrigues de Paula Santos,Fred,6817,Fred,,,,,,
-493105,Alejandro Garnacho Ferreyra,Garnacho,10552,Alejandro Garnacho,382,Man Utd,372,Man Utd,453,Man Utd
+493105,Alejandro Garnacho Ferreyra,Garnacho,10552,Alejandro Garnacho,382,Man Utd,372,Man Utd,453,Chelsea
 21205,Tom Heaton,Heaton,1651,Tom Heaton,384,Man Utd,374,Man Utd,434,Man Utd
 172649,Dean Henderson,Henderson,7702,Dean Henderson,385,Crystal Palace,201,Crystal Palace,253,Crystal Palace
-184667,Victor Lindelöf,Lindelof,6080,Victor Lindelöf,386,Man Utd,376,Man Utd,,
+184667,Victor Lindelöf,Lindelöf,6080,Victor Lindelöf,386,Man Utd,376,Man Utd,719,Aston Villa
 95658,Harry Maguire,Maguire,1687,Harry Maguire,387,Man Utd,377,Man Utd,442,Man Utd
 516895,Kobbie Mainoo,Mainoo,11174,Kobbie Mainoo,388,Man Utd,378,Man Utd,458,Man Utd
 222690,Tyrell Malacia,Malacia,10803,Tyrell Malacia,389,Man Utd,379,Man Utd,448,Man Utd
@@ -1308,6 +1308,12 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 569577,Triston Rowe,Rowe,13869,,,,,,701,Aston Villa
 645618,Bradley Burrowes,Burrowes,13870,,,,,,702,Aston Villa
 431248,Ladislav Krejcí,Krejčí,1447,,,,,,709,Wolves
-646243,Andre Harriman-Annous,Harriman-Annous,,,,,,,711,Arsenal
+646243,Andre Harriman-Annous,Harriman-Annous,14000,,,,,,711,Arsenal
 534836,Travis Patterson,Patterson,11507,,,,,,710,Aston Villa
-488024,Yéremy Pino,Pino,,,,,,,712,Crystal Palace
+488024,Yéremy Pino Santos,Yeremy,9024,,,,,,712,Crystal Palace
+551483,Álex Jiménez,A.Jimenez,12168,,,,,,713,Bournemouth
+470313,Nick Woltemade,Woltemade,8117,,,,,,714,Newcastle
+221389,John Victor Maciel Furtado,John,,,,,,,715,Nott'm Forest
+500151,Nicolò Savona,Savona,12905,,,,,,716,Nott'm Forest
+493362,Xavi Simons,Xavi,8700,,,,,,717,Spurs
+564940,Soungoutou Magassa,S.Magassa,10770,,,,,,718,West Ham
