@@ -415,7 +415,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 55459,Aaron Cresswell,Cresswell,534,Aaron Cresswell,530,West Ham,517,West Ham,,
 220585,Flynn Downes,Downes,10845,Flynn Downes,531,West Ham,518,Southampton,,
 109533,Emerson Palmieri dos Santos,Emerson,1245,Emerson,532,West Ham,520,West Ham,604,West Ham
-37096,Łukasz Fabiański,Fabianski,706,Lukasz Fabianski,533,West Ham,521,West Ham,,
+37096,Lukasz Fabianski,Fabianski,706,Lukasz Fabianski,533,West Ham,521,West Ham,738,West Ham
 217593,Pablo Fornals Malla,P.Fornals,2335,Pablo Fornals,,,,,,
 84939,Danny Ings,Ings,986,Danny Ings,535,West Ham,523,West Ham,,
 222018,Ben Johnson,Johnson,6424,Ben Johnson,536,West Ham,275,Ipswich,,
@@ -1333,3 +1333,4 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 441264,Brian Brobbey,Brobbey,9789,,,,,,730,Sunderland
 247693,Randal Kolo Muani,Kolo Muani,5743,,,,,,726,Spurs
 488213,Tolu Arokodare,Tolu,8875,,,,,,720,Wolves
+631786,Jonah Kusi-Asare,Kusi-Asare,,,,,,,737,Fulham
