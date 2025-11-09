@@ -1136,7 +1136,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 533710,Iwan Morgan,Morgan,13472,,,,780,Brentford,137,Brentford
 567119,Shumaira Mheuka,Mheuka,13476,Shumaira Mheuka,,,781,Chelsea,,
 439483,Hubert Graczyk,Graczyk,13473,,,,783,Man Utd,,
-647671,Mateus Mané,Mané,13484,Mateus Mané,,,784,Wolves,,
+647671,Mateus Mané,Mané,13484,Mateus Mané,,,784,Wolves,749,Wolves
 575204,Claudio Echeverri,Echeverri,13649,Claudio Echeverri,,,785,Man City,425,Man City
 591382,Genesis Antwi,Genesis Antwi,13527,,,,787,Chelsea,,
 599303,Sean Neave,Neave,13532,,,,789,Newcastle,501,Newcastle
@@ -1342,3 +1342,6 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 556637,Nehemiah Oriola,Oriola,14127,,,,,,744,Brighton
 640419,Jun'ai Byfield,Byfield,14134,,,,,,745,Spurs
 596042,Kieran Morrison,Morrison,14144,,,,,,746,Liverpool
+499716,James Rowswell,Rowswell,,,,,,,750,Spurs
+590035,Yusuf Akhamrich,Akhamrich,,,,,,,751,Spurs
+643473,Airidas Golambeckis,Golambeckis,,,,,,,752,West Ham
