@@ -850,7 +850,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 559963,Kiano Dyer,Dyer,12574,,,,,,,
 551995,Taylan Harris,Harris,12565,,,,,,,
 575034,Ethan Wheatley,Wheatley,12568,Ethan Wheatley,,,648,Man Utd,468,Man Utd
-514362,Temple Ojinnaka,Ojinnaka,12575,,,,,,,
+514362,Temple Ojinnaka,Ojinnaka,12575,,,,,,777,Wolves
 521966,Finley Munroe,Munroe,12581,Finley Munroe,,,,,,
 568791,Callan McKenna,McKenna,12582,,,,727,Bournemouth,69,Bournemouth
 530117,Louis Jackson,Jackson,12590,,,,,,,
@@ -1366,3 +1366,6 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 643426,Dean Benamar,Benamar,,,,,,,773,Crystal Palace
 232356,Jenson Jones,Jenson Jones,,,,,,,774,Sunderland
 604211,Tymur Tutierov,Tutierov,,,,,,,775,Sunderland
+647960,Oliver Pimlott,Pimlott,,,,,,,776,Burnley
+629068,Braiden Graham,Graham,,,,,,,779,Everton
+589121,Ethan Sutherland,Sutherland,,,,,,,778,Wolves
