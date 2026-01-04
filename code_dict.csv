@@ -1056,9 +1056,9 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 606775,Ben Winterburn,Winterburn,13242,Ben Winterburn,,,687,Bournemouth,96,Bournemouth
 589100,Jacob Slater,Slater,13238,,,,685,Brighton,155,Brighton
 591385,Samuel Amissah,Amissah,13250,,,,690,Fulham,323,Fulham
-611917,Luca Williams-Barnett,Williams-Barnett,13249,,,,689,Spurs,,
+611917,Lucá Williams-Barnett,Williams-Barnett,13249,,,,689,Spurs,790,Spurs
 602903,Ezra Mayers,Mayers,13247,,,,686,West Ham,747,West Ham
-576637,Godwill Kukonki,Kukonki,13259,,,,691,Man Utd,,
+576637,Godwill Kukonki,Kukonki,13259,,,,691,Man Utd,788,Man Utd
 545508,Joseph O'Brien-Whitmarsh,O'Brien-Whitmarsh,13258,,,,693,Southampton,,
 547692,Samuel Rak-Sakyi,Rak-Sakyi,13286,,,,695,Chelsea,,
 531997,Henry Cartwright,Cartwright,13273,,,,694,Leicester,,
@@ -1373,3 +1373,6 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 618027,TJ Carroll,Carroll,,,,,,,781,Aston Villa
 704232,George Brierley,Brierley,,,,,,,784,Burnley
 530335,Pablo Felipe Pereira de Jesus,Pablo,,,,,,,785,West Ham
+518335,Max Merrick,Merrick,,,,,,,789,Chelsea
+505079,Alfie McNally,McNally,,,,,,,786,Fulham
+565863,Sam Chambers,Chambers,,,,,,,787,Leeds
