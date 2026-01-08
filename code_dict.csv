@@ -1064,7 +1064,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 531997,Henry Cartwright,Cartwright,13273,,,,694,Leicester,,
 592736,Maeson King,King,13287,,,,700,Spurs,,
 632822,Archie Harris,Harris,13300,,,,702,Bournemouth,,
-494307,Max Alleyne,Alleyne,13298,,,,703,Man City,,
+494307,Max Alleyne,Alleyne,13298,,,,703,Man City,794,Man City
 613120,Spike Brits,Brits,13299,,,,704,Man City,,
 606774,Remy Rees-Dottin,Rees-Dottin,13307,Remy Rees-Dottin,,,707,Bournemouth,687,Bournemouth
 532535,Thomas Wilson-Brown,Wilson-Brown,13304,,,,708,Leicester,,
@@ -1144,7 +1144,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 547720,Charlie Tasker,Tasker,13570,,,,791,Brighton,156,Brighton
 514307,Jack Henry-Francis,Jack Henry-Francis,13587,,,,793,Arsenal,,
 604988,Freddie Simmonds,Simmonds,13583,,,,794,Brighton,761,Brighton
-597320,Harry Howell,Harry Howell,13584,Harry Howell,,,795,Brighton,,
+597320,Harry Howell,Howell,13584,Harry Howell,,,795,Brighton,795,Brighton
 649208,Jeremy Monga,Monga,13579,Jeremy Monga,,,792,Leicester,,
 619146,Olabade Aluko,Olabade Aluko,13586,Olabade Aluko,,,796,Leicester,,
 630664,Jake Evans,Jake Evans,13585,Jake Evans,,,797,Leicester,,
@@ -1378,3 +1378,4 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 565863,Sam Chambers,Chambers,14306,,,,,,787,Leeds
 653481,Alysson Edward Franco da Rocha dos Santos,Alysson,,,,,,,792,Aston Villa
 247670,Valentín Castellanos,Taty,10948,,,,,,791,West Ham
+591384,George King,King,14328,,,,,,793,Crystal Palace
