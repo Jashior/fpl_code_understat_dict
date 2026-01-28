@@ -484,7 +484,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 442229,Michał Karbownik,Karbownik,9320,,,,,,,
 489639,Bart Verbruggen,Verbruggen,11711,Bart Verbruggen,152,Brighton,146,Brighton,139,Brighton
 204676,Andi Zeqiri,Zeqiri,9099,Andi Zeqiri,,,,,,
-223434,Igor Julio dos Santos de Paulo,Igor,7943,Igor Julio,606,Brighton,128,Brighton,149,West Ham
+223434,Igor Julio dos Santos de Paulo,Igor,7943,Igor Julio,606,Brighton,128,Brighton,149,Brighton
 578614,Enock Agyei,Boateng,5563,,,,,,203,Burnley
 487968,Ameen Al-Dakhil,Al-Dakhil,11699,Ameen Al Dakhil,,,,,,
 189776,Samuel Bastien,Bastien,1343,Samuel Bastien,,,,,,
@@ -660,7 +660,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 550839,Wilson Odobert,Odobert,10822,Wilson Odobert,,,612,Spurs,588,Spurs
 514356,Roméo Lavia,Lavia,10004,Romeo Lavia,667,Chelsea,174,Chelsea,244,Chelsea
 221399,Jack Harrison,Harrison,8720,Jack Harrison,661,Everton,224,Everton,352,Leeds
-159533,Adama Traoré Diarra,Adama,900,Adama Traoré,662,Fulham,239,Fulham,326,Fulham
+159533,Adama Traoré Diarra,Adama,900,Adama Traoré,662,Fulham,239,Fulham,326,West Ham
 20480,Tim Krul,Krul,982,Tim Krul,,,,,,
 196100,Gustavo Hamer,Hamer,11839,Gustavo Hamer,,,,,,
 173807,Tom Davies,T.Davies,1042,Tom Davies,,,,,,
@@ -1387,3 +1387,6 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 572702,Keiber Lamadrid,Lamadrid,,,,,,,802,West Ham
 469130,Lorenzo Lucca,Lucca,,,,,,,805,Nott'm Forest
 616221,João Victor de Souza Menezes,Souza,,,,,,,804,Spurs
+173879,Tammy Abraham,Abraham,702,,,,,,808,Aston Villa
+436416,Christos Mandas,Mandas,,,,,,,806,Bournemouth
+499604,Rayan Vitor Simplício Rocha,Rayan,,,,,,,807,Bournemouth
