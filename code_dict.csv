@@ -438,7 +438,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 240299,Joe Hodge,Hodge,10755,Joseph Hodge,555,Wolves,551,Wolves,653,Wolves
 184754,Hwang Hee-chan,Hee Chan,8845,Hee-Chan Hwang,557,Wolves,550,Wolves,642,Wolves
 102057,Raúl Jiménez Rodríguez,Raúl,4105,Raúl Jiménez,558,Fulham,252,Fulham,337,Fulham
-448089,João Victor Gomes da Silva,Gomes,11384,João Gomes,559,Wolves,553,Wolves,646,Wolves
+448089,João Victor Gomes da Silva,J.Gomes,11384,João Gomes,559,Wolves,553,Wolves,646,Wolves
 114128,Jonathan Castro Otto,J.Otto,2280,Jonny,,,,,,
 429414,Saša Kalajdžić,Kalajdžić,8812,Sasa Kalajdzic,562,Wolves,555,Wolves,656,Wolves
 214048,Maximilian Kilman,Kilman,7332,Max Kilman,563,Wolves,524,West Ham,605,West Ham
@@ -525,7 +525,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 471798,Gabriel Słonina,Slonina,13854,,,,,,223,Chelsea
 518620,Ângelo Gabriel Borges Damaceno,Ângelo,11818,,589,Chelsea,151,Chelsea,,
 441302,Ian Maatsen,Maatsen,11807,Ian Maatsen,609,Chelsea,45,Aston Villa,39,Aston Villa
-220362,Axel Disasi,Disasi,6885,Axel Disasi,611,Chelsea,167,Aston Villa,,
+220362,Axel Disasi,Disasi,6885,Axel Disasi,611,Chelsea,167,Aston Villa,815,West Ham
 503714,Lesley Ugochukwu,Ugochukwu,9451,Chimuanya Ugochukwu,613,Chelsea,188,Southampton,676,Burnley
 512462,Jake O'Brien,O'Brien,12014,Jake O'Brien,235,Crystal Palace,582,Everton,293,Everton
 536694,Matheus França de Oliveira,M.França,12152,Matheus França,615,Crystal Palace,208,Crystal Palace,279,Crystal Palace
@@ -846,7 +846,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 499857,Teddy Sharman-Lowe,Sharman-Lowe,12561,,,,,,803,Chelsea
 577974,Harry Amass,Amass,12559,Harry Amass,,,670,Man Utd,445,Man Utd
 596572,Michael Dacosta Gonzalez,Dacosta Gonzalez,11302,,,,,,,
-550615,Tyrique George,George,12573,Tyrique George,,,696,Chelsea,243,Chelsea
+550615,Tyrique George,George,12573,Tyrique George,,,696,Chelsea,243,Everton
 559963,Kiano Dyer,Dyer,12574,,,,,,,
 551995,Taylan Harris,Harris,12565,,,,,,,
 575034,Ethan Wheatley,Wheatley,12568,Ethan Wheatley,,,648,Man Utd,468,Man Utd
@@ -949,7 +949,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 502697,Carlos Alcaraz Durán,Alcaraz,11297,Carlos Alcaraz,,,450,Everton,301,Everton
 499724,Samuel Amo-Ameyaw,Amo-Ameyaw,11618,Samuel Amo-Ameyaw,,,451,Southampton,,
 193204,Joe Aribo,Aribo,10766,Joe Ayodele-Aribo,,,452,Southampton,,
-155511,Adam Armstrong,Armstrong,4419,Adam Armstrong,,,453,Southampton,,
+155511,Adam Armstrong,Armstrong,4419,Adam Armstrong,,,453,Southampton,817,Wolves
 456350,Gavin Bazunu,Bazunu,10765,Gavin Bazunu,,,454,Southampton,,
 171771,Jan Bednarek,Bednarek,6042,Jan Bednarek,,,455,Southampton,,
 477386,Armel Bella-Kotchap,Bella-Kotchap,9710,Armel Bella Kotchap,,,456,Southampton,,
@@ -981,7 +981,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 91889,Niclas Füllkrug,Füllkrug,6098,Niclas Füllkrug,,,589,West Ham,625,West Ham
 641221,Pedro Cardoso de Lima,Pedro Lima,13156,Pedro Lima,,,561,Wolves,640,Wolves
 483081,Rodrigo Martins Gomes,R.Gomes,12756,Rodrigo Gomes,,,563,Wolves,635,Wolves
-247412,Jørgen Strand Larsen,Strand Larsen,11070,Jørgen Strand Larsen,,,566,Wolves,654,Wolves
+247412,Jørgen Strand Larsen,Strand Larsen,11070,Jørgen Strand Larsen,,,566,Wolves,654,Crystal Palace
 462116,Jean-Clair Todibo,Todibo,6816,Jean-Clair Todibo,,,591,West Ham,609,West Ham
 515597,Lamare Bogarde,Bogarde,10025,Lamare Bogarde,,,598,Aston Villa,44,Aston Villa
 436893,Julián Araujo Zúñiga,J.Araujo,11745,Julián Araujo,,,592,Bournemouth,78,Bournemouth
@@ -1393,3 +1393,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 559610,Luka Bentt,Bentt,,,,,,,810,Brentford
 536134,Rio Kyerematen,Kyerematen,,,,,,,811,Spurs
 685628,Jerome Abbey,Abbey,,,,,,,809,Wolves
+470315,Luca Netz,Netz,,,,,,,814,Nott'm Forest
+515046,Melker Ellborg,Ellborg,,,,,,,812,Sunderland
+536661,Nilson Angulo,Angulo,,,,,,,813,Sunderland
+209041,Angel Gomes,Angel,5598,,,,,,816,Wolves
