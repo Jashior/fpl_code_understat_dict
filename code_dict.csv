@@ -298,7 +298,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 449434,Anthony Elanga,Elanga,9524,Anthony Elanga,378,Nott'm Forest,432,Nott'm Forest,486,Newcastle,454,Newcastle
 80607,Christian Eriksen,Eriksen,646,Christian Eriksen,379,Man Utd,370,Man Utd,,,,
 101582,Frederico Rodrigues de Paula Santos,Fred,6817,Fred,,,,,,,,
-493105,Alejandro Garnacho Ferreyra,Garnacho,10552,Alejandro Garnacho,382,Man Utd,372,Man Utd,453,Chelsea,160,Chelsea
+493105,Alejandro Garnacho Ferreyra,Garnacho,10552,Alejandro Garnacho,382,Man Utd,372,Man Utd,453,Chelsea,160,Aston Villa
 21205,Tom Heaton,Heaton,1651,Tom Heaton,384,Man Utd,374,Man Utd,434,Man Utd,414,Man Utd
 172649,Dean Henderson,Henderson,7702,Dean Henderson,385,Crystal Palace,201,Crystal Palace,253,Crystal Palace,198,Crystal Palace
 184667,Victor Lindelöf,Lindelöf,6080,Victor Lindelöf,386,Man Utd,376,Man Utd,719,Aston Villa,37,Aston Villa
@@ -341,7 +341,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 56983,Matt Ritchie,Ritchie,461,Matt Ritchie,,,,,,,,
 170137,Allan Saint-Maximin,Saint-Maximin,101,Allan Saint-Maximin,,,,,,,,
 119471,Fabian Schär,Schär,76,Fabian Schär,427,Newcastle,415,Newcastle,474,Newcastle,446,Newcastle
-169359,Matt Targett,Targett,884,Matt Targett,428,Newcastle,416,Newcastle,484,Newcastle,484,Newcastle
+169359,Matt Targett,Targett,884,Matt Targett,428,Newcastle,416,Newcastle,484,Newcastle,556,Hull City
 77794,Kieran Trippier,Trippier,652,Kieran Trippier,430,Newcastle,418,Newcastle,478,Newcastle,478,Newcastle
 200089,Joe Willock,Willock,6630,Joe Willock,432,Newcastle,420,Newcastle,494,Newcastle,460,Newcastle
 75115,Callum Wilson,Wilson,468,Callum Wilson,433,Newcastle,421,Newcastle,671,West Ham,108,Brentford
@@ -1484,7 +1484,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 147675,Chuba Akpom,Akpom,1790,,,,,,,,320,Ipswich
 557012,Sindre Walle Egeli,Walle Egeli,,,,,,,,,321,Ipswich
 232457,Anis Mehmeti,Mehmeti,,,,,,,,,324,Ipswich
-546600,Kayne van Oevelen,van Oevelen,,,,,,,,,554,Ipswich
+546600,Kayne van Oevelen,Van Oevelen,,,,,,,,,554,Ipswich
 522047,Tarik Muharemović,Muharemović,,,,,,,,,334,Leeds
 606702,Jeremy Jacquet,Jacquet,,,,,,,,,362,Liverpool
 551499,Victor Munoz,Munoz,,,,,,,,,377,Liverpool
@@ -1493,3 +1493,5 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 636852,Sean Steur,Steur,,,,,,,,,462,Newcastle
 538638,Tyler Bindon,Bindon,,,,,,,,,479,Nott'm Forest
 93605,Thomas Meunier,Meunier,,,,,,,,,541,Sunderland
+439509,Christos Tzolis,Tzolis,9746,,,,,,,,557,Arsenal
+204561,Xaver Schlager,Schlager,,,,,,,,,558,Nott'm Forest
