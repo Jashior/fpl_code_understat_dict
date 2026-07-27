@@ -1127,7 +1127,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 511499,Mathys Tel,Tel,9780,Mathys Tel,,,768,Spurs,584,Spurs,514,Spurs
 531170,Nasser Djiga,Djiga,13463,Nasser Djiga,,,769,Wolves,,,,
 433312,Marshall Munetsi,Munetsi,7908,Marshall Munetsi,,,770,Wolves,648,Wolves,648,Wolves
-622758,Aarón Anselmino,Anselmino,13460,,,,774,Chelsea,234,Chelsea,234,Chelsea
+622758,Aaron Anselmino,Anselmino,13460,,,,774,Chelsea,234,Chelsea,561,Chelsea
 504296,Coby Ebere,Ebere,13462,,,,775,Everton,307,Everton,307,Everton
 596047,Chido Obi,Obi,13466,Chido Obi-Martin,,,776,Man Utd,467,Man Utd,441,Man Utd
 547676,Tyler Fredricson,Fredricson,13467,Tyler Fredricson,,,777,Man Utd,446,Man Utd,425,Man Utd
@@ -1187,7 +1187,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 611695,Malick Yalcouyé,Yalcouye,,,,,,,174,Brighton,174,Brighton
 608181,Stefanos Tzimas,Tzimas,14028,Stefanos Tzimas,,,,,180,Brighton,137,Brighton
 647850,Charalampos Kostoulas,Kostoulas,14118,,,,,,181,Brighton,138,Brighton
-549939,Mike Penders,Penders,13816,,,,,,222,Chelsea,222,Chelsea
+549939,Mike Penders,Penders,13816,,,,,,222,Chelsea,560,Chelsea
 574458,Mamadou Sarr,M.Sarr,11253,,,,,,231,Chelsea,150,Chelsea
 624773,Estêvão Almeida de Oliveira Gonçalves,Estêvão,13775,Estêvão,,,,,238,Chelsea,157,Chelsea
 463936,Jamie Bynoe-Gittens,Gittens,10542,,,,,,239,Chelsea,158,Chelsea
@@ -1495,3 +1495,6 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 93605,Thomas Meunier,Meunier,,,,,,,,,541,Sunderland
 439509,Christos Tzolis,Tzolis,9746,,,,,,,,557,Arsenal
 204561,Xaver Schlager,Schlager,,,,,,,,,558,Nott'm Forest
+445028,Hidemasa Morita,Morita,,,,,,,,,563,Hull City
+442967,Daizen Maeda,Maeda,,,,,,,,,562,Ipswich
+632794,Aladji Bamba,Bamba,,,,,,,,,559,Newcastle
