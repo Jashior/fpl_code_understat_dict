@@ -1420,15 +1420,15 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 577978,Rhys Chadwick,Chadwick,14618,,,,,,838,Leeds,838,Leeds
 592740,Alfie Cresswell,Cresswell,14625,,,,,,839,Leeds,839,Leeds
 687076,Lamin Sillah,Sillah,14636,,,,,,841,Nott'm Forest,841,Nott'm Forest
-614071,Johan Manzambi,Manzambi,,,,,,,,,53,Aston Villa
-561245,Álvaro Rodríguez,Rodríguez,,,,,,,,,81,Bournemouth
+614071,Johan Manzambi,Manzambi,13102,,,,,,,,53,Aston Villa
+561245,Álvaro Rodríguez,Rodríguez,11186,,,,,,,,81,Bournemouth
 513086,Jannik Schuster,Schuster,,,,,,,,,93,Brentford
 451490,João Pedro Loureiro da Costa,Costinha,,,,,,,,,119,Brighton
-454490,Michael Svoboda,Svoboda,,,,,,,,,120,Brighton
+454490,Michael Svoboda,Svoboda,9887,,,,,,,,120,Brighton
 700308,Zadok Yohanna,Yohanna,,,,,,,,,135,Brighton
-620109,Marco Palestra,Palestra,,,,,,,,,152,Chelsea
+620109,Marco Palestra,Palestra,11551,,,,,,,,152,Chelsea
 593117,Geovany Quenda,Quenda,,,,,,,,,164,Chelsea
-503037,Emmanuel Emegha,Emegha,,,,,,,,,170,Chelsea
+503037,Emmanuel Emegha,Emegha,11817,,,,,,,,170,Chelsea
 484389,Oliver Dovin,Dovin,,,,,,,,,171,Coventry City
 110690,Ben Wilson,Wilson,,,,,,,,,172,Coventry City
 436761,Liam Kitching,Kitching,,,,,,,,,174,Coventry City
@@ -1437,9 +1437,9 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 80178,Jake Bidwell,Bidwell,,,,,,,,,178,Coventry City
 204813,Joel Latibeaudiere,Latibeaudiere,,,,,,,,,179,Coventry City
 577411,Miguel Brau,Brau,,,,,,,,,181,Coventry City
-539142,Aurèle Amenda,Amenda,,,,,,,,,182,Coventry City
+539142,Aurèle Amenda,Amenda,12955,,,,,,,,182,Coventry City
 480457,Jack Rudoni,Rudoni,,,,,,,,,183,Coventry City
-168144,Matt Grimes,Grimes,,,,,,,,,184,Coventry City
+168144,Matt Grimes,Grimes,1045,,,,,,,,184,Coventry City
 501459,Tatsuhiro Sakamoto,Sakamoto,,,,,,,,,185,Coventry City
 241293,Ephron Mason-Clark,Mason-Clark,,,,,,,,,186,Coventry City
 439668,Josh Eccles,Eccles,,,,,,,,,187,Coventry City
@@ -1447,11 +1447,11 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 684268,George Shepherd,Shepherd,,,,,,,,,189,Coventry City
 492498,Raphael Borges Rodrigues,Borges Rodrigues,,,,,,,,,191,Coventry City
 629397,Kaine Andrews,Andrews,,,,,,,,,192,Coventry City
-176412,Haji Wright,Wright,,,,,,,,,193,Coventry City
+176412,Haji Wright,Wright,5361,,,,,,,,193,Coventry City
 230730,Brandon Thomas-Asante,Thomas-Asante,,,,,,,,,194,Coventry City
 551262,Jahnoah Markelo,Markelo,,,,,,,,,196,Coventry City
 549653,Norman Bassette,Bassette,,,,,,,,,197,Coventry City
-242313,Oscar Mingueza,Mingueza,,,,,,,,,207,Crystal Palace
+242313,Oscar Mingueza,Mingueza,9011,,,,,,,,207,Crystal Palace
 244860,Hayden Hackney,Hackney,,,,,,,,,247,Everton
 167825,Dillon Phillips,Phillips,,,,,,,,,273,Hull City
 105666,Jack Butland,Butland,856,,,,,,,,274,Hull City
@@ -1469,7 +1469,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 171270,Kieran Dowell,Dowell,1032,,,,,,,,288,Hull City
 101282,Matt Crooks,Crooks,,,,,,,,,289,Hull City
 243413,Regan Slater,Slater,,,,,,,,,290,Hull City
-465525,Eliot Matazo,Matazo,,,,,,,,,291,Hull City
+465525,Eliot Matazo,Matazo,8644,,,,,,,,291,Hull City
 208481,Abdülkadir Ömür,Ömür,,,,,,,,,292,Hull City
 490161,Abu Kamara,Kamara,10526,,,,,,,,293,Hull City
 553783,Óscar Zambrano,Zambrano,,,,,,,,,294,Hull City
@@ -1479,22 +1479,22 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 183015,Cédric Kipré,Kipré,8785,,,,,,,,303,Ipswich
 176420,Darnell Furlong,Furlong,4391,,,,,,,,308,Ipswich
 501390,Marcelino Núñez,Núñez,,,,,,,,,309,Ipswich
-241117,Azor Matusiwa,Matusiwa,,,,,,,,,310,Ipswich
+241117,Azor Matusiwa,Matusiwa,9978,,,,,,,,310,Ipswich
 543968,Emersonn Correia da Silva,Emersonn,,,,,,,,,316,Ipswich
 147675,Chuba Akpom,Akpom,1790,,,,,,,,320,Ipswich
 557012,Sindre Walle Egeli,Walle Egeli,,,,,,,,,321,Ipswich
 232457,Anis Mehmeti,Mehmeti,,,,,,,,,324,Ipswich
 546600,Kayne van Oevelen,Van Oevelen,,,,,,,,,554,Ipswich
-522047,Tarik Muharemović,Muharemović,,,,,,,,,334,Leeds
-606702,Jeremy Jacquet,Jacquet,,,,,,,,,362,Liverpool
-551499,Victor Munoz,Munoz,,,,,,,,,377,Liverpool
+522047,Tarik Muharemović,Muharemović,13879,,,,,,,,334,Leeds
+606702,Jeremy Jacquet,Jacquet,11545,,,,,,,,362,Liverpool
+551499,Victor Munoz,Munoz,13279,,,,,,,,377,Liverpool
 554578,Ewen Jaouen,Jaouen,,,,,,,,,444,Newcastle
-611665,Bazoumana Touré,Touré,,,,,,,,,461,Newcastle
+611665,Bazoumana Touré,Touré,13427,,,,,,,,461,Newcastle
 636852,Sean Steur,Steur,,,,,,,,,462,Newcastle
 538638,Tyler Bindon,Bindon,,,,,,,,,479,Nott'm Forest
-93605,Thomas Meunier,Meunier,,,,,,,,,541,Sunderland
+93605,Thomas Meunier,Meunier,5680,,,,,,,,541,Sunderland
 439509,Christos Tzolis,Tzolis,9746,,,,,,,,557,Arsenal
-204561,Xaver Schlager,Schlager,,,,,,,,,558,Nott'm Forest
+204561,Xaver Schlager,Schlager,7783,,,,,,,,558,Nott'm Forest
 445028,Hidemasa Morita,Morita,,,,,,,,,563,Hull City
 442967,Daizen Maeda,Maeda,,,,,,,,,562,Ipswich
-632794,Aladji Bamba,Bamba,,,,,,,,,559,Newcastle
+632794,Aladji Bamba,Bamba,13214,,,,,,,,559,Newcastle
