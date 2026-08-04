@@ -246,7 +246,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 116643,Fabio Henrique Tavares,Fabinho,3420,Fabinho,,,,,,,,
 243298,Cody Gakpo,Gakpo,11296,Cody Gakpo,297,Liverpool,321,Liverpool,384,Liverpool,367,Liverpool
 171287,Joe Gomez,Gomez,987,Joseph Gomez,298,Liverpool,322,Liverpool,376,Liverpool,359,Liverpool
-56979,Jordan Henderson,Henderson,605,Jordan Henderson,,,,,124,Brentford,101,Brentford
+56979,Jordan Henderson,Henderson,605,Jordan Henderson,,,,,124,Brentford,101,Chelsea
 206915,Curtis Jones,C.Jones,6665,Curtis Jones,300,Liverpool,324,Liverpool,388,Liverpool,373,Liverpool
 200720,Caoimhín Kelleher,Kelleher,7904,Caoimhin Kelleher,301,Liverpool,325,Liverpool,101,Brentford,82,Brentford
 204716,Ibrahima Konaté,Konaté,6326,Ibrahima Konaté,302,Liverpool,326,Liverpool,374,Liverpool,374,Liverpool
@@ -815,7 +815,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 504751,Mauro Bandeira,Bandeira,11578,,,,,,,,,
 503308,James Sweet,Sweet,12444,,,,,,,,,
 462492,Joe Gauci,Gauci,12445,,818,Aston Villa,39,Aston Villa,34,Aston Villa,34,Aston Villa
-543158,Valentín Barco,Barco,12498,Valentín Barco,816,Brighton,116,Brighton,,,,
+543158,Valentín Barco,Barco,12498,Valentín Barco,816,Brighton,116,Brighton,,,568,Chelsea
 536238,Ishé Samuels-Smith,Samuels-Smith,11508,,,,782,Chelsea,,,,
 597983,Ollie Harrison,Harrison,12447,,,,,,,,,
 574398,Franco Umeh-Chibueze,Umeh,12454,,,,644,Crystal Palace,282,Crystal Palace,282,Crystal Palace
@@ -998,7 +998,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 496661,Tyler Dibling,Dibling,10586,Tyler Dibling,,,608,Southampton,707,Everton,245,Everton
 552427,Will Lankshear,Lankshear,13127,Will Lankshear,,,609,Spurs,598,Spurs,598,Spurs
 172453,Sam Szmodics,Szmodics,12752,Szmodics,,,611,Ipswich,,,319,Ipswich
-472739,Carl Rushworth,Rushworth,12760,,,,615,Brighton,141,Brighton,110,Brighton
+472739,Carl Rushworth,Rushworth,12760,,,,615,Brighton,141,Brighton,110,Coventry City
 501770,Ben Nelson,Nelson,10167,,,,616,Leicester,,,,
 444102,Francisco Evanilson de Lima Barbosa,Evanilson,12963,Evanilson,,,617,Bournemouth,97,Bournemouth,79,Bournemouth
 463067,Georginio Rutter,Georginio,6937,Georginio Rutter,,,618,Brighton,158,Brighton,125,Brighton
