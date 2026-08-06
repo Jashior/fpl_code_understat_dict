@@ -1318,7 +1318,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 493362,Xavi Simons,Xavi,8700,,,,,,717,Spurs,513,Spurs
 564940,Soungoutou Magassa,S.Magassa,10770,,,,,,718,West Ham,718,West Ham
 448104,Piero Hincapié,Hincapie,9911,,,,,,725,Arsenal,9,Arsenal
-216055,Florentino Ibrain Morris Luís,Florentino,8969,,,,,,722,Burnley,722,Burnley
+216055,Florentino Ibrain Morris Luís,Florentino,8969,,,,,,722,Burnley,571,Ipswich
 620487,Veljko Milosavljevic,Milosavljević,14027,Veljko Milosavljevic,,,,,721,Bournemouth,63,Bournemouth
 651426,Jaydee Canvot,Canvot,13091,,,,,,723,Crystal Palace,203,Crystal Palace
 660392,Christantus Uche,Uche,12726,,,,,,732,Crystal Palace,225,Crystal Palace
@@ -1503,3 +1503,4 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 470551,Lukás Hornícek,Horníček,,,,,,,,,567,Newcastle
 551466,Gonzalo García,García,,,,,,,,,569,Fulham
 571779,César Palacios,Palacios,,,,,,,,,570,Fulham
+473284,Konstantinos Tzolakis,Tzolakis,,,,,,,,,572,Hull City
