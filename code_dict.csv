@@ -101,7 +101,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 249231,Keane Lewis-Potter,Lewis-Potter,10809,Keane Lewis-Potter,107,Brentford,98,Brentford,107,Brentford,86,Brentford
 446008,Bryan Mbeumo,Mbeumo,6552,Bryan Mbeumo,108,Brentford,99,Brentford,119,Man Utd,427,Man Utd
 51927,Ben Mee,Mee,1654,Ben Mee,109,Brentford,100,Brentford,,,,
-128295,Christian Nørgaard,Nørgaard,7083,Christian Nørgaard,110,Brentford,101,Brentford,24,Arsenal,21,Arsenal
+128295,Christian Nørgaard,Nørgaard,7083,Christian Nørgaard,110,Brentford,101,Brentford,24,Arsenal,21,Everton
 428580,Frank Onyeka,Onyeka,9681,Frank Onyeka,111,Brentford,102,Brentford,128,Brentford,104,Coventry City
 231065,Ethan Pinnock,Pinnock,9678,Ethan Pinnock,112,Brentford,104,Brentford,111,Brentford,91,Brentford
 154561,David Raya Martín,Raya,9676,David Raya,113,Arsenal,15,Arsenal,1,Arsenal,1,Arsenal
@@ -514,7 +514,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 441455,Victor da Silva,Vitinho,11700,Vitinho,,,,,,,,
 511783,Anass Zaroury,Zaroury,11703,Anass Zaroury,,,,,,,,
 492831,Zeki Amdouni,Amdouni,11701,Zeki Amdouni,,,,,216,Burnley,216,Burnley
-432720,James Trafford,Trafford,9077,James Trafford,,,,,182,Man City,385,Man City
+432720,James Trafford,Trafford,9077,James Trafford,,,,,182,Man City,385,Leeds
 487702,Luca Koleosho,Koleosho,10620,Luca Koleosho,,,,,208,Burnley,208,Burnley
 179458,Jacob Bruun Larsen,Bruun Larsen,5355,Jacob Bruun Larsen,,,,,202,Burnley,202,Burnley
 118335,Abdul Rahman Baba,Baba,684,Abdul Rahman Baba,,,,,,,,
@@ -1504,3 +1504,4 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 551466,Gonzalo García,García,,,,,,,,,569,Fulham
 571779,César Palacios,Palacios,,,,,,,,,570,Fulham
 473284,Konstantinos Tzolakis,Tzolakis,,,,,,,,,572,Hull City
+494928,Juanlu Sánchez,Sanchez,,,,,,,,,573,Bournemouth
