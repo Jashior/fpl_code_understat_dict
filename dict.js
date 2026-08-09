@@ -63,6 +63,32 @@ function getCurrentSeason() {
   const nextYear = (year + 1).toString().slice(-2);
   return `${year}_${nextYear}`;
 }
+function seasonFromDate(date) {
+  const year = date.getFullYear();
+  const month = date.getMonth() + 1;
+  const seasonStartYear = month < 7 ? year - 1 : year;
+  const nextYear = (seasonStartYear + 1).toString().slice(-2);
+  return `${seasonStartYear}_${nextYear}`;
+}
+function inferSeasonFromApi(data) {
+  if (Array.isArray(data.events) && data.events.length > 0) {
+    const firstEvent = data.events[0];
+    const deadline = firstEvent.deadline_time || firstEvent.release_time;
+    if (deadline) {
+      const date = new Date(deadline);
+      if (!isNaN(date)) {
+        return seasonFromDate(date);
+      }
+    }
+    if (firstEvent.deadline_time_epoch) {
+      const date = new Date(firstEvent.deadline_time_epoch * 1000);
+      if (!isNaN(date)) {
+        return seasonFromDate(date);
+      }
+    }
+  }
+  return null;
+}
 function getSeasonColumns(season) {
   return {
     fplId: `FPL_ID_${season.replace('_', '-')}`,
@@ -137,8 +163,14 @@ async function updateDict(logger) {
     if (!existingData.length) {
       throw new Error('CSV is empty or missing header row.');
     }
-    const currentSeason = getCurrentSeason();
-    const { fplId, team } = getSeasonColumns(currentSeason);
+    const calendarSeason = getCurrentSeason();
+    const apiSeason = inferSeasonFromApi(response.data) || calendarSeason;
+    const { fplId, team } = getSeasonColumns(apiSeason);
+    if (apiSeason !== calendarSeason) {
+      logger.warn(
+        `API appears to contain ${apiSeason} data while calendar season is ${calendarSeason}. Writing to ${apiSeason} columns.`
+      );
+    }
     let headerKeys = Object.keys(existingData[0]);
     let header = headerKeys.map((k) => ({ id: k, title: k }));
     let addedColumns = false;
@@ -152,12 +184,26 @@ async function updateDict(logger) {
     }
     if (addedColumns) {
       logger.info(
-        `Added new columns for season ${currentSeason}: ${fplId}, ${team}`
+        `Added new columns for season ${apiSeason}: ${fplId}, ${team}`
       );
       existingData.forEach((row) => {
         if (!row[fplId]) row[fplId] = '';
         if (!row[team]) row[team] = '';
       });
+    }
+    const activeCodes = new Set(elements.map((element) => element.code.toString()));
+    let staleSeasonRows = 0;
+    existingData.forEach((row) => {
+      if (row[fplId] && row.Code && !activeCodes.has(row.Code)) {
+        row[fplId] = '';
+        row[team] = '';
+        staleSeasonRows++;
+      }
+    });
+    if (staleSeasonRows > 0) {
+      logger.warn(
+        `Cleared ${staleSeasonRows} stale ${fplId}/${team} entries for players not present in API ${apiSeason} data.`
+      );
     }
     let newPlayers = 0;
     let updatedPlayers = 0;
@@ -187,7 +233,7 @@ async function updateDict(logger) {
         }
       } else {
         const newRow = {
-          Code: code,
+          Code: code.toString(),
           FPL_Name: fplName,
           Web_Name: web_name,
           Understat_ID: '',
