@@ -21,7 +21,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 209289,Emile Smith Rowe,Smith Rowe,7230,Emile Smith-Rowe,22,Arsenal,19,Fulham,325,Fulham,262,Fulham
 437626,Nuno Varela Tavares,Tavares,9691,Nuno Tavares,,,,,,,,
 192895,Kieran Tierney,Tierney,8089,Kieran Tierney,24,Arsenal,21,Arsenal,,,,
-223723,Tomiyasu Takehiro,Tomiyasu,7931,Takehiro Tomiyasu,25,Arsenal,22,Arsenal,,,,
+223723,Takehiro Tomiyasu,Tomiyasu,7931,Takehiro Tomiyasu,25,Arsenal,22,Arsenal,,,577,Crystal Palace
 116216,Leandro Trossard,Trossard,7698,Leandro Trossard,26,Arsenal,23,Arsenal,20,Arsenal,,
 224068,Matt Turner,Turner,10700,Matt Turner,28,Nott'm Forest,445,Crystal Palace,504,Nott'm Forest,,
 198869,Benjamin White,White,7298,Ben White,29,Arsenal,24,Arsenal,11,Arsenal,10,Arsenal
@@ -223,7 +223,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 83543,Anthony Knockaert,Knockaert,4497,Anthony Knockaert,,,,,,,,
 109434,Terence Kongolo,Kongolo,6067,Terence Kongolo,,,,,,,,
 80201,Bernd Leno,Leno,181,Bernd Leno,275,Fulham,248,Fulham,314,Fulham,250,Fulham
-212314,Saša Lukić,Lukić,1537,Sasa Lukic,276,Fulham,249,Fulham,332,Fulham,267,Fulham
+212314,Saša Lukić,Lukić,1537,Sasa Lukic,276,Fulham,249,Fulham,332,Fulham,267,Ipswich
 120721,Kevin Mbabu,Mbabu,983,Kevin Mbabu,277,Fulham,250,Fulham,,,,
 128389,Aleksandar Mitrović,Mitrović,773,Aleksandar Mitrovic,,,,,,,,
 244042,Rodrigo Muniz Carvalho,Muniz,10717,Rodrigo Muniz,279,Fulham,251,Fulham,338,Fulham,271,Fulham
@@ -320,7 +320,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 215379,Elliot Anderson,Anderson,9154,Elliot Anderson,403,Newcastle,423,Nott'm Forest,517,Nott'm Forest,481,Man City
 441024,Harrison Ashby,Ashby,10061,Harrison Ashby,,,,,482,Newcastle,,
 220237,Sven Botman,Botman,8635,Sven Botman,405,Newcastle,393,Newcastle,475,Newcastle,447,Newcastle
-208706,Bruno Guimarães Rodriguez Moura,Bruno G.,8327,Bruno Guimarães,406,Newcastle,394,Newcastle,488,Newcastle,452,Newcastle
+208706,Bruno Guimarães Rodriguez Moura,Bruno G.,8327,Bruno Guimarães,406,Newcastle,394,Newcastle,488,Newcastle,452,Arsenal
 78916,Dan Burn,Burn,7382,Dan Burn,407,Newcastle,395,Newcastle,476,Newcastle,448,Newcastle
 59735,Karl Darlow,Darlow,780,Karl Darlow,,,,,341,Leeds,325,Man Utd
 67089,Martin Dubravka,Dubravka,6532,Martin Dubravka,409,Newcastle,396,Newcastle,470,Burnley,497,Spurs
@@ -1505,3 +1505,6 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 571779,César Palacios,Palacios,,,,,,,,,570,Fulham
 473284,Konstantinos Tzolakis,Tzolakis,,,,,,,,,572,Hull City
 494928,Juanlu Sánchez,Sanchez,,,,,,,,,573,Bournemouth
+661888,Caleb Yirenkyi,Yirenkyi,,,,,,,,,575,Coventry City
+552946,Jens Hjertø-Dahl,Hjertø-Dahl,,,,,,,,,574,Hull City
+608227,Elliot Stroud,Stroud,,,,,,,,,576,Hull City
