@@ -662,7 +662,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 221399,Jack Harrison,Harrison,8720,Jack Harrison,661,Everton,224,Everton,352,Leeds,342,Leeds
 159533,Adama Traoré Diarra,Adama,900,Adama Traoré,662,Fulham,239,Fulham,326,West Ham,,
 20480,Tim Krul,Krul,982,Tim Krul,,,,,,,,
-196100,Gustavo Hamer,Hamer,11839,Gustavo Hamer,,,,,,,,
+196100,Gustavo Hamer,Hamer,11839,Gustavo Hamer,,,,,,,584,Coventry City
 173807,Tom Davies,T.Davies,1042,Tom Davies,,,,,,,,
 101178,James Ward-Prowse,Ward-Prowse,843,James Ward-Prowse,664,West Ham,531,West Ham,614,Burnley,,
 158983,Endo Wataru,Endo,8808,Wataru Endo,668,Liverpool,320,Liverpool,392,Liverpool,374,Liverpool
@@ -1278,7 +1278,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 643135,Fer López González,Fer López,13200,Fernando López,,,,,645,Wolves,,
 500040,Cristhian Mosquera,Mosquera,10024,,,,,,662,Arsenal,11,Arsenal
 224117,Viktor Gyökeres,Gyökeres,7254,,,,,,666,Arsenal,25,Arsenal
-485337,Evann Guessand,Guessand,8006,,,,,,677,Crystal Palace,42,Aston Villa
+485337,Evann Guessand,Guessand,8006,,,,,,677,Crystal Palace,42,Crystal Palace
 551210,Jorrel Hato,Hato,13776,Jorrel Hato,,,,,672,Chelsea,148,Chelsea
 499300,Adam Aznou,Aznou,12371,,,,,,667,Everton,235,Everton
 86873,Benjamin Lecomte,Lecomte,3451,,,,,,664,Fulham,251,Fulham
@@ -1510,3 +1510,5 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 608227,Elliot Stroud,Stroud,,,,,,,,,576,Hull City
 445087,Ronald Araujo,Araujo,,,,,,,,,579,Liverpool
 568420,Ousmane Diomande,Diomande,,,,,,,,,581,Nott'm Forest
+690838,Brian Madjo,Madjo,,,,,,,,,582,Aston Villa
+498444,Pep Chavarría,Chavarria,,,,,,,,,583,Chelsea
