@@ -1501,7 +1501,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 483067,António João Pereira de Albuquerque Tavares da Silva,Silva,,,,,,,,,566,Bournemouth
 513545,Mamadou Sangaré,Sangaré,,,,,,,,,565,Brentford
 470551,Lukás Hornícek,Horníček,,,,,,,,,567,Newcastle
-551466,Gonzalo García,García,,,,,,,,,569,Fulham
+551466,Gonzalo García,Gonzalo,,,,,,,,,569,Fulham
 571779,César Palacios,Palacios,,,,,,,,,570,Fulham
 473284,Konstantinos Tzolakis,Tzolakis,,,,,,,,,572,Hull City
 494928,Juanlu Sánchez,Sanchez,,,,,,,,,573,Bournemouth
@@ -1512,3 +1512,6 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 568420,Ousmane Diomande,Diomande,,,,,,,,,581,Nott'm Forest
 690838,Brian Madjo,Madjo,,,,,,,,,582,Aston Villa
 498444,Pep Chavarría,Chavarria,,,,,,,,,583,Chelsea
+597462,Lucas Herrington,Herrington,,,,,,,,,585,Hull City
+606930,Nobel Mendy,Mendy,,,,,,,,,586,Hull City
+106921,Gerónimo Rulli,Rulli,,,,,,,,,587,Man City
