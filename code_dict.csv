@@ -692,7 +692,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 465607,Anssumane Fati Vieira,Ansu Fati,7967,Anssumane Fati,,,,,,,,
 437757,Han-Noah Massengo,Massengo,7264,Han-Noah Massengo,,,,,,,,
 486385,Norberto Bercique Gomes Betuncal,Beto,9983,Beto,691,Everton,218,Everton,311,Everton,248,Everton
-428971,Steven Benda,Benda,12735,,692,Fulham,242,Fulham,315,Fulham,,
+428971,Steven Benda,Benda,12735,,692,Fulham,242,Fulham,315,Fulham,590,Nott'm Forest
 451302,Altay Bayındır,Bayindir,12054,Altay Bayindir,695,Man Utd,367,Man Utd,431,Man Utd,413,Man Utd
 575476,Murillo Costa dos Santos,Murillo,12123,Murillo,696,Nott'm Forest,436,Nott'm Forest,506,Nott'm Forest,472,Nott'm Forest
 244619,Luke Thomas,Thomas,8562,Luke Thomas,693,Sheffield Utd,305,Leicester,,,,
@@ -1213,7 +1213,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 433952,Largie Ramazani,Ramazani,10975,,,,,,357,Leeds,,
 248056,Tanaka Ao,Tanaka,13834,Ao Tanaka,,,,,358,Leeds,345,Leeds
 536119,Charlie Crew,Crew,,,,,,,359,Leeds,,
-462635,Joe Gelhardt,Gelhardt,9339,,,,,,360,Leeds,340,Leeds
+462635,Joe Gelhardt,Gelhardt,9339,,,,,,360,Leeds,340,Hull City
 470294,Darko Gyabi,Gyabi,10752,,,,,,361,Leeds,297,Hull City
 235826,Joël Piroe,Piroe,13835,Joël Piroe,,,,,362,Leeds,348,Leeds
 106617,Patrick Bamford,Bamford,822,,,,,,363,Leeds,,
@@ -1515,3 +1515,5 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 597462,Lucas Herrington,Herrington,,,,,,,,,585,Hull City
 606930,Nobel Mendy,Mendy,,,,,,,,,586,Hull City
 106921,Gerónimo Rulli,Rulli,,,,,,,,,587,Man City
+570794,Anan Khalaili,Khalaili,,,,,,,,,588,Crystal Palace
+469266,Lucas Gourna-Douath,Gourna-Douath,,,,,,,,,589,Hull City
