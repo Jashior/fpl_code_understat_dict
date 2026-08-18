@@ -117,7 +117,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 536916,Facundo Buonanotte,Buonanotte,11362,Facundo Buonanotte,125,Brighton,117,Leicester,168,Leeds,128,Brighton
 486672,Moisés Caicedo Corozo,Caicedo,9453,Moisés Caicedo,126,Chelsea,157,Chelsea,241,Chelsea,159,Chelsea
 83299,Lewis Dunk,Dunk,6048,Lewis Dunk,129,Brighton,120,Brighton,146,Brighton,116,Brighton
-474120,Julio Enciso Espínola,Enciso,11058,Julio Enciso,130,Brighton,121,Ipswich,161,Brighton,,
+474120,Julio Enciso,Enciso,11058,Julio Enciso,130,Brighton,121,Ipswich,161,Brighton,591,Ipswich
 204214,Pervis Estupiñán Tenorio,Estupiñan,5136,Estupiñán,131,Brighton,122,Brighton,147,Brighton,,
 487117,Evan Ferguson,Ferguson,10177,Evan Ferguson,132,Brighton,123,West Ham,179,Brighton,139,Brighton
 243568,Billy Gilmour,Gilmour,7988,Billy Gilmour,133,Brighton,124,Brighton,,,,
@@ -347,7 +347,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 75115,Callum Wilson,Wilson,468,Callum Wilson,433,Newcastle,421,Newcastle,671,West Ham,108,Brentford
 48615,Harry Arter,Arter,881,Harry Arter,,,,,,,,
 80226,Serge Aurier,Aurier,3600,Serge Aurier,,,,,,,,
-210156,Taiwo Awoniyi,Awoniyi,7814,Taiwo Awoniyi,437,Nott'm Forest,424,Nott'm Forest,527,Nott'm Forest,492,Nott'm Forest
+210156,Taiwo Awoniyi,Awoniyi,7814,Taiwo Awoniyi,437,Nott'm Forest,424,Nott'm Forest,527,Nott'm Forest,492,Coventry City
 437753,Giulian Biancone,Biancone,7282,Giulian Biancone,,,,,,,,
 90585,Willy Boly,Boly,6850,Willy Boly,439,Nott'm Forest,425,Nott'm Forest,514,Nott'm Forest,,
 56917,Steve Cook,Cook,458,Steve Cook,,,,,,,,
@@ -1517,3 +1517,4 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 106921,Gerónimo Rulli,Rulli,,,,,,,,,587,Man City
 570794,Anan Khalaili,Khalaili,,,,,,,,,588,Crystal Palace
 469266,Lucas Gourna-Douath,Gourna-Douath,,,,,,,,,589,Hull City
+572584,Abdoul Ouattara,Ouattara,,,,,,,,,592,Ipswich
