@@ -43,7 +43,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 123354,Kortney Hause,Hause,6859,Kortney Hause,45,Aston Villa,40,Aston Villa,,,,
 490094,Tim Iroegbunam,Iroegbunam,9554,Tim Iroegbunam,46,Aston Villa,226,Everton,304,Everton,240,Everton
 226944,Boubacar Kamara,Kamara,5789,Boubacar Kamara,47,Aston Villa,42,Aston Villa,58,Aston Villa,47,Aston Villa
-199798,Ezri Konsa Ngoyo,Konsa,7726,Ezri Konsa Ngoyo,48,Aston Villa,44,Aston Villa,38,Aston Villa,31,Aston Villa
+199798,Ezri Konsa Ngoyo,Konsa,7726,Ezri Konsa Ngoyo,48,Aston Villa,44,Aston Villa,38,Aston Villa,31,Arsenal
 98980,Emiliano Martínez Romero,Martinez,4401,Emiliano Martinez,49,Aston Villa,47,Aston Villa,32,Aston Villa,28,Aston Villa
 122806,John McGinn,McGinn,7723,John McGinn,50,Aston Villa,48,Aston Villa,54,Aston Villa,45,Aston Villa
 149484,Tyrone Mings,Mings,1024,Tyrone Mings,51,Aston Villa,49,Aston Villa,40,Aston Villa,33,Aston Villa
@@ -713,7 +713,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 111452,Odysseas Vlachodimos,Odysseas,375,Odisseas Vlachodimos,710,Nott'm Forest,412,Newcastle,472,Newcastle,,
 466404,Andrew Omobamidele,Omobamidele,9833,Andrew Omobamidele,711,Nott'm Forest,440,Nott'm Forest,,,,
 250199,Nicolás Domínguez,Dominguez,8252,Nicolás Domínguez,712,Nott'm Forest,431,Nott'm Forest,519,Nott'm Forest,487,Nott'm Forest
-210462,Ibrahim Sangaré,Sangaré,5722,Ibrahim Sangare,713,Nott'm Forest,442,Nott'm Forest,521,Nott'm Forest,488,Nott'm Forest
+210462,Ibrahim Sangaré,I.Sangaré,5722,Ibrahim Sangare,713,Nott'm Forest,442,Nott'm Forest,521,Nott'm Forest,488,Nott'm Forest
 152760,Divock Origi,Origi,484,Divock Origi,,,,,,,,
 231057,Jean-Ricner Bellegarde,Bellegarde,7762,Jean-Ricner Bellegarde,715,Wolves,535,Wolves,644,Wolves,,
 447261,Mackenzie Hunt,Hunt,12103,,,,,,,,,
@@ -873,7 +873,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 554605,Dean Huijsen,Huijsen,11943,Dean Huijsen,,,580,Bournemouth,,,,
 502500,Igor Thiago Nascimento Rodrigues,Thiago,13222,Thiago,,,107,Brentford,136,Brentford,106,Brentford
 519324,Amario Cozier-Duberry,Cozier-Duberry,11241,,,,118,Brighton,,,,
-612855,Ibrahim Osman,I.Osman,13792,,,,127,Brighton,,,,
+612855,Ibrahim Osman,Osman,13792,,,,127,Brighton,,,600,Brighton
 550141,Adrian Mazilu,Mazilu,,,,,133,Brighton,176,Brighton,,
 592031,Yankuba Minteh,Minteh,12759,Yankuba Minteh,,,135,Brighton,160,Brighton,122,Brighton
 467779,Mats Wieffer,Wieffer,12758,Mats Wieffer,,,149,Brighton,173,Brighton,130,Brighton
@@ -1499,7 +1499,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 442967,Daizen Maeda,Maeda,,,,,,,,,562,Ipswich
 632794,Aladji Bamba,Bamba,13214,,,,,,,,559,Newcastle
 483067,António João Pereira de Albuquerque Tavares da Silva,Silva,,,,,,,,,566,Bournemouth
-513545,Mamadou Sangaré,Sangaré,,,,,,,,,565,Brentford
+513545,Mamadou Sangaré,M.Sangaré,,,,,,,,,565,Brentford
 470551,Lukás Hornícek,Horníček,,,,,,,,,567,Newcastle
 551466,Gonzalo García,Gonzalo,,,,,,,,,569,Fulham
 571779,César Palacios,Palacios,,,,,,,,,570,Fulham
