@@ -900,7 +900,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 449429,Jacob Greaves,Greaves,12745,Jacob Greaves,,,270,Ipswich,,,306,Ipswich
 167191,Marcus Myers-Harness,Harness,12753,Marcus Harness,,,271,Ipswich,,,,
 222625,George Hirst,Hirst,8563,George Hirst,,,272,Ipswich,,,317,Ipswich
-524180,Cameron Humphreys,Humphreys,1061,,,,273,Ipswich,,,,
+524180,Cameron Humphreys,Humphreys,1061,,,,273,Ipswich,,,602,Ipswich
 503301,Omari Hutchinson,Hutchinson,10348,Omari Hutchinson,,,274,Ipswich,693,Nott'm Forest,484,Nott'm Forest
 94926,Freddie Ladapo,Ladapo,1778,,,,276,Ipswich,,,,
 106606,Massimo Luongo,Luongo,12747,Massimo Luongo,,,277,Ipswich,,,,
@@ -1056,7 +1056,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 606775,Ben Winterburn,Winterburn,13242,Ben Winterburn,,,687,Bournemouth,96,Bournemouth,,
 589100,Jacob Slater,Slater,13238,,,,685,Brighton,155,Brighton,,
 591385,Samuel Amissah,Amissah,13250,,,,690,Fulham,323,Fulham,,
-611917,Lucá Williams-Barnett,Williams-Barnett,13249,,,,689,Spurs,790,Spurs,,
+611917,Luca Williams-Barnett,Williams-Barnett,13249,,,,689,Spurs,790,Spurs,601,Spurs
 602903,Ezra Mayers,Mayers,13247,,,,686,West Ham,747,West Ham,,
 576637,Godwill Kukonki,Kukonki,13259,,,,691,Man Utd,788,Man Utd,,
 545508,Joseph O'Brien-Whitmarsh,O'Brien-Whitmarsh,13258,,,,693,Southampton,,,,
@@ -1416,9 +1416,9 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 616286,Ryan Kavuma-McQueen,Kavuma-McQueen,14609,,,,,,834,Chelsea,,
 568159,Archie Whitehall,Whitehall,14615,,,,,,835,Nott'm Forest,,
 590040,Jimmy Sinclair,Sinclair,14614,,,,,,836,Nott'm Forest,,
-643970,Jayden Lienou,Lienou,14619,,,,,,837,Leeds,,
+643970,Jayden Lienou,Lienou,14619,,,,,,837,Leeds,603,Leeds
 577978,Rhys Chadwick,Chadwick,14618,,,,,,838,Leeds,,
-592740,Alfie Cresswell,Cresswell,14625,,,,,,839,Leeds,,
+592740,Alfie Cresswell,Cresswell,14625,,,,,,839,Leeds,604,Leeds
 687076,Lamin Sillah,Sillah,14636,,,,,,841,Nott'm Forest,,
 614071,Johan Manzambi,Manzambi,13102,,,,,,,,53,Aston Villa
 561245,Álvaro Rodríguez,Rodríguez,11186,,,,,,,,81,Bournemouth
