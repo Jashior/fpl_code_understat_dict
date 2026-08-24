@@ -271,6 +271,7 @@ function parseCsvFromString(csvString) {
 async function updateUnderstatIdsFromMasterCSV(logger) {
   const MASTER_CSV_URL =
     'https://raw.githubusercontent.com/ChrisMusson/FPL-ID-Map/refs/heads/main/Master.csv';
+    
   try {
     const response = await axios.get(MASTER_CSV_URL);
     const masterCsvData = await parseCsvFromString(response.data);
