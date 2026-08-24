@@ -1184,7 +1184,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 465730,Maxim De Cuyper,De Cuyper,13711,Maxim De Cuyper,,,,,145,Brighton,115,Brighton
 516211,Abdallah Sima,Sima,11046,,,,,,165,Brighton,,
 549074,Tom Watson,Watson,14029,,,,,,172,Brighton,133,Brighton
-611695,Malick Yalcouyé,Yalcouyé,,,,,,,174,Brighton,605,Brighton
+611695,Malick Yalcouyé,Yalcouyé,14856,,,,,,174,Brighton,605,Brighton
 608181,Stefanos Tzimas,Tzimas,14028,Stefanos Tzimas,,,,,180,Brighton,137,Brighton
 647850,Charalampos Kostoulas,Kostoulas,14118,,,,,,181,Brighton,138,Brighton
 549939,Mike Penders,Penders,13816,,,,,,222,Chelsea,560,Chelsea
@@ -1423,52 +1423,52 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 614071,Johan Manzambi,Manzambi,13102,,,,,,,,53,Aston Villa
 561245,Álvaro Rodríguez,Rodríguez,11186,,,,,,,,81,Bournemouth
 513086,Jannik Schuster,Schuster,,,,,,,,,93,Brentford
-451490,João Pedro Loureiro da Costa,Costinha,,,,,,,,,119,Brighton
+451490,João Pedro Loureiro da Costa,Costinha,14854,,,,,,,,119,Brighton
 454490,Michael Svoboda,Svoboda,9887,,,,,,,,120,Brighton
-700308,Zadok Yohanna,Yohanna,,,,,,,,,135,Brighton
+700308,Zadok Yohanna,Yohanna,14855,,,,,,,,135,Brighton
 620109,Marco Palestra,Palestra,11551,,,,,,,,152,Chelsea
 593117,Geovany Quenda,Quenda,,,,,,,,,164,Chelsea
 503037,Emmanuel Emegha,Emegha,11817,,,,,,,,170,Chelsea
 484389,Oliver Dovin,Dovin,,,,,,,,,171,Coventry City
 110690,Ben Wilson,Wilson,,,,,,,,,172,Coventry City
 436761,Liam Kitching,Kitching,,,,,,,,,174,Coventry City
-451284,Milan van Ewijk,van Ewijk,,,,,,,,,175,Coventry City
-173878,Jay Dasilva,Dasilva,,,,,,,,,176,Coventry City
+451284,Milan van Ewijk,van Ewijk,14742,,,,,,,,175,Coventry City
+173878,Jay Dasilva,Dasilva,14743,,,,,,,,176,Coventry City
 80178,Jake Bidwell,Bidwell,,,,,,,,,178,Coventry City
 204813,Joel Latibeaudiere,Latibeaudiere,,,,,,,,,179,Coventry City
 577411,Miguel Brau,Brau,,,,,,,,,181,Coventry City
 539142,Aurèle Amenda,Amenda,12955,,,,,,,,182,Coventry City
-480457,Jack Rudoni,Rudoni,,,,,,,,,183,Coventry City
+480457,Jack Rudoni,Rudoni,14747,,,,,,,,183,Coventry City
 168144,Matt Grimes,Grimes,1045,,,,,,,,184,Coventry City
 501459,Tatsuhiro Sakamoto,Sakamoto,,,,,,,,,185,Coventry City
 241293,Ephron Mason-Clark,Mason-Clark,,,,,,,,,186,Coventry City
 439668,Josh Eccles,Eccles,,,,,,,,,187,Coventry City
-226965,Victor Torp,Torp,,,,,,,,,188,Coventry City
+226965,Victor Torp,Torp,14746,,,,,,,,188,Coventry City
 684268,George Shepherd,Shepherd,,,,,,,,,189,Coventry City
 492498,Raphael Borges Rodrigues,Borges Rodrigues,,,,,,,,,191,Coventry City
 629397,Kaine Andrews,Andrews,,,,,,,,,192,Coventry City
 176412,Haji Wright,Wright,5361,,,,,,,,193,Coventry City
-230730,Brandon Thomas-Asante,Thomas-Asante,,,,,,,,,194,Coventry City
+230730,Brandon Thomas-Asante,Thomas-Asante,14745,,,,,,,,194,Coventry City
 551262,Jahnoah Markelo,Markelo,,,,,,,,,196,Coventry City
 549653,Norman Bassette,Bassette,,,,,,,,,197,Coventry City
 242313,Oscar Mingueza,Mingueza,9011,,,,,,,,207,Crystal Palace
-244860,Hayden Hackney,Hackney,,,,,,,,,247,Everton
+244860,Hayden Hackney,Hackney,14769,,,,,,,,247,Everton
 167825,Dillon Phillips,Phillips,,,,,,,,,273,Hull City
 105666,Jack Butland,Butland,856,,,,,,,,274,Hull City
 494950,Harvey Cartwright,Cartwright,,,,,,,,,275,Hull City
 444307,Thimothée Lo-Tutala,Lo-Tutala,,,,,,,,,276,Hull City
 501902,Charlie Hughes,Hughes,,,,,,,,,278,Hull City
 146426,Semi Ajayi,Ajayi,4490,,,,,,,,279,Hull City
-193278,Lewie Coyle,Coyle,,,,,,,,,280,Hull City
+193278,Lewie Coyle,Coyle,14759,,,,,,,,280,Hull City
 433590,Cody Drameh,Drameh,9499,,,,,,,,281,Hull City
 449428,Matty Jacob,Jacob,,,,,,,,,283,Hull City
 661800,Cathal McCarthy,McCarthy,,,,,,,,,284,Hull City
 160817,Paddy McNair,McNair,559,,,,,,,,285,Hull City
-540324,Mohamed Belloumi,Belloumi,,,,,,,,,286,Hull City
-232905,Liam Millar,Millar,,,,,,,,,287,Hull City
+540324,Mohamed Belloumi,Belloumi,14760,,,,,,,,286,Hull City
+232905,Liam Millar,Millar,14764,,,,,,,,287,Hull City
 171270,Kieran Dowell,Dowell,1032,,,,,,,,288,Hull City
-101282,Matt Crooks,Crooks,,,,,,,,,289,Hull City
-243413,Regan Slater,Slater,,,,,,,,,290,Hull City
+101282,Matt Crooks,Crooks,14761,,,,,,,,289,Hull City
+243413,Regan Slater,Slater,14762,,,,,,,,290,Hull City
 465525,Eliot Matazo,Matazo,8644,,,,,,,,291,Hull City
 208481,Abdülkadir Ömür,Ömür,,,,,,,,,292,Hull City
 490161,Abu Kamara,Kamara,10526,,,,,,,,293,Hull City
@@ -1478,11 +1478,11 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 50093,David Button,Button,6843,,,,,,,,302,Ipswich
 183015,Cédric Kipré,Kipré,8785,,,,,,,,303,Ipswich
 176420,Darnell Furlong,Furlong,4391,,,,,,,,308,Ipswich
-501390,Marcelino Núñez,Núñez,,,,,,,,,309,Ipswich
+501390,Marcelino Núñez,Núñez,14771,,,,,,,,309,Ipswich
 241117,Azor Matusiwa,Matusiwa,9978,,,,,,,,310,Ipswich
-543968,Emersonn Correia da Silva,Emersonn,,,,,,,,,316,Ipswich
+543968,Emersonn Correia da Silva,Emersonn,14082,,,,,,,,316,Ipswich
 147675,Chuba Akpom,Akpom,1790,,,,,,,,320,Ipswich
-557012,Sindre Walle Egeli,Walle Egeli,,,,,,,,,321,Ipswich
+557012,Sindre Walle Egeli,Walle Egeli,14773,,,,,,,,321,Ipswich
 232457,Anis Mehmeti,Mehmeti,,,,,,,,,324,Ipswich
 546600,Kayne van Oevelen,Van Oevelen,,,,,,,,,554,Ipswich
 522047,Tarik Muharemović,Muharemović,13879,,,,,,,,334,Leeds
@@ -1490,38 +1490,38 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 551499,Victor Munoz,Munoz,13279,,,,,,,,377,Liverpool
 554578,Ewen Jaouen,Jaouen,,,,,,,,,444,Newcastle
 611665,Bazoumana Touré,Touré,13427,,,,,,,,461,Newcastle
-636852,Sean Steur,Steur,,,,,,,,,462,Newcastle
+636852,Sean Steur,Steur,14875,,,,,,,,462,Newcastle
 538638,Tyler Bindon,Bindon,,,,,,,,,479,Nott'm Forest
 93605,Thomas Meunier,Meunier,5680,,,,,,,,541,Sunderland
 439509,Christos Tzolis,Tzolis,9746,,,,,,,,557,Arsenal
 204561,Xaver Schlager,Schlager,7783,,,,,,,,558,Nott'm Forest
 445028,Hidemasa Morita,Morita,,,,,,,,,563,Hull City
-442967,Daizen Maeda,Maeda,,,,,,,,,562,Ipswich
+442967,Daizen Maeda,Maeda,14772,,,,,,,,562,Ipswich
 632794,Aladji Bamba,Bamba,13214,,,,,,,,559,Newcastle
-483067,António João Pereira de Albuquerque Tavares da Silva,Silva,,,,,,,,,566,Bournemouth
-513545,Mamadou Sangaré,M.Sangaré,,,,,,,,,565,Brentford
-470551,Lukás Hornícek,Horníček,,,,,,,,,567,Newcastle
+483067,António João Pereira de Albuquerque Tavares da Silva,Silva,14859,,,,,,,,566,Bournemouth
+513545,Mamadou Sangaré,M.Sangaré,13917,,,,,,,,565,Brentford
+470551,Lukás Hornícek,Horníček,14874,,,,,,,,567,Newcastle
 551466,Gonzalo García,Gonzalo,,,,,,,,,569,Fulham
 571779,César Palacios,Palacios,,,,,,,,,570,Fulham
-473284,Konstantinos Tzolakis,Tzolakis,,,,,,,,,572,Hull City
+473284,Konstantinos Tzolakis,Tzolakis,14758,,,,,,,,572,Hull City
 494928,Juanlu Sánchez,Sanchez,,,,,,,,,573,Bournemouth
-661888,Caleb Yirenkyi,Yirenkyi,,,,,,,,,575,Coventry City
+661888,Caleb Yirenkyi,Yirenkyi,14744,,,,,,,,575,Coventry City
 552946,Jens Hjertø-Dahl,Hjertø-Dahl,,,,,,,,,574,Hull City
-608227,Elliot Stroud,Stroud,,,,,,,,,576,Hull City
-445087,Ronald Araujo,Araujo,,,,,,,,,579,Liverpool
+608227,Elliot Stroud,Stroud,14763,,,,,,,,576,Hull City
+445087,Ronald Araujo,Araujo,8091,,,,,,,,579,Liverpool
 568420,Ousmane Diomande,Diomande,,,,,,,,,581,Nott'm Forest
 690838,Brian Madjo,Madjo,,,,,,,,,582,Aston Villa
 498444,Pep Chavarría,Chavarria,,,,,,,,,583,Chelsea
-597462,Lucas Herrington,Herrington,,,,,,,,,585,Hull City
-606930,Nobel Mendy,Mendy,,,,,,,,,586,Hull City
+597462,Lucas Herrington,Herrington,14765,,,,,,,,585,Hull City
+606930,Nobel Mendy,Mendy,12286,,,,,,,,586,Hull City
 106921,Gerónimo Rulli,Rulli,,,,,,,,,587,Man City
-570794,Anan Khalaili,Khalaili,,,,,,,,,588,Crystal Palace
+570794,Anan Khalaili,Khalaili,14770,,,,,,,,588,Crystal Palace
 469266,Lucas Gourna-Douath,Gourna-Douath,,,,,,,,,589,Hull City
-572584,Abdoul Ouattara,Ouattara,,,,,,,,,592,Ipswich
+572584,Abdoul Ouattara,Ouattara,10485,,,,,,,,592,Ipswich
 538007,Promise David,David,,,,,,,,,594,Brighton
 559152,Zavier Gozo,Gozo,,,,,,,,,595,Crystal Palace
-463726,Amar Dedic,Dedić,,,,,,,,,593,Newcastle
-487992,Matteo Ruggeri,Ruggeri,,,,,,,,,596,Aston Villa
+463726,Amar Dedic,Dedić,13456,,,,,,,,593,Newcastle
+487992,Matteo Ruggeri,Ruggeri,8872,,,,,,,,596,Aston Villa
 433969,Zion Suzuki,Suzuki,,,,,,,,,597,Aston Villa
 627221,Sidiki Cherif,Cherif,,,,,,,,,599,Coventry City
 173774,Nico Elvedi,Elvedi,,,,,,,,,598,Leeds
