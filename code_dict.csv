@@ -315,7 +315,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 106760,Luke Shaw,Shaw,1006,Luke Shaw,398,Man Utd,387,Man Utd,443,Man Utd,423,Man Utd
 472464,Shola Shoretire,Shoretire,9359,Shola Shoretire,,,,,,,,
 180184,Donny van de Beek,Van de Beek,8821,Donny van de Beek,,,,,,,,
-214590,Aaron Wan-Bissaka,Wan-Bissaka,5584,Aaron Wan-Bissaka,401,Man Utd,388,West Ham,610,West Ham,,
+214590,Aaron Wan-Bissaka,Wan-Bissaka,5584,Aaron Wan-Bissaka,401,Man Utd,388,West Ham,610,West Ham,611,Aston Villa
 179018,Miguel Almirón Rejala,Almirón,7420,Miguel Almirón,402,Newcastle,391,Newcastle,,,,
 215379,Elliot Anderson,Anderson,9154,Elliot Anderson,403,Newcastle,423,Nott'm Forest,517,Nott'm Forest,481,Man City
 441024,Harrison Ashby,Ashby,10061,Harrison Ashby,,,,,482,Newcastle,,
@@ -622,7 +622,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 461567,Owen Dodgson,Dodgson,9827,,,,,,189,Burnley,,
 534392,Mason Burstow,Burstow,11810,Mason Burstow,,,,,,,299,Hull City
 461421,Lewis Dobbin,Dobbin,10027,Lewis Dobbin,624,Everton,37,Aston Villa,57,Aston Villa,,
-547686,Luc De Fougerolles,De Fougerolles,12172,,,,,,,,,
+547686,Luc De Fougerolles,De Fougerolles,12172,,,,,,,,610,Fulham
 441428,Jarell Quansah,Quansah,10187,Jarell Quansah,626,Liverpool,333,Liverpool,,,,
 491970,Bobby Clark,Clark,10997,Bobby Clark,627,Liverpool,315,Liverpool,,,,
 496208,Ben Gannon-Doak,Gannon-Doak,11231,Ben Doak,628,Liverpool,318,Liverpool,391,Bournemouth,72,Bournemouth
@@ -938,7 +938,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 244858,Fábio Freitas Gouveia Carvalho,Carvalho,9501,Fabio Carvalho,,,314,Brentford,123,Brentford,100,Brentford
 440148,Tyler Morton,Morton,10091,Tyler Morton,,,331,Liverpool,395,Liverpool,,
 219937,Rhys Williams,R.Williams,9086,Rhys Williams,,,334,Liverpool,379,Liverpool,,
-510281,Sávio Moreira de Oliveira,Savinho,11735,Sávio,,,571,Man City,415,Man City,403,Man City
+510281,Sávio Moreira de Oliveira,Savinho,11735,Sávio,,,571,Man City,415,Man City,403,Spurs
 458249,Joshua Zirkzee,Zirkzee,8044,Joshua Zirkzee,,,389,Man Utd,466,Man Utd,440,Man Utd
 550864,Leny Yoro,Yoro,10564,Leny Yoro,,,572,Man Utd,444,Man Utd,420,Man Utd
 19236,John Ruddy,Ruddy,785,John Ruddy,,,414,Newcastle,753,Newcastle,,
@@ -1526,3 +1526,4 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 627221,Sidiki Cherif,Cherif,,,,,,,,,599,Coventry City
 173774,Nico Elvedi,Elvedi,,,,,,,,,598,Leeds
 571380,Luka Lynch,Lynch,,,,,,,,,607,Aston Villa
+638411,Dayann Méthalie,Methalie,,,,,,,,,612,Sunderland
