@@ -688,7 +688,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 218430,Gonzalo Montiel,G.Montiel,9897,Gonzalo Montiel,,,,,,,,
 460842,Mohammed Kudus,Kudus,12027,Mohammed Kudus,689,West Ham,525,West Ham,582,Spurs,512,Spurs
 171101,Clément Lenglet,Lenglet,5050,Clement Lenglet,,,,,,,,
-535301,Carlos Baleba,Baleba,10527,Carlos Baleba,690,Brighton,115,Brighton,167,Brighton,131,Brighton
+535301,Carlos Baleba,Baleba,10527,Carlos Baleba,690,Brighton,115,Brighton,167,Brighton,131,Man Utd
 465607,Anssumane Fati Vieira,Ansu Fati,7967,Anssumane Fati,,,,,,,,
 437757,Han-Noah Massengo,Massengo,7264,Han-Noah Massengo,,,,,,,,
 486385,Norberto Bercique Gomes Betuncal,Beto,9983,Beto,691,Everton,218,Everton,311,Everton,248,Everton
@@ -938,7 +938,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 244858,Fábio Freitas Gouveia Carvalho,Carvalho,9501,Fabio Carvalho,,,314,Brentford,123,Brentford,100,Brentford
 440148,Tyler Morton,Morton,10091,Tyler Morton,,,331,Liverpool,395,Liverpool,,
 219937,Rhys Williams,R.Williams,9086,Rhys Williams,,,334,Liverpool,379,Liverpool,,
-510281,Sávio Moreira de Oliveira,Savinho,11735,Sávio,,,571,Man City,415,Man City,403,Spurs
+510281,Sávio Moreira de Oliveira,Sávio,11735,Sávio,,,571,Man City,415,Man City,403,Spurs
 458249,Joshua Zirkzee,Zirkzee,8044,Joshua Zirkzee,,,389,Man Utd,466,Man Utd,440,Man Utd
 550864,Leny Yoro,Yoro,10564,Leny Yoro,,,572,Man Utd,444,Man Utd,420,Man Utd
 19236,John Ruddy,Ruddy,785,John Ruddy,,,414,Newcastle,753,Newcastle,,
@@ -1527,3 +1527,5 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 173774,Nico Elvedi,Elvedi,,,,,,,,,598,Leeds
 571380,Luka Lynch,Lynch,,,,,,,,,607,Aston Villa
 638411,Dayann Méthalie,Methalie,,,,,,,,,612,Sunderland
+512123,Jaouen Hadjam,Hadjam,,,,,,,,,614,Brighton
+696104,Jules Ahoka,Ahoka,,,,,,,,,613,Sunderland
