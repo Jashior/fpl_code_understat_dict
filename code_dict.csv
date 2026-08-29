@@ -428,7 +428,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 180151,Nikola Vlašić,Vlašić,6276,Nikola Vlasic,,,,,,,,
 103192,Kurt Zouma,Zouma,935,Kurt Zouma,544,West Ham,532,West Ham,,,,
 448514,Rayan Aït-Nouri,Aït-Nouri,6674,Rayan Ait Nouri,545,Wolves,533,Wolves,402,Man City,392,Man City
-79602,Daniel Bentley,Bentley,11361,Daniel Bentley,546,Wolves,536,Wolves,629,Wolves,,
+79602,Dan Bentley,Bentley,11361,Daniel Bentley,546,Wolves,536,Wolves,629,Wolves,623,Coventry City
 490721,Hugo Bueno López,H.Bueno,10140,Hugo Bueno,548,Wolves,549,Wolves,633,Wolves,,
 510363,Francisco Jorge Tomás Oliveira,Chiquinho,10327,Chiquinho,549,Wolves,537,Wolves,,,,
 245923,Luke Cundle,Cundle,8179,Luke Cundle,550,Wolves,540,Wolves,,,,
@@ -520,7 +520,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 118335,Abdul Rahman Baba,Baba,684,Abdul Rahman Baba,,,,,,,,
 482609,Malo Gusto,Gusto,9017,Malo Gusto,203,Chelsea,171,Chelsea,228,Chelsea,144,Chelsea
 66749,Romelu Lukaku Bolingoli,Lukaku,594,Romelu Lukaku,207,Chelsea,175,Chelsea,,,,
-517052,Nicolas Jackson,N.Jackson,10048,Nicolas Jackson,211,Chelsea,180,Chelsea,251,Chelsea,166,Chelsea
+517052,Nicolas Jackson,N.Jackson,10048,Nicolas Jackson,211,Chelsea,180,Chelsea,251,Chelsea,166,Aston Villa
 213198,Christopher Nkunku,Nkunku,3300,Christopher Nkunku,212,Chelsea,181,Chelsea,240,Chelsea,,
 471798,Gabriel Słonina,Slonina,13854,,,,,,223,Chelsea,,
 518620,Ângelo Gabriel Borges Damaceno,Ângelo,11818,,589,Chelsea,151,Chelsea,,,,
@@ -1337,7 +1337,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 590039,Divine Mukasa,Mukasa,14055,,,,,,739,Man City,409,Man City
 566213,Stephen Mfuni,Mfuni,14054,,,,,,740,Man City,,
 600882,Harry Gray,Gray,14073,,,,,,741,Leeds,,
-616288,Ryan McAidoo,McAidoo,14097,,,,,,742,Man City,,
+616288,Ryan McAidoo,McAidoo,14097,,,,,,742,Man City,621,Man City
 611912,Landon Emenalo,Emenalo,14112,,,,,,743,Chelsea,,
 556637,Nehemiah Oriola,Oriola,14127,,,,,,744,Brighton,134,Brighton
 640419,Jun'ai Byfield,Byfield,14134,,,,,,745,Spurs,509,Spurs
@@ -1534,3 +1534,4 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 119090,Leon Goretzka,Goretzka,335,,,,,,,,618,Aston Villa
 490884,Mohamed-Ali Cho,Cho,,,,,,,,,617,Hull City
 218543,Exequiel Palacios,Palacios,8325,,,,,,,,619,Ipswich
+554054,Kaden Braithwaite,Braithwaite,,,,,,,,,622,Man City
