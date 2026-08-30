@@ -44,7 +44,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 490094,Tim Iroegbunam,Iroegbunam,9554,Tim Iroegbunam,46,Aston Villa,226,Everton,304,Everton,240,Everton
 226944,Boubacar Kamara,Kamara,5789,Boubacar Kamara,47,Aston Villa,42,Aston Villa,58,Aston Villa,47,Aston Villa
 199798,Ezri Konsa Ngoyo,Konsa,7726,Ezri Konsa Ngoyo,48,Aston Villa,44,Aston Villa,38,Aston Villa,31,Arsenal
-98980,Emiliano Martínez Romero,Martinez,4401,Emiliano Martinez,49,Aston Villa,47,Aston Villa,32,Aston Villa,28,Aston Villa
+98980,Emiliano Martínez Romero,Martinez,4401,Emiliano Martinez,49,Aston Villa,47,Aston Villa,32,Aston Villa,28,Chelsea
 122806,John McGinn,McGinn,7723,John McGinn,50,Aston Villa,48,Aston Villa,54,Aston Villa,45,Aston Villa
 149484,Tyrone Mings,Mings,1024,Tyrone Mings,51,Aston Villa,49,Aston Villa,40,Aston Villa,33,Aston Villa
 184704,Marvelous Nakamba,Nakamba,8040,Marvelous Nakamba,,,,,,,,
@@ -872,7 +872,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 495145,Alex Paulsen,Paulsen,,,,,75,Bournemouth,70,Bournemouth,,
 554605,Dean Huijsen,Huijsen,11943,Dean Huijsen,,,580,Bournemouth,,,,
 502500,Igor Thiago Nascimento Rodrigues,Thiago,13222,Thiago,,,107,Brentford,136,Brentford,106,Brentford
-519324,Amario Cozier-Duberry,Cozier-Duberry,11241,,,,118,Brighton,,,,
+519324,Amario Cozier-Duberry,Cozier-Duberry,11241,,,,118,Brighton,,,624,Brighton
 612855,Ibrahim Osman,Osman,13792,,,,127,Brighton,,,600,Brighton
 550141,Adrian Mazilu,Mazilu,,,,,133,Brighton,176,Brighton,,
 592031,Yankuba Minteh,Minteh,12759,Yankuba Minteh,,,135,Brighton,160,Brighton,122,Brighton
@@ -1198,7 +1198,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 447325,Harry Tyrer,Tyrer,9411,,,,,,289,Everton,,
 586309,Thierno Barry,Barry,12916,,,,,,310,Everton,249,Everton
 437495,Illan Meslier,Meslier,8715,,,,,,339,Leeds,3,Arsenal
-97846,Alex Cairns,Cairns,,,,,,,340,Leeds,,
+97846,Alex Cairns,Cairns,,,,,,,340,Leeds,625,Leeds
 222694,Pascal Struijk,Struijk,8717,,,,,,343,Leeds,328,Brighton
 434752,Jaka Bijol,Bijol,6807,,,,,,344,Leeds,327,Leeds
 437738,Sebastiaan Bornauw,Bornauw,7791,,,,,,345,Leeds,333,Leeds
@@ -1535,3 +1535,4 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 490884,Mohamed-Ali Cho,Cho,,,,,,,,,617,Hull City
 218543,Exequiel Palacios,Palacios,8325,,,,,,,,619,Ipswich
 554054,Kaden Braithwaite,Braithwaite,,,,,,,,,622,Man City
+616069,Macauley Zepa,Zepa,,,,,,,,,626,Fulham
