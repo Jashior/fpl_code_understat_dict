@@ -520,7 +520,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 118335,Abdul Rahman Baba,Baba,684,Abdul Rahman Baba,,,,,,,,
 482609,Malo Gusto,Gusto,9017,Malo Gusto,203,Chelsea,171,Chelsea,228,Chelsea,144,Chelsea
 66749,Romelu Lukaku Bolingoli,Lukaku,594,Romelu Lukaku,207,Chelsea,175,Chelsea,,,,
-517052,Nicolas Jackson,N.Jackson,10048,Nicolas Jackson,211,Chelsea,180,Chelsea,251,Chelsea,166,Chelsea
+517052,Nicolas Jackson,N.Jackson,10048,Nicolas Jackson,211,Chelsea,180,Chelsea,251,Chelsea,166,Aston Villa
 213198,Christopher Nkunku,Nkunku,3300,Christopher Nkunku,212,Chelsea,181,Chelsea,240,Chelsea,,
 471798,Gabriel Słonina,Slonina,13854,,,,,,223,Chelsea,,
 518620,Ângelo Gabriel Borges Damaceno,Ângelo,11818,,589,Chelsea,151,Chelsea,,,,
@@ -796,7 +796,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 503724,Lorenz Assignon,Assignon,8973,Lorenz Assignon,,,,,,,,
 477717,Maxime Estève,Estève,9487,Maxime Estève,,,,,191,Burnley,,
 505187,Cesare Casadei,Casadei,10433,Cesare Casadei,791,Chelsea,158,Chelsea,,,,
-247348,Daniel Muñoz Mejía,Muñoz,12408,Daniel Muñoz,792,Crystal Palace,211,Crystal Palace,256,Crystal Palace,201,Crystal Palace
+247348,Daniel Muñoz Mejía,Muñoz,12408,Daniel Muñoz,792,Crystal Palace,211,Crystal Palace,256,Crystal Palace,201,Nott'm Forest
 496221,Adam Wharton,Wharton,12409,Adam Wharton,807,Crystal Palace,216,Crystal Palace,273,Crystal Palace,210,Crystal Palace
 511504,Kristian Sekularac,Sekularac,11237,,,,,,,,,
 209293,Daiki Hashioka,Hashioka,12509,Daiki Hashioka,,,,,,,,
@@ -1536,3 +1536,6 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 218543,Exequiel Palacios,Palacios,8325,,,,,,,,619,Ipswich
 554054,Kaden Braithwaite,Braithwaite,,,,,,,,,622,Man City
 616069,Macauley Zepa,Zepa,,,,,,,,,626,Fulham
+155465,Michael Zetterer,Zetterer,,,,,,,,,629,Leeds
+482616,Bradley Barcola,Barcola,,,,,,,,,627,Liverpool
+624777,Allan Andrade Elias,Allan,,,,,,,,,628,Man City
