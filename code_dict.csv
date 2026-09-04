@@ -1441,7 +1441,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 480457,Jack Rudoni,Rudoni,14747,,,,,,,,183,Coventry City
 168144,Matt Grimes,Grimes,1045,,,,,,,,184,Coventry City
 501459,Tatsuhiro Sakamoto,Sakamoto,14749,,,,,,,,185,Coventry City
-241293,Ephron Mason-Clark,Mason-Clark,,,,,,,,,186,Coventry City
+241293,Ephron Mason-Clark,Mason-Clark,14981,,,,,,,,186,Coventry City
 439668,Josh Eccles,Eccles,14751,,,,,,,,187,Coventry City
 226965,Victor Torp,Torp,14746,,,,,,,,188,Coventry City
 684268,George Shepherd,Shepherd,,,,,,,,,189,Coventry City
@@ -1495,7 +1495,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 93605,Thomas Meunier,Meunier,5680,,,,,,,,541,Sunderland
 439509,Christos Tzolis,Tzolis,9746,,,,,,,,557,Arsenal
 204561,Xaver Schlager,Schlager,7783,,,,,,,,558,Nott'm Forest
-445028,Hidemasa Morita,Morita,,,,,,,,,563,Hull City
+445028,Hidemasa Morita,Morita,14982,,,,,,,,563,Hull City
 442967,Daizen Maeda,Maeda,14772,,,,,,,,562,Ipswich
 632794,Aladji Bamba,Bamba,13214,,,,,,,,559,Newcastle
 483067,António João Pereira de Albuquerque Tavares da Silva,Silva,14859,,,,,,,,566,Bournemouth
@@ -1519,7 +1519,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 469266,Lucas Gourna-Douath,Gourna-Douath,8372,,,,,,,,589,Hull City
 572584,Abdoul Ouattara,Ouattara,10485,,,,,,,,592,Ipswich
 538007,Promise David,David,14857,,,,,,,,594,Brighton
-559152,Zavier Gozo,Gozo,,,,,,,,,595,Crystal Palace
+559152,Zavier Gozo,Gozo,14934,,,,,,,,595,Crystal Palace
 463726,Amar Dedic,Dedić,13456,,,,,,,,593,Newcastle
 487992,Matteo Ruggeri,Ruggeri,8872,,,,,,,,596,Aston Villa
 433969,Zion Suzuki,Suzuki,12781,,,,,,,,597,Aston Villa
@@ -1528,34 +1528,34 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 571380,Luka Lynch,Lynch,14858,,,,,,,,607,Aston Villa
 638411,Dayann Méthalie,Methalie,12841,,,,,,,,612,Sunderland
 512123,Jaouen Hadjam,Hadjam,11344,,,,,,,,614,Brighton
-696104,Jules Ahoka,Ahoka,,,,,,,,,613,Sunderland
+696104,Jules Ahoka,Ahoka,14998,,,,,,,,613,Sunderland
 230650,Michele Di Gregorio,Di Gregorio,10890,,,,,,,,615,Bournemouth
 637238,Ayyoub Bouaddi,Bouaddi,12162,,,,,,,,616,Man City
 119090,Leon Goretzka,Goretzka,335,,,,,,,,618,Aston Villa
 490884,Mohamed-Ali Cho,Cho,,,,,,,,,617,Hull City
 218543,Exequiel Palacios,Palacios,8325,,,,,,,,619,Ipswich
-554054,Kaden Braithwaite,Braithwaite,,,,,,,,,622,Man City
-616069,Macauley Zepa,Zepa,,,,,,,,,626,Fulham
-155465,Michael Zetterer,Zetterer,,,,,,,,,629,Leeds
-482616,Bradley Barcola,Barcola,,,,,,,,,627,Liverpool
+554054,Kaden Braithwaite,Braithwaite,14935,,,,,,,,622,Man City
+616069,Macauley Zepa,Zepa,14999,,,,,,,,626,Fulham
+155465,Michael Zetterer,Zetterer,126,,,,,,,,629,Leeds
+482616,Bradley Barcola,Barcola,10016,,,,,,,,627,Liverpool
 624777,Allan Andrade Elias,Allan,,,,,,,,,628,Man City
-638987,Ibrahim Mbaye,Mbaye,,,,,,,,,631,Aston Villa
-592984,José María Andrés Baixauli,Andrés,,,,,,,,,639,Brighton
-605972,Honest Ahanor,Ahanor,,,,,,,,,633,Crystal Palace
-450063,Quinten Timber,Timber,,,,,,,,,644,Crystal Palace
+638987,Ibrahim Mbaye,Mbaye,12733,,,,,,,,631,Aston Villa
+592984,José María Andrés Baixauli,Andrés,13078,,,,,,,,639,Brighton
+605972,Honest Ahanor,Ahanor,12779,,,,,,,,633,Crystal Palace
+450063,Quinten Timber,Timber,14376,,,,,,,,644,Crystal Palace
 533646,Darío Osorio,Osorio,,,,,,,,,647,Crystal Palace
 154043,Ainsley Maitland-Niles,Maitland-Niles,1750,,,,,,,,649,Everton
-551050,Hugo Larsson,Larsson,,,,,,,,,635,Fulham
-500033,Manuel Ángel Morán Ibáñez,Ángel,,,,,,,,,636,Fulham
-442299,David Affengruber,Affengruber,,,,,,,,,650,Fulham
-626751,Ilyas Ansah,Ansah,,,,,,,,,632,Hull City
-631000,Robinio Vaz,Vaz,,,,,,,,,637,Hull City
-496181,Brooke Norton-Cuffy,Norton-Cuffy,,,,,,,,,638,Hull City
-243951,Sorba Thomas,Thomas,,,,,,,,,642,Hull City
+551050,Hugo Larsson,Larsson,11911,,,,,,,,635,Fulham
+500033,Manuel Ángel Morán Ibáñez,Ángel,14502,,,,,,,,636,Fulham
+442299,David Affengruber,Affengruber,13837,,,,,,,,650,Fulham
+626751,Ilyas Ansah,Ansah,13866,,,,,,,,632,Hull City
+631000,Robinio Vaz,Vaz,13330,,,,,,,,637,Hull City
+496181,Brooke Norton-Cuffy,Norton-Cuffy,13136,,,,,,,,638,Hull City
+243951,Sorba Thomas,Thomas,12843,,,,,,,,642,Hull City
 647839,Christos Mouzakitis,Mouzakitis,,,,,,,,,645,Hull City
-437497,Melvin Bard,Bard,,,,,,,,,641,Leeds
+437497,Melvin Bard,Bard,8190,,,,,,,,641,Leeds
 587982,Jean-Mattéo Bahoya,Bahoya,,,,,,,,,648,Leeds
-613221,Matias Fernandez-Pardo,Fernandez-Pardo,,,,,,,,,634,Newcastle
-549940,Malick Fofana,Fofana,,,,,,,,,646,Sunderland
+613221,Matias Fernandez-Pardo,Fernandez-Pardo,13051,,,,,,,,634,Newcastle
+549940,Malick Fofana,Fofana,12336,,,,,,,,646,Sunderland
 661313,Juan Angulo,J.Angulo,,,,,,,,,651,Sunderland
 471551,Femi Azeez,Azeez,,,,,,,,,652,Brighton
