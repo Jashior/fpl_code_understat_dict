@@ -1010,7 +1010,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 59859,İlkay Gündoğan,Gündoğan,314,Ilkay Gündogan,,,625,Man City,420,Man City,,
 496178,Roman Dixon,Dixon,12946,Roman Dixon,,,627,Everton,297,Everton,,
 195384,Mikel Merino Zazón,Merino,5304,Mikel Merino,,,633,Arsenal,22,Arsenal,17,Arsenal
-626464,Gustavo Nunes Fernandes Gomes,Nunes,13588,Gustavo Nunes,,,634,Brentford,127,Brentford,,
+626464,Gustavo Nunes Fernandes Gomes,Nunes,13588,Gustavo Nunes,,,634,Brentford,127,Brentford,657,Brentford
 231416,Ferdi Kadıoğlu,F.Kadıoğlu,13066,Ferdi Kadioglu,,,628,Brighton,148,Brighton,113,Brighton
 219249,Matt O'Riley,O'Riley,13206,Matt O'Riley,,,629,Brighton,164,Brighton,126,Brighton
 443261,Jack Clarke,Clarke,13019,Jack Clarke,,,631,Ipswich,,,313,Ipswich
@@ -1561,3 +1561,4 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 471551,Femi Azeez,Azeez,,,,,,,,,652,Brighton
 595480,Floyd Samba,Samba,,,,,,,,,653,Man City
 242893,Yann Gboho,Gboho,,,,,,,,,655,Coventry City
+661016,Younes Ibrahim,Ibrahim,,,,,,,,,658,Brighton
