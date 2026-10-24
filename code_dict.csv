@@ -843,7 +843,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 602934,Fletcher Holman,Holman,12551,,,,,,,,,
 445548,Odeluga Offiah,Offiah,10453,Odeluga Offiah,845,Brighton,139,Brighton,,,,
 634640,Christian Chigozie,Chigozie,12557,,,,,,,,,
-499857,Teddy Sharman-Lowe,Sharman-Lowe,12561,,,,,,803,Chelsea,,
+499857,Teddy Sharman-Lowe,Sharman-Lowe,12561,,,,,,803,Chelsea,669,Chelsea
 577974,Harry Amass,Amass,12559,Harry Amass,,,670,Man Utd,445,Man Utd,424,Man Utd
 596572,Michael Dacosta Gonzalez,Dacosta Gonzalez,11302,,,,,,,,,
 550615,Tyrique George,George,12573,Tyrique George,,,696,Chelsea,243,Everton,242,Everton
@@ -1552,7 +1552,7 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 631000,Robinio Vaz,Vaz,13330,,,,,,,,637,Hull City
 496181,Brooke Norton-Cuffy,Norton-Cuffy,13136,,,,,,,,638,Hull City
 243951,Sorba Thomas,Thomas,12843,,,,,,,,642,Hull City
-647839,Christos Mouzakitis,Mouzakitis,,,,,,,,,645,Hull City
+647839,Christos Mouzakitis,Mouzakitis,15047,,,,,,,,645,Hull City
 437497,Melvin Bard,Bard,8190,,,,,,,,641,Leeds
 587982,Jean-Mattéo Bahoya,Bahoya,,,,,,,,,648,Leeds
 613221,Matias Fernandez-Pardo,Fernandez-Pardo,13051,,,,,,,,634,Newcastle
@@ -1562,8 +1562,8 @@ Code,FPL_Name,Web_Name,Understat_ID,Understat_Name,FPL_ID_2023-24,Team_2023-24,F
 595480,Floyd Samba,Samba,15044,,,,,,,,653,Man City
 242893,Yann Gboho,Gboho,,,,,,,,,655,Coventry City
 661016,Younes Ibrahim,Ibrahim,15078,,,,,,,,658,Brighton
-665243,Mason Miley,Miley,,,,,,,,,659,Newcastle
+665243,Mason Miley,Miley,15087,,,,,,,,659,Newcastle
 636846,Mahdi Nicoll-Jazuli,Nicoll-Jazuli,15091,Mahdi Nicoll-Jazuli,,,,,,,662,Chelsea
-601767,Vakhtang Salia,Salia,,,,,,,,,664,Newcastle
-655585,Michael Mills,Mills,,,,,,,,,665,Newcastle
-671875,Kyran Thompson,Thompson,,,,,,,,,666,Newcastle
+601767,Vakhtang Salia,Salia,15093,,,,,,,,664,Newcastle
+655585,Michael Mills,Mills,15096,,,,,,,,665,Newcastle
+671875,Kyran Thompson,Thompson,15095,,,,,,,,666,Newcastle
